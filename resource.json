@@ -220,6 +220,10 @@
                     "src":"https://iwarship.net/wowsdb/static/img/modernization/icon_modernization_PCM031_SecondaryWeapon_Mod_I.png"
                 },
                 {
+                    "name":"侦察机修改型1",
+                    "src":"https://iwarship.net/wowsdb/static/img/modernization/icon_modernization_PCM038_Spotter_Mod_I.png"
+                },
+                {
                     "name":"伤害控制小组修改型1",
                     "src":"https://iwarship.net/wowsdb/static/img/modernization/icon_modernization_PCM039_CrashCrew_Mod_I.png"
                 }
@@ -239,6 +243,10 @@
                 }
             ],
             [
+                {
+                    "name":"火炮描绘室修改型1",
+                    "src":"https://iwarship.net/wowsdb/static/img/modernization/icon_modernization_PCM028_FireControl_Mod_I_US.png"
+                },
                 {
                     "name":"副炮组修改型1",
                     "src":"https://iwarship.net/wowsdb/static/img/modernization/icon_modernization_PCM012_SecondaryGun_Mod_II.png"
@@ -300,6 +308,10 @@
                 {
                     "name":"舰炮火控系统修改型2",
                     "src":"https://iwarship.net/wowsdb/static/img/modernization/icon_modernization_PCM015_FireControl_Mod_II.png"
+                },
+                {
+                    "name":"火炮描绘室修改型2",
+                    "src":"https://iwarship.net/wowsdb/static/img/modernization/icon_modernization_PCM029_FireControl_Mod_II_US.png"
                 }
             ]
         ],
@@ -429,103 +441,451 @@
                     "src":"https://iwarship.net/wowsdb/static/img/modernization/icon_modernization_PCM031_SecondaryWeapon_Mod_I.png"
                 },
                 {
+                    "name":"侦察机修改型1",
+                    "src":"https://iwarship.net/wowsdb/static/img/modernization/icon_modernization_PCM038_Spotter_Mod_I.png"
+                },
+                {
                     "name":"伤害控制小组修改型1",
                     "src":"https://iwarship.net/wowsdb/static/img/modernization/icon_modernization_PCM039_CrashCrew_Mod_I.png"
                 }
             ],
             [
                 {
-                    "name":"",
-                    "src":""
+                    "name":"伤害控制系统修改型1",
+                    "src":"https://iwarship.net/wowsdb/static/img/modernization/icon_modernization_PCM020_DamageControl_Mod_I.png"
                 },
                 {
-                    "name":"",
-                    "src":""
+                    "name":"机舱防护",
+                    "src":"https://iwarship.net/wowsdb/static/img/modernization/icon_modernization_PCM069_Movement_Mod_I.png"
                 },
                 {
-                    "name":"",
-                    "src":""
+                    "name":"对海搜索修改型1",
+                    "src":"https://iwarship.net/wowsdb/static/img/modernization/icon_modernization_PCM041_SonarSearch_Mod_I.png"
                 },
                 {
-                    "name":"",
-                    "src":""
+                    "name":"监视雷达修改型1",
+                    "src":"https://iwarship.net/wowsdb/static/img/modernization/icon_modernization_PCM042_RLSSearch_Mod_I.png"
                 },
                 {
-                    "name":"",
-                    "src":""
+                    "name":"防御型对空火力修改型1",
+                    "src":"https://iwarship.net/wowsdb/static/img/modernization/icon_modernization_PCM040_AirDefenseDisp_Mod_I.png"
                 }
             ],
             [
                 {
-                    "name":"",
-                    "src":""
+                    "name":"副炮组修改型1",
+                    "src":"https://iwarship.net/wowsdb/static/img/modernization/icon_modernization_PCM012_SecondaryGun_Mod_II.png"
                 },
                 {
-                    "name":"",
-                    "src":""
+                    "name":"防空炮修改型1",
+                    "src":"https://iwarship.net/wowsdb/static/img/modernization/icon_modernization_PCM018_AirDefense_Mod_III.png"
                 },
                 {
-                    "name":"",
-                    "src":""
+                    "name":"主炮组修改型2",
+                    "src":"https://iwarship.net/wowsdb/static/img/modernization/icon_modernization_PCM006_MainGun_Mod_II.png"
                 },
                 {
-                    "name":"",
-                    "src":""
-                },
-                {
-                    "name":"",
-                    "src":""
+                    "name":"瞄准系统修改型1",
+                    "src":"https://iwarship.net/wowsdb/static/img/modernization/icon_modernization_PCM033_Guidance_Mod_I.png"
                 }
             ],
             [
                 {
-                    "name":"",
-                    "src":""
+                    "name":"空袭修改型1",
+                    "src":"https://iwarship.net/wowsdb/static/img/modernization/icon_modernization_PCM087_AirSupport_Mod_I.png"
                 },
                 {
-                    "name":"",
-                    "src":""
+                    "name":"推进系统修改型1",
+                    "src":"https://iwarship.net/wowsdb/static/img/modernization/icon_modernization_PCM024_Engine_Mod_II.png"
                 },
                 {
-                    "name":"",
-                    "src":""
+                    "name":"伤害控制系统修改型2",
+                    "src":"https://iwarship.net/wowsdb/static/img/modernization/icon_modernization_PCM023_DamageControl_Mod_II.png"
                 },
                 {
-                    "name":"",
-                    "src":""
+                    "name":"操舵装置修改型1",
+                    "src":"https://iwarship.net/wowsdb/static/img/modernization/icon_modernization_PCM025_SteeringGear_Mod_II.png"
                 }
             ],
             [
                 {
-                    "name":"",
-                    "src":""
+                    "name":"隐蔽系统修改型1",
+                    "src":"https://iwarship.net/wowsdb/static/img/modernization/icon_modernization_PCM027_ConcealmentMeasures_Mod_I.png"
                 },
                 {
-                    "name":"",
-                    "src":""
+                    "name":"战舰消耗品修改型1",
+                    "src":"https://iwarship.net/wowsdb/static/img/modernization/icon_modernization_PCM072_AbilityWorktimeBoost_Mod_I.png"
                 },
                 {
-                    "name":"",
-                    "src":""
+                    "name":"鱼雷监控系统",
+                    "src":"https://iwarship.net/wowsdb/static/img/modernization/icon_modernization_PCM026_LookoutStation_Mod_I.png"
                 },
                 {
-                    "name":"",
-                    "src":""
+                    "name":"操舵装置修改型2",
+                    "src":"https://iwarship.net/wowsdb/static/img/modernization/icon_modernization_PCM035_SteeringGear_Mod_III.png"
                 }
             ],
             [
                 {
-                    "name":"",
-                    "src":""
+                    "name":"主炮组修改型3",
+                    "src":"https://iwarship.net/wowsdb/static/img/modernization/icon_modernization_PCM013_MainGun_Mod_III.png"
                 },
                 {
-                    "name":"",
-                    "src":""
+                    "name":"辅助武器修改型2",
+                    "src":"https://iwarship.net/wowsdb/static/img/modernization/icon_modernization_PCM074_AuxiliaryArmament_Mod_I.png"
                 },
                 {
-                    "name":"",
-                    "src":""
+                    "name":"舰炮火控系统修改型2",
+                    "src":"https://iwarship.net/wowsdb/static/img/modernization/icon_modernization_PCM015_FireControl_Mod_II.png"
+                }
+            ]
+        ],
+        "unique_upgrades":[
+
+        ],
+        "skills":[
+            [
+                {
+                    "name":"齿轮润滑",
+                    "src":"https://iwarship.net/wowsdb/static/img/skill/gm_turn.png"
                 },
+                {
+                    "name":"鱼雷加速",
+                    "src":"https://iwarship.net/wowsdb/static/img/skill/torpedo_speed.png"
+                },
+                {
+                    "name":"消耗品专员",
+                    "src":"https://iwarship.net/wowsdb/static/img/skill/consumables_reload.png"
+                },
+                {
+                    "name":"火炮装填手",
+                    "src":"https://iwarship.net/wowsdb/static/img/skill/gm_shell_reload.png"
+                },
+                {
+                    "name":"敌袭预警",
+                    "src":"https://iwarship.net/wowsdb/static/img/skill/detection_alert.png"
+                },
+                {
+                    "name":"背水一战",
+                    "src":"https://iwarship.net/wowsdb/static/img/skill/maneuverability.png"
+                }
+            ],
+            [
+                {
+                    "name":"破坏专家",
+                    "src":"https://iwarship.net/wowsdb/static/img/skill/he_fire_probability.png"
+                },
+                {
+                    "name":"发射管装填手",
+                    "src":"https://iwarship.net/wowsdb/static/img/skill/torpedo_reload.png"
+                },
+                {
+                    "name":"消耗品强化",
+                    "src":"https://iwarship.net/wowsdb/static/img/skill/consumables_duration.png"
+                },
+                {
+                    "name":"空中之眼",
+                    "src":"https://iwarship.net/wowsdb/static/img/skill/consumables_spotter_upgrade.png"
+                },
+                {
+                    "name":"优先目标",
+                    "src":"https://iwarship.net/wowsdb/static/img/skill/detection_aiming.png"
+                },
+                {
+                    "name":"集火训练",
+                    "src":"https://iwarship.net/wowsdb/static/img/skill/aa_prioritysector_damage_constant.png"
+                }
+            ],
+            [
+                {
+                    "name":"重型高爆弹和半穿甲弹",
+                    "src":"https://iwarship.net/wowsdb/static/img/skill/he_sap_damage.png"
+                },
+                {
+                    "name":"增强型鱼雷炸药",
+                    "src":"https://iwarship.net/wowsdb/static/img/skill/torpedo_damage.png"
+                },
+                {
+                    "name":"肾上腺素飙升",
+                    "src":"https://iwarship.net/wowsdb/static/img/skill/armament_reload_aa_damage.png"
+                },
+                {
+                    "name":"重型穿甲弹",
+                    "src":"https://iwarship.net/wowsdb/static/img/skill/ap_damage_ca.png"
+                },
+                {
+                    "name":"监督者",
+                    "src":"https://iwarship.net/wowsdb/static/img/skill/consumables_additional.png"
+                },
+                {
+                    "name":"生存专家",
+                    "src":"https://iwarship.net/wowsdb/static/img/skill/defense_hp.png"
+                }
+            ],
+            [
+                {
+                    "name":"顶尖炮手",
+                    "src":"https://iwarship.net/wowsdb/static/img/skill/trigger_gm_atba_reload_ca.png"
+                },
+                {
+                    "name":"敌众我寡",
+                    "src":"https://iwarship.net/wowsdb/static/img/skill/trigger_speed_accuracy.png"
+                },
+                {
+                    "name":"无线电定位",
+                    "src":"https://iwarship.net/wowsdb/static/img/skill/detection_direction.png"
+                },
+                {
+                    "name":"高爆弹的惯性引信",
+                    "src":"https://iwarship.net/wowsdb/static/img/skill/he_penetration.png"
+                },
+                {
+                    "name":"隐蔽专家",
+                    "src":"https://iwarship.net/wowsdb/static/img/skill/detection_visibility_range.png"
+                },
+                {
+                    "name":"对空防御和反潜作战专家",
+                    "src":"https://iwarship.net/wowsdb/static/img/skill/aa_damage_constant_bubbles.png"
+                }
+            ]
+        ]
+    },
+    "驱逐舰":{
+        "upgrades":[
+            [
+                {
+                    "name":"主要武器修改型1",
+                    "src":"https://iwarship.net/wowsdb/static/img/modernization/icon_modernization_PCM030_MainWeapon_Mod_I.png"
+                },
+                {
+                    "name":"弹药库修改型1",
+                    "src":"https://iwarship.net/wowsdb/static/img/modernization/icon_modernization_PCM032_PowderMagazine_Mod_I.png"
+                },
+                {
+                    "name":"辅助武器修改型1",
+                    "src":"https://iwarship.net/wowsdb/static/img/modernization/icon_modernization_PCM031_SecondaryWeapon_Mod_I.png"
+                },
+                {
+                    "name":"伤害控制小组修改型1",
+                    "src":"https://iwarship.net/wowsdb/static/img/modernization/icon_modernization_PCM039_CrashCrew_Mod_I.png"
+                }
+            ],
+            [
+                {
+                    "name":"伤害控制系统修改型1",
+                    "src":"https://iwarship.net/wowsdb/static/img/modernization/icon_modernization_PCM020_DamageControl_Mod_I.png"
+                },
+                {
+                    "name":"机舱防护",
+                    "src":"https://iwarship.net/wowsdb/static/img/modernization/icon_modernization_PCM069_Movement_Mod_I.png"
+                },
+                {
+                    "name":"监视雷达修改型1",
+                    "src":"https://iwarship.net/wowsdb/static/img/modernization/icon_modernization_PCM042_RLSSearch_Mod_I.png"
+                },
+                {
+                    "name":"对海搜索修改型1",
+                    "src":"https://iwarship.net/wowsdb/static/img/modernization/icon_modernization_PCM041_SonarSearch_Mod_I.png"
+                },
+                {
+                    "name":"防御型对空火力修改型1",
+                    "src":"https://iwarship.net/wowsdb/static/img/modernization/icon_modernization_PCM040_AirDefenseDisp_Mod_I.png"
+                },
+                {
+                    "name":"引擎增压修改型1",
+                    "src":"https://iwarship.net/wowsdb/static/img/modernization/icon_modernization_PCM036_SpeedBooster_Mod_I.png"
+                }
+            ],
+            [
+                {
+                    "name":"防空炮修改型1",
+                    "src":"https://iwarship.net/wowsdb/static/img/modernization/icon_modernization_PCM018_AirDefense_Mod_III.png"
+                },
+                {
+                    "name":"主炮组修改型2",
+                    "src":"https://iwarship.net/wowsdb/static/img/modernization/icon_modernization_PCM006_MainGun_Mod_II.png"
+                },
+                {
+                    "name":"瞄准系统修改型1",
+                    "src":"https://iwarship.net/wowsdb/static/img/modernization/icon_modernization_PCM033_Guidance_Mod_I.png"
+                },
+                {
+                    "name":"鱼雷发射管修改型1",
+                    "src":"https://iwarship.net/wowsdb/static/img/modernization/icon_modernization_PCM070_Torpedo_Mod_IV.png"
+                },
+                {
+                    "name":"发烟器修改型1",
+                    "src":"https://iwarship.net/wowsdb/static/img/modernization/icon_modernization_PCM037_SmokeGenerator_Mod_I.png"
+                }
+            ],
+            [
+                {
+                    "name":"深水炸弹修改型1",
+                    "src":"https://iwarship.net/wowsdb/static/img/modernization/icon_modernization_PCM089_DepthCharges_Mod_I.png"
+                },
+                {
+                    "name":"推进系统修改型1",
+                    "src":"https://iwarship.net/wowsdb/static/img/modernization/icon_modernization_PCM024_Engine_Mod_II.png"
+                },
+                {
+                    "name":"伤害控制系统修改型2",
+                    "src":"https://iwarship.net/wowsdb/static/img/modernization/icon_modernization_PCM023_DamageControl_Mod_II.png"
+                },
+                {
+                    "name":"操舵装置修改型1",
+                    "src":"https://iwarship.net/wowsdb/static/img/modernization/icon_modernization_PCM025_SteeringGear_Mod_II.png"
+                }
+            ],
+            [
+                {
+                    "name":"隐蔽系统修改型1",
+                    "src":"https://iwarship.net/wowsdb/static/img/modernization/icon_modernization_PCM027_ConcealmentMeasures_Mod_I.png"
+                },
+                {
+                    "name":"战舰消耗品修改型1",
+                    "src":"https://iwarship.net/wowsdb/static/img/modernization/icon_modernization_PCM072_AbilityWorktimeBoost_Mod_I.png"
+                },
+                {
+                    "name":"鱼雷监控系统",
+                    "src":"https://iwarship.net/wowsdb/static/img/modernization/icon_modernization_PCM026_LookoutStation_Mod_I.png"
+                },
+                {
+                    "name":"操舵装置修改型2",
+                    "src":"https://iwarship.net/wowsdb/static/img/modernization/icon_modernization_PCM035_SteeringGear_Mod_III.png"
+                }
+            ],
+            [
+                {
+                    "name":"主炮组修改型3",
+                    "src":"https://iwarship.net/wowsdb/static/img/modernization/icon_modernization_PCM013_MainGun_Mod_III.png"
+                },
+                {
+                    "name":"辅助武器修改型2",
+                    "src":"https://iwarship.net/wowsdb/static/img/modernization/icon_modernization_PCM074_AuxiliaryArmament_Mod_I.png"
+                },
+                {
+                    "name":"鱼雷发射管修改型2",
+                    "src":"https://iwarship.net/wowsdb/static/img/modernization/icon_modernization_PCM014_Torpedo_Mod_III.png"
+                },
+                {
+                    "name":"舰炮火控系统修改型2",
+                    "src":"https://iwarship.net/wowsdb/static/img/modernization/icon_modernization_PCM015_FireControl_Mod_II.png"
+                }
+            ]
+        ],
+        "unique_upgrades":[
+
+        ],
+        "skills":[
+            [
+                {
+                    "name":"齿轮润滑",
+                    "src":"https://iwarship.net/wowsdb/static/img/skill/gm_turn.png"
+                },
+                {
+                    "name":"进水专家",
+                    "src":"https://iwarship.net/wowsdb/static/img/skill/torpedo_flooding_probability.png"
+                },
+                {
+                    "name":"消耗品专员",
+                    "src":"https://iwarship.net/wowsdb/static/img/skill/consumables_reload.png"
+                },
+                {
+                    "name":"火炮装填手",
+                    "src":"https://iwarship.net/wowsdb/static/img/skill/gm_shell_reload.png"
+                },
+                {
+                    "name":"敌袭预警",
+                    "src":"https://iwarship.net/wowsdb/static/img/skill/detection_alert.png"
+                },
+                {
+                    "name":"预防性养护",
+                    "src":"https://iwarship.net/wowsdb/static/img/skill/defense_crit_probability.png"
+                }
+            ],
+            [
+                {
+                    "name":"破坏专家",
+                    "src":"https://iwarship.net/wowsdb/static/img/skill/he_fire_probability.png"
+                },
+                {
+                    "name":"鱼雷加速",
+                    "src":"https://iwarship.net/wowsdb/static/img/skill/torpedo_speed.png"
+                },
+                {
+                    "name":"消耗品强化",
+                    "src":"https://iwarship.net/wowsdb/static/img/skill/consumables_duration.png"
+                },
+                {
+                    "name":"特重型弹药",
+                    "src":"https://iwarship.net/wowsdb/static/img/skill/ap_damage_dd.png"
+                },
+                {
+                    "name":"优先目标",
+                    "src":"https://iwarship.net/wowsdb/static/img/skill/detection_aiming.png"
+                },
+                {
+                    "name":"背水一战",
+                    "src":"https://iwarship.net/wowsdb/static/img/skill/maneuverability.png"
+                }
+            ],
+            [
+                {
+                    "name":"主炮组与防空专员",
+                    "src":"https://iwarship.net/wowsdb/static/img/skill/gm_reload_aa_damage_constant.png"
+                },
+                {
+                    "name":"发射管装填手",
+                    "src":"https://iwarship.net/wowsdb/static/img/skill/torpedo_reload.png"
+                },
+                {
+                    "name":"肾上腺素飙升",
+                    "src":"https://iwarship.net/wowsdb/static/img/skill/armament_reload_aa_damage.png"
+                },
+                {
+                    "name":"高爆弹的惯性引信",
+                    "src":"https://iwarship.net/wowsdb/static/img/skill/he_penetration.png"
+                },
+                {
+                    "name":"监督者",
+                    "src":"https://iwarship.net/wowsdb/static/img/skill/consumables_additional.png"
+                },
+                {
+                    "name":"生存专家",
+                    "src":"https://iwarship.net/wowsdb/static/img/skill/defense_hp.png"
+                }
+            ],
+            [
+                {
+                    "name":"主炮组与防空专家",
+                    "src":"https://iwarship.net/wowsdb/static/img/skill/gm_range_aa_damage_bubbles.png"
+                },
+                {
+                    "name":"默默速行",
+                    "src":"https://iwarship.net/wowsdb/static/img/skill/trigger_speed.png"
+                },
+                {
+                    "name":"无线电定位",
+                    "src":"https://iwarship.net/wowsdb/static/img/skill/detection_direction.png"
+                },
+                {
+                    "name":"无畏斗士",
+                    "src":"https://iwarship.net/wowsdb/static/img/skill/trigger_gm_reload.png"
+                },
+                {
+                    "name":"隐蔽专家",
+                    "src":"https://iwarship.net/wowsdb/static/img/skill/detection_visibility_range.png"
+                },
+                {
+                    "name":"眼花缭乱",
+                    "src":"https://iwarship.net/wowsdb/static/img/skill/trigger_spreading.png"
+                }
+            ]
+        ]
+    },
+    "水下舰种":{
+        "upgrades":[
+            [
                 {
                     "name":"",
                     "src":""

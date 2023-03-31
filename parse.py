@@ -51,9 +51,10 @@ if __name__=="__main__":
         for ship_type in build_list[country]:
             output+="## {}\n".format(ship_type)
             for ship in build_list[country][ship_type]:
-                output+="### {}\n".format(ship["ship"])
-                for build in ship["builds"]:
-                    output+="\n#### {} 来源:{}\n".format(build["name"],build["writer"])
+                output+="### {}\n".format(ship)
+                for build_name in build_list[country][ship_type][ship]:
+                    build=build_list[country][ship_type][ship][build_name]
+                    output+="\n#### {} 来源:{}\n".format(build_name,build["writer"])
                     output+="\n##### 配件\n"
                     output+=parse_upgrades(ship_type, build)
                     output+="\n\n##### 加点\n"
