@@ -1,3 +1,7 @@
+- [x] 根据配置更新页面内容
+- [x] 命令行构建配置
+- [ ] 使用爬虫在线获取对应船只的可选配件列表
+- [ ] 水下舰种的resource
 ## parse.py
 将builds.json中的配置直接格式化写入source/_posts/舰长技能与配件.md中
 ```bash
