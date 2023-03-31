@@ -68,10 +68,10 @@ def calculate_total_points(skills):
     return total_point
     
 if __name__=="__main__":
-    resource_file=json.load(open("resource.json"))
+    resource_file=json.load(open("resource.json",encoding="utf-8"))
     getch = _Getch()
     while True:
-        fp=open("builds.json","r")
+        fp=open("builds.json","r",encoding="utf-8")
         out_file=json.load(fp)
         fp.close()
         # 国家选择
