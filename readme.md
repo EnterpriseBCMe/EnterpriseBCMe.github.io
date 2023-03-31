@@ -11,7 +11,7 @@ python parse.py
 python cli_reader.py                                                  
 选择国家：
 E:英联邦 W:欧洲 F:法国 D:德国 I:意大利 R:日本 H:荷兰 V:泛美 C:泛亚 S:苏联 P:西班牙 M:美国 Y:英国 
-:M
+:m
 选择舰种：
 CV:航空母舰 BB:战列舰 CA:巡洋舰 DD:驱逐舰 SS:水下舰种 
 :cv
