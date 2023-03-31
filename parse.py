@@ -64,6 +64,7 @@ if __name__=="__main__":
                         output+=parse_order(ship_type, build)
                     output+="\n\n##### 说明\n"
                     output+=build["description"]
+                    output+="\n"
     
     with open("source/_posts/舰长技能与配件.md","w",encoding='utf-8') as f:
         f.write(output)
