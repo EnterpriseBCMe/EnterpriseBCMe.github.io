@@ -1,0 +1,6774 @@
+[
+    {
+        "uuid": "00788b86-6df7-4d02-b52c-679d65ef5b61",
+        "index": "PJSB705",
+        "group": "special",
+        "level": 5,
+        "name": "PJSB705_Kongou",
+        "species": "Battleship",
+        "nation": "Japan",
+        "specials": {}
+    },
+    {
+        "uuid": "5eeec1bd-56ba-4854-8aaf-86faf873a419",
+        "index": "PRSS108",
+        "group": "demoWithoutStats",
+        "level": 8,
+        "name": "PRSS108_L20",
+        "species": "Submarine",
+        "nation": "Russia",
+        "specials": {}
+    },
+    {
+        "uuid": "56ddaedf-a57f-4fdb-b35a-483635d0e41e",
+        "index": "PRSB109",
+        "group": "upgradeable",
+        "level": 9,
+        "name": "PRSB109_Sovetsky_Soyuz",
+        "species": "Battleship",
+        "nation": "Russia",
+        "specials": {}
+    },
+    {
+        "uuid": "0ef8ee72-1e9e-4217-b2d4-146f3fd4851b",
+        "index": "PBSB104",
+        "group": "upgradeable",
+        "level": 4,
+        "name": "PBSB104_Orion",
+        "species": "Battleship",
+        "nation": "United_Kingdom",
+        "specials": {}
+    },
+    {
+        "uuid": "cf1d3162-c254-4dc7-be56-212eecb0a160",
+        "index": "PASB210",
+        "group": "upgradeable",
+        "level": 10,
+        "name": "PASB210_Louisiana",
+        "species": "Battleship",
+        "nation": "USA",
+        "specials": {}
+    },
+    {
+        "uuid": "c7ec04b1-7c0e-4595-9f82-1c163ba07791",
+        "index": "PJSB510",
+        "group": "ultimate",
+        "level": 10,
+        "name": "PJSB510_Shikishima",
+        "species": "Battleship",
+        "nation": "Japan",
+        "specials": {}
+    },
+    {
+        "uuid": "2d145ca9-2b4a-4755-8297-3866c2b02453",
+        "index": "PJSB878",
+        "group": "special",
+        "level": 8,
+        "name": "PJSB878_Ignis_Purgatio",
+        "species": "Battleship",
+        "nation": "Japan",
+        "specials": {}
+    },
+    {
+        "uuid": "3615b230-049f-4449-a320-87e6670b07a6",
+        "index": "PGSC506",
+        "group": "special",
+        "level": 6,
+        "name": "PGSC506_Admiral_Graf_Spee",
+        "species": "Cruiser",
+        "nation": "Germany",
+        "specials": {}
+    },
+    {
+        "uuid": "1269cba7-b4ca-4418-861b-1f31f1f55ee0",
+        "index": "PISD107",
+        "group": "upgradeable",
+        "level": 7,
+        "name": "PISD107_Luca_Tarigo",
+        "species": "Destroyer",
+        "nation": "Italy",
+        "specials": {}
+    },
+    {
+        "uuid": "139e2844-fb57-469c-ab68-209e5f5f4156",
+        "index": "PFSB105",
+        "group": "upgradeable",
+        "level": 5,
+        "name": "PFSB105_Bretagne",
+        "species": "Battleship",
+        "nation": "France",
+        "specials": {}
+    },
+    {
+        "uuid": "8a3342c5-ca4d-4c66-9c30-d58ac488fac3",
+        "index": "PGSD104",
+        "group": "upgradeable",
+        "level": 4,
+        "name": "PGSD104_V_170",
+        "species": "Destroyer",
+        "nation": "Germany",
+        "specials": {}
+    },
+    {
+        "uuid": "c6952b9d-364a-4ea7-a04b-2a4c793eab3e",
+        "index": "PZSB529",
+        "group": "special",
+        "level": 9,
+        "name": "PZSB529_Sun_Yat_Sen",
+        "species": "Battleship",
+        "nation": "Pan_Asia",
+        "specials": {}
+    },
+    {
+        "uuid": "eddc3af2-f0ad-45cf-8368-e567af447800",
+        "index": "PJSS518",
+        "group": "special",
+        "level": 8,
+        "name": "PJSS518_I56",
+        "species": "Submarine",
+        "nation": "Japan",
+        "specials": {}
+    },
+    {
+        "uuid": "4da869cb-7e7c-4c89-9681-95aca7a5b94b",
+        "index": "PGSC106",
+        "group": "upgradeable",
+        "level": 6,
+        "name": "PGSC106_Nurnberg",
+        "species": "Cruiser",
+        "nation": "Germany",
+        "specials": {}
+    },
+    {
+        "uuid": "63781b2c-d8a5-44e5-a65d-d9106ae83ce9",
+        "index": "PBSD103",
+        "group": "upgradeable",
+        "level": 3,
+        "name": "PBSD103_Valkyrie",
+        "species": "Destroyer",
+        "nation": "United_Kingdom",
+        "specials": {}
+    },
+    {
+        "uuid": "ea0bd7bd-425a-41f7-94c8-4a935438796a",
+        "index": "PJSC517",
+        "group": "special",
+        "level": 7,
+        "name": "PJSC517_Maya",
+        "species": "Cruiser",
+        "nation": "Japan",
+        "specials": {}
+    },
+    {
+        "uuid": "bc721572-586c-4ee1-b97d-92d420a33991",
+        "index": "PISD110",
+        "group": "upgradeable",
+        "level": 10,
+        "name": "PISD110_Attilio_Regolo",
+        "species": "Destroyer",
+        "nation": "Italy",
+        "specials": {}
+    },
+    {
+        "uuid": "f7d9fd18-c509-4699-abea-d48dc150a52f",
+        "index": "PJSB006",
+        "group": "upgradeable",
+        "level": 6,
+        "name": "PJSB006_Fuso_1943",
+        "species": "Battleship",
+        "nation": "Japan",
+        "specials": {}
+    },
+    {
+        "uuid": "16c59715-9577-4423-af01-f1c91c44aa99",
+        "index": "PBSD506",
+        "group": "special",
+        "level": 6,
+        "name": "PBSD506_Gallant",
+        "species": "Destroyer",
+        "nation": "United_Kingdom",
+        "specials": {}
+    },
+    {
+        "uuid": "6b7254b5-85b2-4ff6-ae31-6a65c86b8c09",
+        "index": "PHSC110",
+        "group": "upgradeable",
+        "level": 10,
+        "name": "PHSC110_Gouden_Leeuw",
+        "species": "Cruiser",
+        "nation": "Netherlands",
+        "specials": {}
+    },
+    {
+        "uuid": "6708188b-54f8-4811-b4a4-d0786e2b09f8",
+        "index": "PGSD103",
+        "group": "upgradeable",
+        "level": 3,
+        "name": "PGSD103_G_101",
+        "species": "Destroyer",
+        "nation": "Germany",
+        "specials": {}
+    },
+    {
+        "uuid": "cb3731fa-3f3b-4462-911d-02f2d219c82a",
+        "index": "PGSD105",
+        "group": "upgradeable",
+        "level": 5,
+        "name": "PGSD105_T_22",
+        "species": "Destroyer",
+        "nation": "Germany",
+        "specials": {}
+    },
+    {
+        "uuid": "9b4ea847-3557-46c3-adb0-0d4088665261",
+        "index": "PRSC106",
+        "group": "upgradeable",
+        "level": 6,
+        "name": "PRSC106_Pr_94_Budeny",
+        "species": "Cruiser",
+        "nation": "Russia",
+        "specials": {}
+    },
+    {
+        "uuid": "9063f6b5-4d80-4804-8fa3-d1d3a504ab03",
+        "index": "PJSC207",
+        "group": "upgradeable",
+        "level": 7,
+        "name": "PJSC207_Omono",
+        "species": "Cruiser",
+        "nation": "Japan",
+        "specials": {}
+    },
+    {
+        "uuid": "cc57e58b-12d8-46c7-b6c1-b601997393fa",
+        "index": "PGSB598",
+        "group": "special",
+        "level": 8,
+        "name": "PGSB598_Black_Tirpitz",
+        "species": "Battleship",
+        "nation": "Germany",
+        "specials": {}
+    },
+    {
+        "uuid": "a99159cd-f693-40b2-93ec-dbcc7fdfe4cf",
+        "index": "PASA518",
+        "group": "special",
+        "level": 8,
+        "name": "PASA518_Enterprise",
+        "species": "AirCarrier",
+        "nation": "USA",
+        "specials": {}
+    },
+    {
+        "uuid": "b2672ebc-5cd0-44d2-96ac-3ca4049189ca",
+        "index": "PHSC990",
+        "group": "demoWithoutStats",
+        "level": 10,
+        "name": "PHSC990_Vrijheid",
+        "species": "Cruiser",
+        "nation": "Netherlands",
+        "specials": {}
+    },
+    {
+        "uuid": "8c7e04c2-866f-4b70-95eb-eceb81f53490",
+        "index": "PFSC516",
+        "group": "special",
+        "level": 6,
+        "name": "PFSC516_Dupleix",
+        "species": "Cruiser",
+        "nation": "France",
+        "specials": {}
+    },
+    {
+        "uuid": "6a7e51f8-aaff-4f5f-8243-5ed35e8771dc",
+        "index": "PJSC210",
+        "group": "upgradeable",
+        "level": 10,
+        "name": "PJSC210_Yodo",
+        "species": "Cruiser",
+        "nation": "Japan",
+        "specials": {}
+    },
+    {
+        "uuid": "2a7b231d-1d35-41d1-a231-d853ae806c3b",
+        "index": "PZSD110",
+        "group": "upgradeable",
+        "level": 10,
+        "name": "PZSD110_Hsiang_Yang",
+        "species": "Destroyer",
+        "nation": "Pan_Asia",
+        "specials": {}
+    },
+    {
+        "uuid": "ad9f2fdc-a2a6-4486-a67e-555f16009d9d",
+        "index": "PJSD206",
+        "group": "upgradeable",
+        "level": 6,
+        "name": "PJSD206_Hatsuharu",
+        "species": "Destroyer",
+        "nation": "Japan",
+        "specials": {}
+    },
+    {
+        "uuid": "95c64210-cade-4940-8e66-d91a9a169d66",
+        "index": "PRSC508",
+        "group": "special",
+        "level": 8,
+        "name": "PRSC508_Kutuzov_1952",
+        "species": "Cruiser",
+        "nation": "Russia",
+        "specials": {}
+    },
+    {
+        "uuid": "c0d2582f-eb37-4d03-85c0-9ae82589ae30",
+        "index": "PISD104",
+        "group": "upgradeable",
+        "level": 4,
+        "name": "PISD104_Turbine",
+        "species": "Destroyer",
+        "nation": "Italy",
+        "specials": {}
+    },
+    {
+        "uuid": "f48daf58-6171-4bbe-b3b9-11974806d080",
+        "index": "PGSC110",
+        "group": "upgradeable",
+        "level": 10,
+        "name": "PGSC110_Hindenburg",
+        "species": "Cruiser",
+        "nation": "Germany",
+        "specials": {}
+    },
+    {
+        "uuid": "ff8489d1-2fcd-4cce-8c6f-3a5a39df92e9",
+        "index": "PJSC705",
+        "group": "special",
+        "level": 7,
+        "name": "PJSC705_Myoko",
+        "species": "Cruiser",
+        "nation": "Japan",
+        "specials": {}
+    },
+    {
+        "uuid": "c7afe1ac-6b88-4393-a815-2ddbcc540036",
+        "index": "PRSB107",
+        "group": "upgradeable",
+        "level": 7,
+        "name": "PRSB107_Sinop",
+        "species": "Battleship",
+        "nation": "Russia",
+        "specials": {}
+    },
+    {
+        "uuid": "d8d9dde1-b8d6-479a-ac44-e88ac64a6656",
+        "index": "PASB018",
+        "group": "upgradeable",
+        "level": 9,
+        "name": "PASB018_Iowa_1944",
+        "species": "Battleship",
+        "nation": "USA",
+        "specials": {}
+    },
+    {
+        "uuid": "de01c182-3b6e-4f32-ae99-65a0a90d1d84",
+        "index": "PRSC111",
+        "group": "demoWithoutStats",
+        "level": 11,
+        "name": "PRSC111_Novosibirsk",
+        "species": "Cruiser",
+        "nation": "Russia",
+        "specials": {}
+    },
+    {
+        "uuid": "9da4a731-06f7-4c2f-bdfa-fe2da6a5499a",
+        "index": "PBSC101",
+        "group": "start",
+        "level": 1,
+        "name": "PBSC101_Black_Swan",
+        "species": "Cruiser",
+        "nation": "United_Kingdom",
+        "specials": {}
+    },
+    {
+        "uuid": "007d0714-a2c8-4f14-a9c6-3fc9aac8202e",
+        "index": "PRSC506",
+        "group": "special",
+        "level": 6,
+        "name": "PRSC506_Molotov_1943",
+        "species": "Cruiser",
+        "nation": "Russia",
+        "specials": {}
+    },
+    {
+        "uuid": "8d568b8c-3417-43c4-a7f3-758873e50a55",
+        "index": "PZSC101",
+        "group": "start",
+        "level": 1,
+        "name": "PZSC101_Cheng_An",
+        "species": "Cruiser",
+        "nation": "Pan_Asia",
+        "specials": {}
+    },
+    {
+        "uuid": "57abe065-1369-4220-9bee-26cc774b6110",
+        "index": "PRSC102",
+        "group": "upgradeable",
+        "level": 2,
+        "name": "PRSC102_Novik",
+        "species": "Cruiser",
+        "nation": "Russia",
+        "specials": {}
+    },
+    {
+        "uuid": "6816626d-4ae8-488e-a660-183014474410",
+        "index": "PISD509",
+        "group": "specialUnsellable",
+        "level": 9,
+        "name": "PISD509_Paolo_Emilio",
+        "species": "Destroyer",
+        "nation": "Italy",
+        "specials": {}
+    },
+    {
+        "uuid": "9f995353-5f4c-4163-aadd-4c434167fa54",
+        "index": "PRSD103",
+        "group": "upgradeable",
+        "level": 3,
+        "name": "PRSD103_Derzky",
+        "species": "Destroyer",
+        "nation": "Russia",
+        "specials": {}
+    },
+    {
+        "uuid": "52a7deed-34ba-4e91-929e-8dc0f20c8dcb",
+        "index": "PWSD209",
+        "group": "demoWithoutStats",
+        "level": 9,
+        "name": "PWSD209_Lambros_Katsonis",
+        "species": "Destroyer",
+        "nation": "Europe",
+        "specials": {}
+    },
+    {
+        "uuid": "c739d7dc-29d8-41f1-a843-5b56b7b9f114",
+        "index": "PASC707",
+        "group": "specialUnsellable",
+        "level": 7,
+        "name": "PASC707_Flint",
+        "species": "Cruiser",
+        "nation": "USA",
+        "specials": {}
+    },
+    {
+        "uuid": "f47ce454-87d1-42c6-80ad-956bfaf7c33e",
+        "index": "PJSD210",
+        "group": "upgradeable",
+        "level": 10,
+        "name": "PJSD210_Harugumo",
+        "species": "Destroyer",
+        "nation": "Japan",
+        "specials": {}
+    },
+    {
+        "uuid": "5a253054-e1cf-4718-982c-c1c6b62d648c",
+        "index": "PASA108",
+        "group": "upgradeable",
+        "level": 8,
+        "name": "PASA108_Lexington",
+        "species": "AirCarrier",
+        "nation": "USA",
+        "specials": {}
+    },
+    {
+        "uuid": "80db326c-9fea-4833-ac06-db9f8e209cbe",
+        "index": "PRSD507",
+        "group": "special",
+        "level": 7,
+        "name": "PRSD507_Leningrad_1944",
+        "species": "Destroyer",
+        "nation": "Russia",
+        "specials": {}
+    },
+    {
+        "uuid": "b2170d54-5742-47b5-a34c-58bd086add7f",
+        "index": "PFSD105",
+        "group": "upgradeable",
+        "level": 5,
+        "name": "PFSD105_Jaguar",
+        "species": "Destroyer",
+        "nation": "France",
+        "specials": {}
+    },
+    {
+        "uuid": "50d8f93c-b3c5-407c-b660-7edc9c27e669",
+        "index": "PRSC528",
+        "group": "special",
+        "level": 8,
+        "name": "PRSC528_Ochakov",
+        "species": "Cruiser",
+        "nation": "Russia",
+        "specials": {}
+    },
+    {
+        "uuid": "36b3ed65-1a0a-4c5d-a16c-ae969988be64",
+        "index": "PGSD109",
+        "group": "upgradeable",
+        "level": 9,
+        "name": "PGSD109_Z_46",
+        "species": "Destroyer",
+        "nation": "Germany",
+        "specials": {}
+    },
+    {
+        "uuid": "9423c83f-4fa5-4f65-bcf6-5fb324813f9c",
+        "index": "PJSC708",
+        "group": "special",
+        "level": 8,
+        "name": "PJSC708_ARP_Takao",
+        "species": "Cruiser",
+        "nation": "Japan",
+        "specials": {}
+    },
+    {
+        "uuid": "e8f38f00-52f5-4d22-8d8a-55f6b4f29422",
+        "index": "PASC597",
+        "group": "special",
+        "level": 7,
+        "name": "PASC597_Nueve_de_Julio_1951",
+        "species": "Cruiser",
+        "nation": "USA",
+        "specials": {}
+    },
+    {
+        "uuid": "c73ce81d-3495-44ce-b375-fd4be333bd71",
+        "index": "PGSD990",
+        "group": "demoWithoutStats",
+        "level": 10,
+        "name": "PGSD990_Lubeck",
+        "species": "Destroyer",
+        "nation": "Germany",
+        "specials": {}
+    },
+    {
+        "uuid": "324da335-ac75-472b-9ff7-7c5d8f7f80e2",
+        "index": "PISB107",
+        "group": "upgradeable",
+        "level": 7,
+        "name": "PISB107_Francesco_Caracciolo",
+        "species": "Battleship",
+        "nation": "Italy",
+        "specials": {}
+    },
+    {
+        "uuid": "10886248-11de-43fe-b72d-e402e1166d17",
+        "index": "PFSC107",
+        "group": "upgradeable",
+        "level": 7,
+        "name": "PFSC107_Algerie",
+        "species": "Cruiser",
+        "nation": "France",
+        "specials": {}
+    },
+    {
+        "uuid": "dc9c89ed-6e44-4038-bb6e-2c8822875797",
+        "index": "PHSC107",
+        "group": "upgradeable",
+        "level": 7,
+        "name": "PHSC107_Eendracht",
+        "species": "Cruiser",
+        "nation": "Netherlands",
+        "specials": {}
+    },
+    {
+        "uuid": "eef1e6f5-3c34-4a68-8119-db72e88ea129",
+        "index": "PBSD598",
+        "group": "special",
+        "level": 8,
+        "name": "PBSD598_Black_Cossack",
+        "species": "Destroyer",
+        "nation": "United_Kingdom",
+        "specials": {}
+    },
+    {
+        "uuid": "9f5e6ce4-7c25-45a1-bd54-9f16e767c448",
+        "index": "PBSC110",
+        "group": "upgradeable",
+        "level": 10,
+        "name": "PBSC110_Minotaur",
+        "species": "Cruiser",
+        "nation": "United_Kingdom",
+        "specials": {}
+    },
+    {
+        "uuid": "e93242c8-6782-418d-895b-a9d9c8abe78b",
+        "index": "PZSA508",
+        "group": "special",
+        "level": 8,
+        "name": "PZSA508_Saipan_Sanzang",
+        "species": "AirCarrier",
+        "nation": "Pan_Asia",
+        "specials": {}
+    },
+    {
+        "uuid": "3698f6bf-cd5e-4aca-95d8-4160533bfb82",
+        "index": "PASC208",
+        "group": "upgradeable",
+        "level": 8,
+        "name": "PASC208_Cleveland",
+        "species": "Cruiser",
+        "nation": "USA",
+        "specials": {}
+    },
+    {
+        "uuid": "fda38fc3-c8d4-4ba8-9bf7-30131cb990cc",
+        "index": "PRSC215",
+        "group": "upgradeable",
+        "level": 5,
+        "name": "PRSC215_Kotovsky",
+        "species": "Cruiser",
+        "nation": "Russia",
+        "specials": {}
+    },
+    {
+        "uuid": "6085c31d-2c2a-48f4-9d32-a0ba19260e02",
+        "index": "PASC508",
+        "group": "special",
+        "level": 8,
+        "name": "PASC508_Wichita",
+        "species": "Cruiser",
+        "nation": "USA",
+        "specials": {}
+    },
+    {
+        "uuid": "1f723168-9cdb-4241-b8c7-cd0584d2a4ad",
+        "index": "PRSD107",
+        "group": "upgradeable",
+        "level": 9,
+        "name": "PRSD107_Pr_35_Udaloy",
+        "species": "Destroyer",
+        "nation": "Russia",
+        "specials": {}
+    },
+    {
+        "uuid": "6efc7134-4e11-4a17-a103-40f154cd00bb",
+        "index": "PBSB103",
+        "group": "upgradeable",
+        "level": 3,
+        "name": "PBSB103_Bellerophon",
+        "species": "Battleship",
+        "nation": "United_Kingdom",
+        "specials": {}
+    },
+    {
+        "uuid": "621c1088-f8f2-4dc2-ab4b-360a95c8f7ff",
+        "index": "PRSC503",
+        "group": "special",
+        "level": 3,
+        "name": "PRSC503_Oleg",
+        "species": "Cruiser",
+        "nation": "Russia",
+        "specials": {}
+    },
+    {
+        "uuid": "828435dc-6bb5-41da-8662-4cfcb9f95d77",
+        "index": "PRSC003",
+        "group": "special",
+        "level": 5,
+        "name": "PRSC003_Murmansk_1944",
+        "species": "Cruiser",
+        "nation": "Russia",
+        "specials": {}
+    },
+    {
+        "uuid": "655936da-1d37-4b1d-8ce7-f526c5094375",
+        "index": "PGSC109",
+        "group": "upgradeable",
+        "level": 9,
+        "name": "PGSC109_Roon",
+        "species": "Cruiser",
+        "nation": "Germany",
+        "specials": {}
+    },
+    {
+        "uuid": "f2421a5a-59d7-4d81-9e91-58677aeb40ac",
+        "index": "PRSD205",
+        "group": "upgradeable",
+        "level": 5,
+        "name": "PRSD205_Podvoisky_pr_1929",
+        "species": "Destroyer",
+        "nation": "Russia",
+        "specials": {}
+    },
+    {
+        "uuid": "380d6947-64e2-4915-969f-b705aa9904ed",
+        "index": "PBSB203",
+        "group": "upgradeable",
+        "level": 3,
+        "name": "PBSB203_Indefatigable",
+        "species": "Battleship",
+        "nation": "United_Kingdom",
+        "specials": {}
+    },
+    {
+        "uuid": "75fc56a0-6283-4174-b010-d94fa9636345",
+        "index": "PJSC718",
+        "group": "special",
+        "level": 8,
+        "name": "PJSC718_ARP_Maya",
+        "species": "Cruiser",
+        "nation": "Japan",
+        "specials": {}
+    },
+    {
+        "uuid": "53adcc7a-6dec-4c21-9163-414d2eccdd95",
+        "index": "PASB209",
+        "group": "upgradeable",
+        "level": 9,
+        "name": "PASB209_Delaware",
+        "species": "Battleship",
+        "nation": "USA",
+        "specials": {}
+    },
+    {
+        "uuid": "77a3c765-2cdf-426e-89a5-c63b07a6b0e0",
+        "index": "PBSA106",
+        "group": "upgradeable",
+        "level": 6,
+        "name": "PBSA106_Furious",
+        "species": "AirCarrier",
+        "nation": "United_Kingdom",
+        "specials": {}
+    },
+    {
+        "uuid": "0e00c68b-7cc9-4cab-ac7c-4a0539822b4a",
+        "index": "PASC710",
+        "group": "ultimate",
+        "level": 10,
+        "name": "PASC710_Salem",
+        "species": "Cruiser",
+        "nation": "USA",
+        "specials": {}
+    },
+    {
+        "uuid": "dda53ac0-c290-4f76-8d59-12c236a55a3a",
+        "index": "PGSB506",
+        "group": "special",
+        "level": 6,
+        "name": "PGSB506_Prinz_Eithel_Friedrich",
+        "species": "Battleship",
+        "nation": "Germany",
+        "specials": {}
+    },
+    {
+        "uuid": "0c8ad5aa-334c-49e8-b268-23a3d429d533",
+        "index": "PRSA508",
+        "group": "special",
+        "level": 8,
+        "name": "PRSA508_Chkalov",
+        "species": "AirCarrier",
+        "nation": "Russia",
+        "specials": {}
+    },
+    {
+        "uuid": "6540b802-f197-442d-991a-ff3a68d09b20",
+        "index": "PBSD110",
+        "group": "upgradeable",
+        "level": 10,
+        "name": "PBSD110_Daring",
+        "species": "Destroyer",
+        "nation": "United_Kingdom",
+        "specials": {}
+    },
+    {
+        "uuid": "67f815fb-82fc-4607-a8fa-a1f886e69c18",
+        "index": "PWSD102",
+        "group": "upgradeable",
+        "level": 2,
+        "name": "PWSD102_Tatra",
+        "species": "Destroyer",
+        "nation": "Europe",
+        "specials": {}
+    },
+    {
+        "uuid": "56df68b8-bee5-42fe-8fb5-36acb24301ce",
+        "index": "PASD029",
+        "group": "special",
+        "level": 7,
+        "name": "PASD029_Sims_1941",
+        "species": "Destroyer",
+        "nation": "USA",
+        "specials": {}
+    },
+    {
+        "uuid": "bf57145c-7fdf-47c2-9027-cf9b774367cc",
+        "index": "PFSD506",
+        "group": "special",
+        "level": 6,
+        "name": "PFSD506_Aigle",
+        "species": "Destroyer",
+        "nation": "France",
+        "specials": {}
+    },
+    {
+        "uuid": "ee0974ad-28e7-43e3-8f69-04e4bcd0e6f6",
+        "index": "PBSB547",
+        "group": "special",
+        "level": 7,
+        "name": "PBSB547_Renown_1944",
+        "species": "Battleship",
+        "nation": "United_Kingdom",
+        "specials": {}
+    },
+    {
+        "uuid": "da106fd1-0008-42ac-add1-567e1d092546",
+        "index": "PJSB519",
+        "group": "special",
+        "level": 9,
+        "name": "PJSB519_Hizen",
+        "species": "Battleship",
+        "nation": "Japan",
+        "specials": {}
+    },
+    {
+        "uuid": "771d26ae-b00e-4573-b9e0-5c6d0e71d209",
+        "index": "PASB108",
+        "group": "upgradeable",
+        "level": 8,
+        "name": "PASB108_Kansas",
+        "species": "Battleship",
+        "nation": "USA",
+        "specials": {}
+    },
+    {
+        "uuid": "790c1c9c-7fab-4914-a173-40ea1d3c2cc1",
+        "index": "PJSC013",
+        "group": "upgradeable",
+        "level": 4,
+        "name": "PJSC013_Kuma_1938",
+        "species": "Cruiser",
+        "nation": "Japan",
+        "specials": {}
+    },
+    {
+        "uuid": "fdd2e005-9ae0-4e3d-80a6-26fd9de1803e",
+        "index": "PGSB507",
+        "group": "special",
+        "level": 7,
+        "name": "PGSB507_Scharnhorst",
+        "species": "Battleship",
+        "nation": "Germany",
+        "specials": {}
+    },
+    {
+        "uuid": "03a5bb39-da4f-46d4-9d70-aac834dc0778",
+        "index": "PFSB507",
+        "group": "special",
+        "level": 7,
+        "name": "PFSB507_Strasbourg",
+        "species": "Battleship",
+        "nation": "France",
+        "specials": {}
+    },
+    {
+        "uuid": "18fa3a4a-9e53-43c9-92f9-73f286229e6b",
+        "index": "PWSD510",
+        "group": "specialUnsellable",
+        "level": 9,
+        "name": "PWSD510_Friesland",
+        "species": "Destroyer",
+        "nation": "Europe",
+        "specials": {}
+    },
+    {
+        "uuid": "617ccad7-6f2e-4aaa-bff5-b8d5a60828ad",
+        "index": "PFSB538",
+        "group": "special",
+        "level": 8,
+        "name": "PFSB538_Flandre",
+        "species": "Battleship",
+        "nation": "France",
+        "specials": {}
+    },
+    {
+        "uuid": "2587307a-c539-403d-bc51-62043bca39e6",
+        "index": "PFSC508",
+        "group": "special",
+        "level": 8,
+        "name": "PFSC508_Bayard",
+        "species": "Cruiser",
+        "nation": "France",
+        "specials": {}
+    },
+    {
+        "uuid": "4b041868-fb1d-4e63-93c1-b8aea0330b56",
+        "index": "PASB110",
+        "group": "upgradeable",
+        "level": 10,
+        "name": "PASB110_Vermont",
+        "species": "Battleship",
+        "nation": "USA",
+        "specials": {}
+    },
+    {
+        "uuid": "795d8f8e-05eb-483e-b7df-80a718ca77bb",
+        "index": "PBSB537",
+        "group": "special",
+        "level": 7,
+        "name": "PBSB537_Collingwood",
+        "species": "Battleship",
+        "nation": "United_Kingdom",
+        "specials": {}
+    },
+    {
+        "uuid": "ccdc6d9a-2126-4669-8939-89a30318fecd",
+        "index": "PISC105",
+        "group": "upgradeable",
+        "level": 5,
+        "name": "PISC105_Raimondo_Montecuccoli",
+        "species": "Cruiser",
+        "nation": "Italy",
+        "specials": {}
+    },
+    {
+        "uuid": "4a6f48c7-e331-4fbe-b8ed-1f19e09237aa",
+        "index": "PASD506",
+        "group": "special",
+        "level": 6,
+        "name": "PASD506_Monaghan",
+        "species": "Destroyer",
+        "nation": "USA",
+        "specials": {}
+    },
+    {
+        "uuid": "d81bf0a2-8b03-40b6-9090-233e35caeebc",
+        "index": "PFSB110",
+        "group": "upgradeable",
+        "level": 10,
+        "name": "PFSB110_France",
+        "species": "Battleship",
+        "nation": "France",
+        "specials": {}
+    },
+    {
+        "uuid": "bfba5375-cc5a-46d7-94c1-c969884a8d03",
+        "index": "PASD505",
+        "group": "special",
+        "level": 5,
+        "name": "PASD505_Hill",
+        "species": "Destroyer",
+        "nation": "USA",
+        "specials": {}
+    },
+    {
+        "uuid": "cb8090af-0516-4849-803b-4247c67e9ce5",
+        "index": "PWSD519",
+        "group": "demoWithoutStatsPrem",
+        "level": 9,
+        "name": "PWSD519_Jager",
+        "species": "Destroyer",
+        "nation": "Europe",
+        "specials": {}
+    },
+    {
+        "uuid": "4d52bdcf-a764-4ba1-a206-d92351d71563",
+        "index": "PUSC509",
+        "group": "special",
+        "level": 9,
+        "name": "PUSC509_Hector",
+        "species": "Cruiser",
+        "nation": "Commonwealth",
+        "specials": {}
+    },
+    {
+        "uuid": "2af592a0-093f-42de-b9ac-5a74ef15f041",
+        "index": "PJSC004",
+        "group": "special",
+        "level": 4,
+        "name": "PJSC004_Yubari_1944",
+        "species": "Cruiser",
+        "nation": "Japan",
+        "specials": {}
+    },
+    {
+        "uuid": "8109f637-6896-464a-8d6e-b04f81df1901",
+        "index": "PBSB111",
+        "group": "demoWithoutStats",
+        "level": 11,
+        "name": "PBSB111_Devastation",
+        "species": "Battleship",
+        "nation": "United_Kingdom",
+        "specials": {}
+    },
+    {
+        "uuid": "8f9b433d-7846-442e-b556-5bd1e87f47b3",
+        "index": "PBSD107",
+        "group": "upgradeable",
+        "level": 7,
+        "name": "PBSD107_Jervis",
+        "species": "Destroyer",
+        "nation": "United_Kingdom",
+        "specials": {}
+    },
+    {
+        "uuid": "04de9a78-aedf-4c60-8464-abd47e25f12d",
+        "index": "PRSS508",
+        "group": "special",
+        "level": 8,
+        "name": "PRSS508_S_189",
+        "species": "Submarine",
+        "nation": "Russia",
+        "specials": {}
+    },
+    {
+        "uuid": "6ef84297-75ac-45f8-b03a-5ae6b85181b1",
+        "index": "PBSC528",
+        "group": "special",
+        "level": 8,
+        "name": "PBSC528_Belfast_1943",
+        "species": "Cruiser",
+        "nation": "United_Kingdom",
+        "specials": {}
+    },
+    {
+        "uuid": "5c83742d-f911-49e1-bcdb-44f10ea9ed20",
+        "index": "PJSD208",
+        "group": "upgradeable",
+        "level": 8,
+        "name": "PJSD208_Kagero",
+        "species": "Destroyer",
+        "nation": "Japan",
+        "specials": {}
+    },
+    {
+        "uuid": "0b137ec4-f895-4f43-889b-41a6d3a22d15",
+        "index": "PGSB205",
+        "group": "upgradeable",
+        "level": 5,
+        "name": "PGSB205_Derfflinger",
+        "species": "Battleship",
+        "nation": "Germany",
+        "specials": {}
+    },
+    {
+        "uuid": "6fa4746f-710e-4d3c-af66-bc59c7d90bd4",
+        "index": "PFSA506",
+        "group": "special",
+        "level": 6,
+        "name": "PFSA506_Bearn",
+        "species": "AirCarrier",
+        "nation": "France",
+        "specials": {}
+    },
+    {
+        "uuid": "ac1f4215-a792-4702-841d-13464b0d156a",
+        "index": "PISC103",
+        "group": "upgradeable",
+        "level": 3,
+        "name": "PISC103_Taranto",
+        "species": "Cruiser",
+        "nation": "Italy",
+        "specials": {}
+    },
+    {
+        "uuid": "eb932b63-f30c-4b17-8e7c-78e9794f30ec",
+        "index": "PVSC102",
+        "group": "earlyAccess",
+        "level": 2,
+        "name": "PVSC102_Almirante_Barroso",
+        "species": "Cruiser",
+        "nation": "Pan_America",
+        "specials": {}
+    },
+    {
+        "uuid": "bbef3ac4-3269-4cdb-afde-39926420df9e",
+        "index": "PJSD111",
+        "group": "superShip",
+        "level": 11,
+        "name": "PJSD111_Yamagiri",
+        "species": "Destroyer",
+        "nation": "Japan",
+        "specials": {
+            "burstMode": "连续射击3轮，每轮间隔1秒，装填30秒。"
+        }
+    },
+    {
+        "uuid": "a41c1950-3092-4e58-9b0d-7bf4c17d025b",
+        "index": "PBSD108",
+        "group": "upgradeable",
+        "level": 8,
+        "name": "PBSD108_Lightning",
+        "species": "Destroyer",
+        "nation": "United_Kingdom",
+        "specials": {}
+    },
+    {
+        "uuid": "138c9f1d-bf02-4917-b0d3-8a7fb97c0fcd",
+        "index": "PASC538",
+        "group": "special",
+        "level": 8,
+        "name": "PASC538_Rochester",
+        "species": "Cruiser",
+        "nation": "USA",
+        "specials": {}
+    },
+    {
+        "uuid": "fc044715-d4da-4524-83a1-99515983a9d4",
+        "index": "PBSA518",
+        "group": "special",
+        "level": 6,
+        "name": "PBSA518_Ark_Royal",
+        "species": "AirCarrier",
+        "nation": "United_Kingdom",
+        "specials": {}
+    },
+    {
+        "uuid": "1ea991f4-7729-4433-ba05-4101eceba479",
+        "index": "PRSC523",
+        "group": "special",
+        "level": 3,
+        "name": "PRSC523_AZUR_Avrora",
+        "species": "Cruiser",
+        "nation": "Russia",
+        "specials": {}
+    },
+    {
+        "uuid": "ed247944-5c28-4179-82b0-d5aac0c74c1a",
+        "index": "PBSC505",
+        "group": "special",
+        "level": 5,
+        "name": "PBSC505_Exeter",
+        "species": "Cruiser",
+        "nation": "United_Kingdom",
+        "specials": {}
+    },
+    {
+        "uuid": "d4981c2f-cbec-476c-b9ad-3e63956027c0",
+        "index": "PWSD610",
+        "group": "ultimate",
+        "level": 10,
+        "name": "PWSD610_Smaland",
+        "species": "Destroyer",
+        "nation": "Europe",
+        "specials": {}
+    },
+    {
+        "uuid": "7d17413b-5704-4d2f-a863-234c46d99379",
+        "index": "PGSB203",
+        "group": "upgradeable",
+        "level": 3,
+        "name": "PGSB203_Von_der_Tann",
+        "species": "Battleship",
+        "nation": "Germany",
+        "specials": {}
+    },
+    {
+        "uuid": "b0b6511b-7b6d-4f24-827e-e9cb68e5f9f3",
+        "index": "PWSD206",
+        "group": "demoWithoutStats",
+        "level": 6,
+        "name": "PWSD206_Stord",
+        "species": "Destroyer",
+        "nation": "Europe",
+        "specials": {}
+    },
+    {
+        "uuid": "c4fa7b5c-42d0-4fe9-9dcb-82219c38ef73",
+        "index": "PZSC109",
+        "group": "upgradeable",
+        "level": 9,
+        "name": "PZSC109_Sejong",
+        "species": "Cruiser",
+        "nation": "Pan_Asia",
+        "specials": {}
+    },
+    {
+        "uuid": "7dde3f26-b4ac-4a80-99ca-43b3e93c00a6",
+        "index": "PVSB505",
+        "group": "special",
+        "level": 5,
+        "name": "PVSB505_Rio_de_Janeiro",
+        "species": "Battleship",
+        "nation": "Pan_America",
+        "specials": {}
+    },
+    {
+        "uuid": "d1b3881b-c601-415f-ad42-1e0d2901a7dc",
+        "index": "PASD111",
+        "group": "superShip",
+        "level": 11,
+        "name": "PASD111_Joshua_Humphreys",
+        "species": "Destroyer",
+        "nation": "USA",
+        "specials": {
+            "burstMode": "连续射击3轮，每轮间隔2秒，此模式下：主炮标伤+50%；装填35秒。"
+        }
+    },
+    {
+        "uuid": "97a2403f-c503-48c9-a1d7-e51a9772af34",
+        "index": "PASB527",
+        "group": "demoWithoutStatsPrem",
+        "level": 7,
+        "name": "PASB527_West_Virginia_1944",
+        "species": "Battleship",
+        "nation": "USA",
+        "specials": {}
+    },
+    {
+        "uuid": "80ca5ab4-c3ae-4f3a-ad20-fe1d5ad18509",
+        "index": "PISC102",
+        "group": "upgradeable",
+        "level": 2,
+        "name": "PISC102_Nino_Bixio",
+        "species": "Cruiser",
+        "nation": "Italy",
+        "specials": {}
+    },
+    {
+        "uuid": "c3347139-9a4d-48e7-8dc1-eb6dfe92a3ba",
+        "index": "PUSC506",
+        "group": "special",
+        "level": 6,
+        "name": "PUSC506_Perth_1942",
+        "species": "Cruiser",
+        "nation": "Commonwealth",
+        "specials": {}
+    },
+    {
+        "uuid": "5510655a-a35e-40db-b560-475311f9aa2c",
+        "index": "PRSA104",
+        "group": "upgradeable",
+        "level": 4,
+        "name": "PRSA104_Komsomolets",
+        "species": "AirCarrier",
+        "nation": "Russia",
+        "specials": {}
+    },
+    {
+        "uuid": "c6eef223-848b-4b82-a4d9-c41199d8b016",
+        "index": "PRSC513",
+        "group": "special",
+        "level": 3,
+        "name": "PRSC513_Varyag",
+        "species": "Cruiser",
+        "nation": "Russia",
+        "specials": {}
+    },
+    {
+        "uuid": "144c0214-845b-4a3f-a723-de7919ddc0f0",
+        "index": "PGSC516",
+        "group": "demoWithoutStats",
+        "level": 6,
+        "name": "PGSC516_Leipzig",
+        "species": "Cruiser",
+        "nation": "Germany",
+        "specials": {}
+    },
+    {
+        "uuid": "d7063868-bce2-49ff-bda1-e930d13d7402",
+        "index": "PWSD104",
+        "group": "upgradeable",
+        "level": 4,
+        "name": "PWSD104_Klas_Horn",
+        "species": "Destroyer",
+        "nation": "Europe",
+        "specials": {}
+    },
+    {
+        "uuid": "df35dc62-e521-4d5a-85a9-65f58c312882",
+        "index": "PJSC034",
+        "group": "upgradeable",
+        "level": 10,
+        "name": "PJSC034_Zao_1944",
+        "species": "Cruiser",
+        "nation": "Japan",
+        "specials": {}
+    },
+    {
+        "uuid": "54c01db7-3c03-439f-827f-c40a7666227e",
+        "index": "PFSD102",
+        "group": "upgradeable",
+        "level": 2,
+        "name": "PFSD102_Enseigne_Gabolde",
+        "species": "Destroyer",
+        "nation": "France",
+        "specials": {}
+    },
+    {
+        "uuid": "ea2ebfa1-fe93-4efd-80cd-31813dbcb5b3",
+        "index": "PASA106",
+        "group": "upgradeable",
+        "level": 6,
+        "name": "PASA106_Ranger",
+        "species": "AirCarrier",
+        "nation": "USA",
+        "specials": {}
+    },
+    {
+        "uuid": "7a597554-f7b3-4a07-985b-3286a689c80b",
+        "index": "PGSA104",
+        "group": "upgradeable",
+        "level": 4,
+        "name": "PGSA104_Rhein",
+        "species": "AirCarrier",
+        "nation": "Germany",
+        "specials": {}
+    },
+    {
+        "uuid": "9ecb9424-d847-4f82-8bd7-c612fabaa062",
+        "index": "PASC005",
+        "group": "upgradeable",
+        "level": 5,
+        "name": "PASC005_Omaha_1923",
+        "species": "Cruiser",
+        "nation": "USA",
+        "specials": {}
+    },
+    {
+        "uuid": "9bc5c23e-dc66-4f4d-8d5c-ad0216961354",
+        "index": "PBSB526",
+        "group": "special",
+        "level": 6,
+        "name": "PBSB526_Repulse",
+        "species": "Battleship",
+        "nation": "United_Kingdom",
+        "specials": {}
+    },
+    {
+        "uuid": "678b7ec2-63af-4d18-9cd6-c5474f023c7d",
+        "index": "PASB013",
+        "group": "special",
+        "level": 4,
+        "name": "PASB013_Arkansas_1912",
+        "species": "Battleship",
+        "nation": "USA",
+        "specials": {}
+    },
+    {
+        "uuid": "58b52329-b88b-405d-a13d-3027b4f1b3e3",
+        "index": "PHSC101",
+        "group": "start",
+        "level": 1,
+        "name": "PHSC101_Van_Kinsbergen",
+        "species": "Cruiser",
+        "nation": "Netherlands",
+        "specials": {}
+    },
+    {
+        "uuid": "1e0c6387-7a36-4966-9c33-273792c1162c",
+        "index": "PISC507",
+        "group": "special",
+        "level": 7,
+        "name": "PISC507_Duca_degli_Abruzzi",
+        "species": "Cruiser",
+        "nation": "Italy",
+        "specials": {}
+    },
+    {
+        "uuid": "498f446c-e69e-494a-8025-f763364e7d24",
+        "index": "PUSD503",
+        "group": "special",
+        "level": 3,
+        "name": "PUSD503_Vampire",
+        "species": "Destroyer",
+        "nation": "Commonwealth",
+        "specials": {}
+    },
+    {
+        "uuid": "95aa77bb-d5d6-4382-8dc0-dc0992420494",
+        "index": "PGSB106",
+        "group": "upgradeable",
+        "level": 6,
+        "name": "PGSB106_Bayern",
+        "species": "Battleship",
+        "nation": "Germany",
+        "specials": {}
+    },
+    {
+        "uuid": "8afe982b-3c82-4830-bd94-323e0b4fb954",
+        "index": "PVSC104",
+        "group": "earlyAccess",
+        "level": 4,
+        "name": "PVSC104_Cordoba",
+        "species": "Cruiser",
+        "nation": "Pan_America",
+        "specials": {}
+    },
+    {
+        "uuid": "98be03d8-2fcd-4f17-9d99-8b439ea37c4b",
+        "index": "PGSC105",
+        "group": "upgradeable",
+        "level": 5,
+        "name": "PGSC105_Konigsberg",
+        "species": "Cruiser",
+        "nation": "Germany",
+        "specials": {}
+    },
+    {
+        "uuid": "da18dbdc-edda-4494-9ae5-38621c94b02c",
+        "index": "PRSD308",
+        "group": "upgradeable",
+        "level": 8,
+        "name": "PRSD308_Pr_48",
+        "species": "Destroyer",
+        "nation": "Russia",
+        "specials": {}
+    },
+    {
+        "uuid": "4a559c3c-71de-44cd-a85a-a7205b1d31c1",
+        "index": "PASD005",
+        "group": "upgradeable",
+        "level": 6,
+        "name": "PASD005_Farragut_1944",
+        "species": "Destroyer",
+        "nation": "USA",
+        "specials": {}
+    },
+    {
+        "uuid": "f75dcbfc-64bd-4e98-9236-a9e569430648",
+        "index": "PRSC505",
+        "group": "special",
+        "level": 5,
+        "name": "PRSC505_KrasniKrym",
+        "species": "Cruiser",
+        "nation": "Russia",
+        "specials": {}
+    },
+    {
+        "uuid": "f0a46890-a013-4050-adda-2a21e075fbd4",
+        "index": "PRSC010",
+        "group": "special",
+        "level": 2,
+        "name": "PRSC010_Diana_1905_Asus",
+        "species": "Cruiser",
+        "nation": "Russia",
+        "specials": {}
+    },
+    {
+        "uuid": "b459ccc9-9542-4d07-96ab-d2e48b865654",
+        "index": "PRSB528",
+        "group": "special",
+        "level": 8,
+        "name": "PRSB528_Borodino",
+        "species": "Battleship",
+        "nation": "Russia",
+        "specials": {}
+    },
+    {
+        "uuid": "1b6d75b6-b851-4557-bde3-e18dab2cdf37",
+        "index": "PUSD507",
+        "group": "special",
+        "level": 7,
+        "name": "PUSD507_Haida",
+        "species": "Destroyer",
+        "nation": "Commonwealth",
+        "specials": {}
+    },
+    {
+        "uuid": "bac1e3bd-a343-4958-b31f-54b62fd4a334",
+        "index": "PASB208",
+        "group": "upgradeable",
+        "level": 8,
+        "name": "PASB208_Nebraska",
+        "species": "Battleship",
+        "nation": "USA",
+        "specials": {}
+    },
+    {
+        "uuid": "03b86c42-f229-4f1f-adda-215d7f02b9d0",
+        "index": "PHSD610",
+        "group": "ultimate",
+        "level": 10,
+        "name": "PHSD610_Tromp",
+        "species": "Destroyer",
+        "nation": "Netherlands",
+        "specials": {}
+    },
+    {
+        "uuid": "c22592f7-1971-4164-8090-6c9dd2edc4ff",
+        "index": "PJSD209",
+        "group": "upgradeable",
+        "level": 9,
+        "name": "PJSD209_Yugumo",
+        "species": "Destroyer",
+        "nation": "Japan",
+        "specials": {}
+    },
+    {
+        "uuid": "9ea2995c-609f-4fe8-bc8e-deb1c992ff9b",
+        "index": "PRSD001",
+        "group": "special",
+        "level": 5,
+        "name": "PRSD001_Gremyashchy_1942",
+        "species": "Destroyer",
+        "nation": "Russia",
+        "specials": {}
+    },
+    {
+        "uuid": "630c0551-1b01-402c-a0dd-3e2d8e4c3c93",
+        "index": "PJSD106",
+        "group": "upgradeable",
+        "level": 6,
+        "name": "PJSD106_Fubuki",
+        "species": "Destroyer",
+        "nation": "Japan",
+        "specials": {}
+    },
+    {
+        "uuid": "4dfd04e8-93f8-4c65-8278-b281d898cf1a",
+        "index": "PJSD017",
+        "group": "special",
+        "level": 5,
+        "name": "PJSD017_Kamikaze_1930",
+        "species": "Destroyer",
+        "nation": "Japan",
+        "specials": {}
+    },
+    {
+        "uuid": "5f4df096-9a68-4e24-bbeb-91fbebf907df",
+        "index": "PISD507",
+        "group": "special",
+        "level": 7,
+        "name": "PISD507_FR25",
+        "species": "Destroyer",
+        "nation": "Italy",
+        "specials": {}
+    },
+    {
+        "uuid": "ec0a5ed6-6169-4cdb-b43a-faec77564823",
+        "index": "PFSD103",
+        "group": "upgradeable",
+        "level": 3,
+        "name": "PFSD103_Fusilier",
+        "species": "Destroyer",
+        "nation": "France",
+        "specials": {}
+    },
+    {
+        "uuid": "a54d877d-2717-4462-a71e-0025031d82b4",
+        "index": "PGSD107",
+        "group": "upgradeable",
+        "level": 7,
+        "name": "PGSD107_Leberecht_Maass",
+        "species": "Destroyer",
+        "nation": "Germany",
+        "specials": {}
+    },
+    {
+        "uuid": "2d9a05fe-5070-45f0-9433-97dfc7ffe0f0",
+        "index": "PGSS510",
+        "group": "demoWithoutStats",
+        "level": 10,
+        "name": "PGSS510_U4501",
+        "species": "Submarine",
+        "nation": "Germany",
+        "specials": {}
+    },
+    {
+        "uuid": "f529bf58-915a-4d2f-8672-0e83262774f0",
+        "index": "PJSB001",
+        "group": "upgradeable",
+        "level": 3,
+        "name": "PJSB001_Kawachi_1912",
+        "species": "Battleship",
+        "nation": "Japan",
+        "specials": {}
+    },
+    {
+        "uuid": "fc0f220a-c7a8-4214-ae29-a168dd9b6ba9",
+        "index": "PRSC515",
+        "group": "special",
+        "level": 5,
+        "name": "PRSC515_Mikoyan",
+        "species": "Cruiser",
+        "nation": "Russia",
+        "specials": {}
+    },
+    {
+        "uuid": "e404bab5-ab37-494c-9bb6-b7b406f31bca",
+        "index": "PVSC107",
+        "group": "earlyAccess",
+        "level": 7,
+        "name": "PVSC107_Coronel_Bolognesi",
+        "species": "Cruiser",
+        "nation": "Pan_America",
+        "specials": {
+            "rageMode": "每座炮塔的一次射击中的1枚炮弹命中目标时进度加3.3%，进度达到100%时触发：所有消耗品装填时间-75%；持续30秒。15秒内没有增加进度时，每1秒减少15%进度"
+        }
+    },
+    {
+        "uuid": "66f2d3a1-0a2e-49f2-a8bf-71594121cd62",
+        "index": "PZSD598",
+        "group": "special",
+        "level": 8,
+        "name": "PZSD598_Black_LoYang",
+        "species": "Destroyer",
+        "nation": "Pan_Asia",
+        "specials": {}
+    },
+    {
+        "uuid": "0d759620-e539-4aee-91a7-7fb396b8a5e7",
+        "index": "PFSB506",
+        "group": "special",
+        "level": 6,
+        "name": "PFSB506_Dunkerque_1940",
+        "species": "Battleship",
+        "nation": "France",
+        "specials": {}
+    },
+    {
+        "uuid": "bef7ce52-2394-4fec-b8e5-2e36467aa856",
+        "index": "PFSD508",
+        "group": "special",
+        "level": 8,
+        "name": "PFSD508_Le_Terrible",
+        "species": "Destroyer",
+        "nation": "France",
+        "specials": {}
+    },
+    {
+        "uuid": "e7d9a35d-7a34-4d9e-91cb-03ad65b627d9",
+        "index": "PBSB210",
+        "group": "upgradeable",
+        "level": 10,
+        "name": "PBSB210_St_Vincent",
+        "species": "Battleship",
+        "nation": "United_Kingdom",
+        "specials": {}
+    },
+    {
+        "uuid": "a30d5e4f-fece-4eb9-b957-fecb94e1553a",
+        "index": "PJSC709",
+        "group": "special",
+        "level": 7,
+        "name": "PJSC709_Haguro",
+        "species": "Cruiser",
+        "nation": "Japan",
+        "specials": {}
+    },
+    {
+        "uuid": "4ff4efa2-0618-44e0-90e6-2ead53bfcc1d",
+        "index": "PASC510",
+        "group": "specialUnsellable",
+        "level": 9,
+        "name": "PASC510_Alaska",
+        "species": "Cruiser",
+        "nation": "USA",
+        "specials": {}
+    },
+    {
+        "uuid": "f2c19dea-3486-4c39-84e5-10f23c020e6a",
+        "index": "PISA508",
+        "group": "special",
+        "level": 8,
+        "name": "PISA508_Aquila",
+        "species": "AirCarrier",
+        "nation": "Italy",
+        "specials": {}
+    },
+    {
+        "uuid": "7b5be6fb-83e9-4a82-8723-ebdbec65d983",
+        "index": "PGSD516",
+        "group": "special",
+        "level": 6,
+        "name": "PGSD516_Karl_von_Schonberg",
+        "species": "Destroyer",
+        "nation": "Germany",
+        "specials": {}
+    },
+    {
+        "uuid": "2a9fa76d-9d8e-4d15-97dc-74f00eff4d7c",
+        "index": "PFSB518",
+        "group": "specialUnsellable",
+        "level": 9,
+        "name": "PFSB518_Jean_Bart",
+        "species": "Battleship",
+        "nation": "France",
+        "specials": {}
+    },
+    {
+        "uuid": "7f38c558-90b2-4d3a-9b5a-e3681ff65894",
+        "index": "PJSC015",
+        "group": "upgradeable",
+        "level": 3,
+        "name": "PJSC015_Tatsuta_1919",
+        "species": "Cruiser",
+        "nation": "Japan",
+        "specials": {}
+    },
+    {
+        "uuid": "b2b5a645-3c7a-4982-9466-bbb2359d48ef",
+        "index": "PFSC210",
+        "group": "upgradeable",
+        "level": 10,
+        "name": "PFSC210_Marseille",
+        "species": "Cruiser",
+        "nation": "France",
+        "specials": {}
+    },
+    {
+        "uuid": "ec867f27-2e29-43b9-b131-45099924d81e",
+        "index": "PRSS110",
+        "group": "demoWithoutStats",
+        "level": 10,
+        "name": "PRSS110_K_type",
+        "species": "Submarine",
+        "nation": "Russia",
+        "specials": {}
+    },
+    {
+        "uuid": "47c16301-8c73-4291-a659-84a2c3aae835",
+        "index": "PBSC104",
+        "group": "upgradeable",
+        "level": 4,
+        "name": "PBSC104_Danae",
+        "species": "Cruiser",
+        "nation": "United_Kingdom",
+        "specials": {}
+    },
+    {
+        "uuid": "edd2fa36-f773-42a1-a3c7-749ce84cae1e",
+        "index": "PISC110",
+        "group": "upgradeable",
+        "level": 10,
+        "name": "PISC110_Venezia",
+        "species": "Cruiser",
+        "nation": "Italy",
+        "specials": {}
+    },
+    {
+        "uuid": "4698270b-abf3-4b68-8156-d1f4c13e12fe",
+        "index": "PISB508",
+        "group": "special",
+        "level": 8,
+        "name": "PISB508_Roma",
+        "species": "Battleship",
+        "nation": "Italy",
+        "specials": {}
+    },
+    {
+        "uuid": "feecd4b1-693b-481c-945a-bf9b24b517f3",
+        "index": "PRSB111",
+        "group": "superShip",
+        "level": 11,
+        "name": "PRSB111_Admiral_Ushakov",
+        "species": "Battleship",
+        "nation": "Russia",
+        "specials": {
+            "rageMode": "每枚炮弹落在目标周围1000米内进度加3.5%，进度达到100%时触发：主炮散布-30%,主炮射程+10%；持续25秒。50秒内没有增加进度时，每1秒减少3%进度"
+        }
+    },
+    {
+        "uuid": "f74d4e2a-3878-4eec-b185-6b1fac2965da",
+        "index": "PBSC207",
+        "group": "upgradeable",
+        "level": 7,
+        "name": "PBSC207_Surrey",
+        "species": "Cruiser",
+        "nation": "United_Kingdom",
+        "specials": {}
+    },
+    {
+        "uuid": "a05655c6-4b02-49db-8d52-a8e40d321f4c",
+        "index": "PBSC548",
+        "group": "demoWithoutStatsPrem",
+        "level": 8,
+        "name": "PBSC548_Nottingham",
+        "species": "Cruiser",
+        "nation": "United_Kingdom",
+        "specials": {}
+    },
+    {
+        "uuid": "860615e4-3dc6-4d53-808b-c5dc58e4ff84",
+        "index": "PUSD510",
+        "group": "ultimate",
+        "level": 10,
+        "name": "PUSD510_Vampire_2",
+        "species": "Destroyer",
+        "nation": "Commonwealth",
+        "specials": {}
+    },
+    {
+        "uuid": "43dd7efe-17f9-4ce1-8a51-9b9a80a6983a",
+        "index": "PGSB002",
+        "group": "special",
+        "level": 8,
+        "name": "PGSB002_Tirpiz_1942",
+        "species": "Battleship",
+        "nation": "Germany",
+        "specials": {}
+    },
+    {
+        "uuid": "f4546826-6d02-4183-8236-f96d80b9fe98",
+        "index": "PASB008",
+        "group": "upgradeable",
+        "level": 7,
+        "name": "PASB008_Colorado_1945",
+        "species": "Battleship",
+        "nation": "USA",
+        "specials": {}
+    },
+    {
+        "uuid": "b7f1d0fb-c539-4d10-a6a7-374667f1d67c",
+        "index": "PBSB209",
+        "group": "upgradeable",
+        "level": 9,
+        "name": "PBSB209_Duncan",
+        "species": "Battleship",
+        "nation": "United_Kingdom",
+        "specials": {}
+    },
+    {
+        "uuid": "eb69f90e-f583-4fde-bbdb-6306f81a1b32",
+        "index": "PFSD104",
+        "group": "upgradeable",
+        "level": 4,
+        "name": "PFSD104_Bourrasque",
+        "species": "Destroyer",
+        "nation": "France",
+        "specials": {}
+    },
+    {
+        "uuid": "ba855ce9-a15d-4080-8d9f-e7bcb622a374",
+        "index": "PWSD208",
+        "group": "demoWithoutStats",
+        "level": 8,
+        "name": "PWSD208_Split",
+        "species": "Destroyer",
+        "nation": "Europe",
+        "specials": {}
+    },
+    {
+        "uuid": "3e0e2180-84a1-47bc-87a7-20aca19e1745",
+        "index": "PBSD510",
+        "group": "ultimate",
+        "level": 10,
+        "name": "PBSD510_Druid",
+        "species": "Destroyer",
+        "nation": "United_Kingdom",
+        "specials": {}
+    },
+    {
+        "uuid": "86ca42eb-09f0-4c64-9e78-c5c9b4fe73d7",
+        "index": "PJSC038",
+        "group": "special",
+        "level": 8,
+        "name": "PJSC038_Atago_1944",
+        "species": "Cruiser",
+        "nation": "Japan",
+        "specials": {}
+    },
+    {
+        "uuid": "eb2bdc18-9611-45cd-8217-23cbc4897def",
+        "index": "PASC718",
+        "group": "special",
+        "level": 8,
+        "name": "PASC718_AZUR_Montpelier",
+        "species": "Cruiser",
+        "nation": "USA",
+        "specials": {}
+    },
+    {
+        "uuid": "289cfcfa-60b8-4129-a4f8-a6e055c5e8d3",
+        "index": "PGSC706",
+        "group": "special",
+        "level": 6,
+        "name": "PGSC706_HSF_Graf_Spee",
+        "species": "Cruiser",
+        "nation": "Germany",
+        "specials": {}
+    },
+    {
+        "uuid": "04df2313-9892-46d3-9014-1b5e9d9851ba",
+        "index": "PZSC110",
+        "group": "upgradeable",
+        "level": 10,
+        "name": "PZSC110_Jinan",
+        "species": "Cruiser",
+        "nation": "Pan_Asia",
+        "specials": {}
+    },
+    {
+        "uuid": "a0e0ee8e-d8fb-4a76-9eb3-5028a64eaddf",
+        "index": "PZSC105",
+        "group": "upgradeable",
+        "level": 5,
+        "name": "PZSC105_Chung_King",
+        "species": "Cruiser",
+        "nation": "Pan_Asia",
+        "specials": {}
+    },
+    {
+        "uuid": "2516fb53-334a-452e-8697-da06aa4e9cc4",
+        "index": "PVSC106",
+        "group": "earlyAccess",
+        "level": 6,
+        "name": "PVSC106_Almirante_Cochrane",
+        "species": "Cruiser",
+        "nation": "Pan_America",
+        "specials": {
+            "rageMode": "每座炮塔的一次射击中的1枚炮弹命中目标时进度加3.7%，进度达到100%时触发：所有消耗品装填时间-75%；持续30秒。15秒内没有增加进度时，每1秒减少15%进度"
+        }
+    },
+    {
+        "uuid": "7656e554-a503-4efa-ba49-262f7e3426a5",
+        "index": "PVSD506",
+        "group": "special",
+        "level": 6,
+        "name": "PVSD506_Jurua",
+        "species": "Destroyer",
+        "nation": "Pan_America",
+        "specials": {}
+    },
+    {
+        "uuid": "5294ef56-20e1-4547-bdf8-88d42f78e765",
+        "index": "PHSD509",
+        "group": "upgradeableExclusive",
+        "level": 9,
+        "name": "PHSD509_Groningen",
+        "species": "Destroyer",
+        "nation": "Netherlands",
+        "specials": {}
+    },
+    {
+        "uuid": "ff0f71c0-05b4-44c2-9d03-1b09f4f1f732",
+        "index": "PJSD026",
+        "group": "special",
+        "level": 5,
+        "name": "PJSD026_Camo_Kamikaze",
+        "species": "Destroyer",
+        "nation": "Japan",
+        "specials": {}
+    },
+    {
+        "uuid": "a8a3b88e-7dcb-43c4-a29c-e3ce2d93e7b5",
+        "index": "PJSC510",
+        "group": "upgradeableExclusive",
+        "level": 9,
+        "name": "PJSC510_Azumaya",
+        "species": "Cruiser",
+        "nation": "Japan",
+        "specials": {}
+    },
+    {
+        "uuid": "dfef83b5-7fc5-46e4-b08f-efc8920c5473",
+        "index": "PJSD025",
+        "group": "special",
+        "level": 5,
+        "name": "PJSD025_True_Kamikaze",
+        "species": "Destroyer",
+        "nation": "Japan",
+        "specials": {}
+    },
+    {
+        "uuid": "37f57475-2baa-4b1f-b630-42cc561ec260",
+        "index": "PRSD110",
+        "group": "ultimate",
+        "level": 10,
+        "name": "PRSD110_Pr_24_Khabarovsk",
+        "species": "Destroyer",
+        "nation": "Russia",
+        "specials": {}
+    },
+    {
+        "uuid": "052902b2-8c6b-41af-b653-164dc36035fd",
+        "index": "PASA538",
+        "group": "special",
+        "level": 8,
+        "name": "PASA538_Hornet",
+        "species": "AirCarrier",
+        "nation": "USA",
+        "specials": {}
+    },
+    {
+        "uuid": "b8ca868e-df1f-4754-9017-d7114b602a0d",
+        "index": "PBSB110",
+        "group": "upgradeable",
+        "level": 10,
+        "name": "PBSB110_Conqueror",
+        "species": "Battleship",
+        "nation": "United_Kingdom",
+        "specials": {}
+    },
+    {
+        "uuid": "1231daf1-a34c-4fab-adc8-370ad3079a6a",
+        "index": "PASC587",
+        "group": "special",
+        "level": 7,
+        "name": "PASC587_Black_Atlanta",
+        "species": "Cruiser",
+        "nation": "USA",
+        "specials": {}
+    },
+    {
+        "uuid": "0f8bc3b0-5c6c-40a5-8da0-13c6188576c2",
+        "index": "PBSB107",
+        "group": "upgradeable",
+        "level": 7,
+        "name": "PBSB107_King_George_V",
+        "species": "Battleship",
+        "nation": "United_Kingdom",
+        "specials": {}
+    },
+    {
+        "uuid": "8a740799-a2bc-4fda-bfae-1216b7bfa94c",
+        "index": "PRSB508",
+        "group": "special",
+        "level": 7,
+        "name": "PRSB508_Poltava",
+        "species": "Battleship",
+        "nation": "Russia",
+        "specials": {}
+    },
+    {
+        "uuid": "743becf5-a20f-4ba1-965e-6d2f85af4211",
+        "index": "PASC548",
+        "group": "special",
+        "level": 8,
+        "name": "PASC548_San_Diego",
+        "species": "Cruiser",
+        "nation": "USA",
+        "specials": {}
+    },
+    {
+        "uuid": "c5577791-8713-4975-8c8d-866b6b945d39",
+        "index": "PGSC111",
+        "group": "superShip",
+        "level": 11,
+        "name": "PGSC111_Clausewitz",
+        "species": "Cruiser",
+        "nation": "Germany",
+        "specials": {}
+    },
+    {
+        "uuid": "e8c27ba6-589f-4319-96b9-a9e822411810",
+        "index": "PBSC103",
+        "group": "upgradeable",
+        "level": 3,
+        "name": "PBSC103_Caledon",
+        "species": "Cruiser",
+        "nation": "United_Kingdom",
+        "specials": {}
+    },
+    {
+        "uuid": "7d1db603-5ef3-4188-be6c-2046632998d6",
+        "index": "PISC990",
+        "group": "demoWithoutStats",
+        "level": 10,
+        "name": "PISC990_Ravenna",
+        "species": "Cruiser",
+        "nation": "Italy",
+        "specials": {}
+    },
+    {
+        "uuid": "22d68fcf-db14-42cc-8a90-142d8b735b5d",
+        "index": "PASB539",
+        "group": "special",
+        "level": 9,
+        "name": "PASB539_Illinois",
+        "species": "Battleship",
+        "nation": "USA",
+        "specials": {}
+    },
+    {
+        "uuid": "302fae71-1d86-4a22-b247-a31f27364d35",
+        "index": "PRSA108",
+        "group": "upgradeable",
+        "level": 8,
+        "name": "PRSA108_Pobeda",
+        "species": "AirCarrier",
+        "nation": "Russia",
+        "specials": {}
+    },
+    {
+        "uuid": "7606519e-409e-4125-97a8-654888028ef5",
+        "index": "PWSD508",
+        "group": "special",
+        "level": 8,
+        "name": "PWSD508_Orkan",
+        "species": "Destroyer",
+        "nation": "Europe",
+        "specials": {}
+    },
+    {
+        "uuid": "fc3629ba-acc3-4263-9834-dd356bdb16ce",
+        "index": "PBSC507",
+        "group": "special",
+        "level": 7,
+        "name": "PBSC507_Belfast_1959",
+        "species": "Cruiser",
+        "nation": "United_Kingdom",
+        "specials": {}
+    },
+    {
+        "uuid": "54e973c5-225b-44c7-9ba6-04803896c003",
+        "index": "PGSA598",
+        "group": "special",
+        "level": 8,
+        "name": "PGSA598_Black_Graf_Zeppelin",
+        "species": "AirCarrier",
+        "nation": "Germany",
+        "specials": {}
+    },
+    {
+        "uuid": "94e6c724-9247-4e0d-bacd-e1c3f42b275e",
+        "index": "PVSC103",
+        "group": "earlyAccess",
+        "level": 3,
+        "name": "PVSC103_Vicente_Guerrero",
+        "species": "Cruiser",
+        "nation": "Pan_America",
+        "specials": {}
+    },
+    {
+        "uuid": "b7cde414-3158-43fa-918c-5574faf48276",
+        "index": "PBSS508",
+        "group": "special",
+        "level": 8,
+        "name": "PBSS508_Alliance",
+        "species": "Submarine",
+        "nation": "United_Kingdom",
+        "specials": {}
+    },
+    {
+        "uuid": "295d587d-262d-4252-8e88-329f08d34fcf",
+        "index": "PASB518",
+        "group": "special",
+        "level": 8,
+        "name": "PASB518_Massachusetts",
+        "species": "Battleship",
+        "nation": "USA",
+        "specials": {}
+    },
+    {
+        "uuid": "6d4a6c57-e478-48be-a649-b0eda2237c0c",
+        "index": "PFSC208",
+        "group": "upgradeable",
+        "level": 8,
+        "name": "PFSC208_Cherbourg",
+        "species": "Cruiser",
+        "nation": "France",
+        "specials": {}
+    },
+    {
+        "uuid": "12829e49-3f05-48e6-9c11-6951f4234e9f",
+        "index": "PFSC506",
+        "group": "special",
+        "level": 6,
+        "name": "PFSC506_De_Grasse",
+        "species": "Cruiser",
+        "nation": "France",
+        "specials": {}
+    },
+    {
+        "uuid": "781e23a6-e966-449e-98f0-8d702fc43235",
+        "index": "PBSD106",
+        "group": "upgradeable",
+        "level": 6,
+        "name": "PBSD106_Icarus",
+        "species": "Destroyer",
+        "nation": "United_Kingdom",
+        "specials": {}
+    },
+    {
+        "uuid": "78a22920-fa60-4626-a04b-906e6fbf9776",
+        "index": "PGSB599",
+        "group": "special",
+        "level": 9,
+        "name": "PGSB599_Black_Pommern",
+        "species": "Battleship",
+        "nation": "Germany",
+        "specials": {}
+    },
+    {
+        "uuid": "f53fff58-e88a-4b48-a754-1fa7f06da5c5",
+        "index": "PRSC990",
+        "group": "demoWithoutStats",
+        "level": 10,
+        "name": "PRSC990_Petrozavodsk",
+        "species": "Cruiser",
+        "nation": "Russia",
+        "specials": {}
+    },
+    {
+        "uuid": "d6607399-76c8-434a-8366-bfb918148dc3",
+        "index": "PJSD708",
+        "group": "special",
+        "level": 8,
+        "name": "PJSD708_HSF_Harekaze",
+        "species": "Destroyer",
+        "nation": "Japan",
+        "specials": {}
+    },
+    {
+        "uuid": "4ea27418-e90a-4729-b66f-74d3707bc52c",
+        "index": "PASB505",
+        "group": "special",
+        "level": 5,
+        "name": "PASB505_Oklahoma",
+        "species": "Battleship",
+        "nation": "USA",
+        "specials": {}
+    },
+    {
+        "uuid": "fc1a5e6c-6c9b-477c-a165-b1613cd383a0",
+        "index": "PJSD024",
+        "group": "upgradeable",
+        "level": 3,
+        "name": "PJSD024_Wakatake_1923",
+        "species": "Destroyer",
+        "nation": "Japan",
+        "specials": {}
+    },
+    {
+        "uuid": "fdeb9155-7664-4ebb-a4e4-b2db30d12ae0",
+        "index": "PRSC510",
+        "group": "ultimate",
+        "level": 10,
+        "name": "PRSC510_Stalingrad",
+        "species": "Cruiser",
+        "nation": "Russia",
+        "specials": {}
+    },
+    {
+        "uuid": "b7a41ffc-a2d3-487c-a0d2-d66b6428434d",
+        "index": "PJSB708",
+        "group": "special",
+        "level": 5,
+        "name": "PJSB708_Hiei_Arpeggio",
+        "species": "Battleship",
+        "nation": "Japan",
+        "specials": {}
+    },
+    {
+        "uuid": "1e00b5f4-876d-47ef-93e1-9dbbaceab2ab",
+        "index": "PISD105",
+        "group": "upgradeable",
+        "level": 5,
+        "name": "PISD105_Maestrale",
+        "species": "Destroyer",
+        "nation": "Italy",
+        "specials": {}
+    },
+    {
+        "uuid": "b9afeb44-2052-40d1-b5d5-5fdc7e0ce649",
+        "index": "PGSB109",
+        "group": "upgradeable",
+        "level": 9,
+        "name": "PGSB109_Friedrich_der_Grosse",
+        "species": "Battleship",
+        "nation": "Germany",
+        "specials": {}
+    },
+    {
+        "uuid": "648498e7-5430-4d9b-829a-6a4954e534f3",
+        "index": "PBSB208",
+        "group": "upgradeable",
+        "level": 8,
+        "name": "PBSB208_Hawke",
+        "species": "Battleship",
+        "nation": "United_Kingdom",
+        "specials": {}
+    },
+    {
+        "uuid": "81959ec4-40e0-494c-a129-d64f1af8f164",
+        "index": "PBSS110",
+        "group": "upgradeable",
+        "level": 10,
+        "name": "PBSS110_Thrasher",
+        "species": "Submarine",
+        "nation": "United_Kingdom",
+        "specials": {}
+    },
+    {
+        "uuid": "b6e0a35f-e2b1-4929-a1bb-8c7c49d49135",
+        "index": "PJSA598",
+        "group": "special",
+        "level": 8,
+        "name": "PJSA598_Black_Kaga",
+        "species": "AirCarrier",
+        "nation": "Japan",
+        "specials": {}
+    },
+    {
+        "uuid": "2f0ec97e-7d1c-46bd-9ebe-ea1cf644873f",
+        "index": "PBSB810",
+        "group": "demoWithoutStats",
+        "level": 10,
+        "name": "PBSB810_Cumberland",
+        "species": "Battleship",
+        "nation": "United_Kingdom",
+        "specials": {}
+    },
+    {
+        "uuid": "037c1abb-aedd-41e9-b1ef-53fe61492f24",
+        "index": "PGSC718",
+        "group": "special",
+        "level": 8,
+        "name": "PGSC718_Warhammer_Blacktemplar",
+        "species": "Cruiser",
+        "nation": "Germany",
+        "specials": {}
+    },
+    {
+        "uuid": "29646330-0b69-4ad9-817c-de12df604cf5",
+        "index": "PBSD503",
+        "group": "special",
+        "level": 3,
+        "name": "PBSD503_Campbeltown_1941",
+        "species": "Destroyer",
+        "nation": "United_Kingdom",
+        "specials": {}
+    },
+    {
+        "uuid": "ac5c086c-0f9c-4d6c-9ade-4a6ed54d3693",
+        "index": "PASC507",
+        "group": "special",
+        "level": 7,
+        "name": "PASC507_Indianapolis_1945",
+        "species": "Cruiser",
+        "nation": "USA",
+        "specials": {}
+    },
+    {
+        "uuid": "5022c76b-5100-4c28-9e81-e76244d3d60c",
+        "index": "PWSD205",
+        "group": "demoWithoutStats",
+        "level": 5,
+        "name": "PWSD205_Muavenet",
+        "species": "Destroyer",
+        "nation": "Europe",
+        "specials": {}
+    },
+    {
+        "uuid": "29fe9ed6-15d5-4b29-a4ce-7b2d9554662b",
+        "index": "PFSC507",
+        "group": "special",
+        "level": 7,
+        "name": "PFSC507_Toulon",
+        "species": "Cruiser",
+        "nation": "France",
+        "specials": {}
+    },
+    {
+        "uuid": "64d50055-05d7-42cb-ab0b-1424a2273ecb",
+        "index": "PGSS206",
+        "group": "upgradeable",
+        "level": 6,
+        "name": "PGSS206_U_69",
+        "species": "Submarine",
+        "nation": "Germany",
+        "specials": {}
+    },
+    {
+        "uuid": "1590866d-9faa-4096-ba9f-b4972a5270bd",
+        "index": "PRSC001",
+        "group": "special",
+        "level": 3,
+        "name": "PRSC001_Avrora_1917",
+        "species": "Cruiser",
+        "nation": "Russia",
+        "specials": {}
+    },
+    {
+        "uuid": "7b2299e8-d5fd-4ee5-9110-df14a978b618",
+        "index": "PASC044",
+        "group": "special",
+        "level": 5,
+        "name": "PASC044_Marblehead_1924",
+        "species": "Cruiser",
+        "nation": "USA",
+        "specials": {}
+    },
+    {
+        "uuid": "ba5fa8a5-8423-4aca-b892-bdd25e476db9",
+        "index": "PJSD507",
+        "group": "special",
+        "level": 7,
+        "name": "PJSD507_Yudachi",
+        "species": "Destroyer",
+        "nation": "Japan",
+        "specials": {}
+    },
+    {
+        "uuid": "7b2d9f40-d702-49cd-af68-736161a433c9",
+        "index": "PBSC206",
+        "group": "upgradeable",
+        "level": 6,
+        "name": "PBSC206_Devonshire",
+        "species": "Cruiser",
+        "nation": "United_Kingdom",
+        "specials": {}
+    },
+    {
+        "uuid": "f941b90d-2920-498d-a3e5-b663af43a21a",
+        "index": "PJSC520",
+        "group": "ultimate",
+        "level": 10,
+        "name": "PJSC520_Yoshino",
+        "species": "Cruiser",
+        "nation": "Japan",
+        "specials": {}
+    },
+    {
+        "uuid": "defb8d88-8fd1-4638-8fe9-bdd075b43913",
+        "index": "PRSD207",
+        "group": "upgradeable",
+        "level": 7,
+        "name": "PRSD207_Minsk",
+        "species": "Destroyer",
+        "nation": "Russia",
+        "specials": {}
+    },
+    {
+        "uuid": "2dded563-f89f-4986-b3e5-f0938a2fa6aa",
+        "index": "PGSD210",
+        "group": "upgradeable",
+        "level": 10,
+        "name": "PGSD210_Elbing",
+        "species": "Destroyer",
+        "nation": "Germany",
+        "specials": {}
+    },
+    {
+        "uuid": "f5583624-3663-4bc8-b18d-fa7efd0309ec",
+        "index": "PGSC518",
+        "group": "special",
+        "level": 8,
+        "name": "PGSC518_Mainz",
+        "species": "Cruiser",
+        "nation": "Germany",
+        "specials": {}
+    },
+    {
+        "uuid": "c0fe2920-fe3b-45f5-ad5f-52f44a0d131a",
+        "index": "PHSC103",
+        "group": "upgradeable",
+        "level": 3,
+        "name": "PHSC103_Java",
+        "species": "Cruiser",
+        "nation": "Netherlands",
+        "specials": {}
+    },
+    {
+        "uuid": "ecdb4fc0-0a80-4f88-9be3-2b2e544d76b1",
+        "index": "PGSD610",
+        "group": "ultimate",
+        "level": 10,
+        "name": "PGSD610_Z_42",
+        "species": "Destroyer",
+        "nation": "Germany",
+        "specials": {}
+    },
+    {
+        "uuid": "45d4779d-a626-45fd-ac6b-58d201db4610",
+        "index": "PASA598",
+        "group": "special",
+        "level": 8,
+        "name": "PASA598_Black_Saipan",
+        "species": "AirCarrier",
+        "nation": "USA",
+        "specials": {}
+    },
+    {
+        "uuid": "0dcf2cbf-4995-4916-80df-844e61317836",
+        "index": "PASB508",
+        "group": "special",
+        "level": 8,
+        "name": "PASB508_Alabama",
+        "species": "Battleship",
+        "nation": "USA",
+        "specials": {}
+    },
+    {
+        "uuid": "83cfec1d-efd5-4876-90ea-5e86f07d4980",
+        "index": "PBSA508",
+        "group": "special",
+        "level": 8,
+        "name": "PBSA508_Indomitable",
+        "species": "AirCarrier",
+        "nation": "United_Kingdom",
+        "specials": {}
+    },
+    {
+        "uuid": "bbccb7c0-31a5-4e0b-b18a-284a77203d65",
+        "index": "PRSB709",
+        "group": "special",
+        "level": 9,
+        "name": "PRSB709_AZUR_Sov_Russia",
+        "species": "Battleship",
+        "nation": "Russia",
+        "specials": {}
+    },
+    {
+        "uuid": "eec0c1e6-1199-4a2f-89d2-dc46118d6c92",
+        "index": "PUSB507",
+        "group": "special",
+        "level": 7,
+        "name": "PUSB507_Yukon",
+        "species": "Battleship",
+        "nation": "Commonwealth",
+        "specials": {}
+    },
+    {
+        "uuid": "cc070b52-81a1-4ba0-b6d1-23617863ed2e",
+        "index": "PASC610",
+        "group": "ultimate",
+        "level": 10,
+        "name": "PASC610_Puerto_Rico",
+        "species": "Cruiser",
+        "nation": "USA",
+        "specials": {}
+    },
+    {
+        "uuid": "74fc9d39-d292-4d40-86d8-ac133a6b2efa",
+        "index": "PBSC108",
+        "group": "upgradeable",
+        "level": 8,
+        "name": "PBSC108_Edinburgh",
+        "species": "Cruiser",
+        "nation": "United_Kingdom",
+        "specials": {}
+    },
+    {
+        "uuid": "be3d986e-b8e6-4936-beeb-8c2bef0d6c8c",
+        "index": "PBSB508",
+        "group": "special",
+        "level": 8,
+        "name": "PBSB508_Vanguard",
+        "species": "Battleship",
+        "nation": "United_Kingdom",
+        "specials": {}
+    },
+    {
+        "uuid": "ab2f354e-7152-45b8-9c3d-fc02f424415b",
+        "index": "PFSC510",
+        "group": "ultimate",
+        "level": 10,
+        "name": "PFSC510_Colbert",
+        "species": "Cruiser",
+        "nation": "France",
+        "specials": {}
+    },
+    {
+        "uuid": "157180a4-167f-40ea-9d9e-c10e8b69da34",
+        "index": "PJSB707",
+        "group": "special",
+        "level": 5,
+        "name": "PJSB707_Haruna",
+        "species": "Battleship",
+        "nation": "Japan",
+        "specials": {}
+    },
+    {
+        "uuid": "8c57607c-2688-49df-be5c-866b262d6950",
+        "index": "PGSC508",
+        "group": "special",
+        "level": 8,
+        "name": "PGSC508_Prinz_Eugen",
+        "species": "Cruiser",
+        "nation": "Germany",
+        "specials": {}
+    },
+    {
+        "uuid": "c184b2c3-6f55-4b3c-b57b-6d4e92539b9c",
+        "index": "PISB708",
+        "group": "special",
+        "level": 8,
+        "name": "PISB708_AZUR_Littorio",
+        "species": "Battleship",
+        "nation": "Italy",
+        "specials": {}
+    },
+    {
+        "uuid": "662202c4-73aa-4974-8897-4ce293dc4ded",
+        "index": "PASA528",
+        "group": "special",
+        "level": 8,
+        "name": "PASA528_Saipan",
+        "species": "AirCarrier",
+        "nation": "USA",
+        "specials": {}
+    },
+    {
+        "uuid": "b776a0ce-e1a7-41b0-bcc9-7bb3624fe0c6",
+        "index": "PJSC018",
+        "group": "special",
+        "level": 8,
+        "name": "PJSC018_Tone",
+        "species": "Cruiser",
+        "nation": "Japan",
+        "specials": {}
+    },
+    {
+        "uuid": "e8380a24-43dc-4e8c-be34-66d89a49abcb",
+        "index": "PVSC502",
+        "group": "special",
+        "level": 2,
+        "name": "PVSC502_Almirante_Abreu",
+        "species": "Cruiser",
+        "nation": "Pan_America",
+        "specials": {}
+    },
+    {
+        "uuid": "4517a241-dc9b-4a0c-a511-9beab30cdb2f",
+        "index": "PJSA104",
+        "group": "upgradeable",
+        "level": 4,
+        "name": "PJSA104_Hosho",
+        "species": "AirCarrier",
+        "nation": "Japan",
+        "specials": {}
+    },
+    {
+        "uuid": "f2e34e93-bb85-40ff-b72a-be1d3851dbda",
+        "index": "PASB509",
+        "group": "specialUnsellable",
+        "level": 9,
+        "name": "PASB509_Missouri",
+        "species": "Battleship",
+        "nation": "USA",
+        "specials": {}
+    },
+    {
+        "uuid": "9b852f0e-8b2c-485a-b148-f7a40b234e39",
+        "index": "PRSB104",
+        "group": "upgradeable",
+        "level": 4,
+        "name": "PRSB104_Gangut",
+        "species": "Battleship",
+        "nation": "Russia",
+        "specials": {}
+    },
+    {
+        "uuid": "3fc814a8-f0b1-4920-9e50-8cb9fdbecf80",
+        "index": "PBSB204",
+        "group": "upgradeable",
+        "level": 4,
+        "name": "PBSB204_Queen_Mary",
+        "species": "Battleship",
+        "nation": "United_Kingdom",
+        "specials": {}
+    },
+    {
+        "uuid": "cf6986c8-e53f-4090-bb9d-486d7c4a30ff",
+        "index": "PASC001",
+        "group": "start",
+        "level": 1,
+        "name": "PASC001_Erie_1936",
+        "species": "Cruiser",
+        "nation": "USA",
+        "specials": {}
+    },
+    {
+        "uuid": "4d02737c-d1dd-45f3-a911-dd42053b969a",
+        "index": "PGSA106",
+        "group": "upgradeable",
+        "level": 6,
+        "name": "PGSA106_Weser",
+        "species": "AirCarrier",
+        "nation": "Germany",
+        "specials": {}
+    },
+    {
+        "uuid": "028d9832-a2e2-4154-b143-da97e88b974a",
+        "index": "PJSC012",
+        "group": "upgradeable",
+        "level": 9,
+        "name": "PJSC012_Ibuki_1944",
+        "species": "Cruiser",
+        "nation": "Japan",
+        "specials": {}
+    },
+    {
+        "uuid": "55e5316c-e3a6-4ff6-977e-32be29fafe47",
+        "index": "PASD509",
+        "group": "special",
+        "level": 9,
+        "name": "PASD509_Benham",
+        "species": "Destroyer",
+        "nation": "USA",
+        "specials": {}
+    },
+    {
+        "uuid": "5e0043a1-66e0-4950-b4c8-09e0b9fec6a7",
+        "index": "PASB707",
+        "group": "special",
+        "level": 7,
+        "name": "PASB707_California",
+        "species": "Battleship",
+        "nation": "USA",
+        "specials": {}
+    },
+    {
+        "uuid": "fae5fb45-0839-4fb5-ab12-531aaac5e1c9",
+        "index": "PISB108",
+        "group": "upgradeable",
+        "level": 8,
+        "name": "PISB108_Vittorio_Veneto",
+        "species": "Battleship",
+        "nation": "Italy",
+        "specials": {}
+    },
+    {
+        "uuid": "668ae5d3-78ce-4263-b92f-9047f87a80ce",
+        "index": "PGSB111",
+        "group": "superShip",
+        "level": 11,
+        "name": "PGSB111_Hannover",
+        "species": "Battleship",
+        "nation": "Germany",
+        "specials": {
+            "rageMode": "每枚炮弹落在目标周围1500米内进度加5%，进度达到100%时触发：副炮射程+12%,副炮装填-20%；持续50秒。50秒内没有增加进度时，每1秒减少2%进度"
+        }
+    },
+    {
+        "uuid": "d6c59d23-91b9-40c6-a5e1-dc73e6bd5344",
+        "index": "PRSA106",
+        "group": "upgradeable",
+        "level": 6,
+        "name": "PRSA106_Serov",
+        "species": "AirCarrier",
+        "nation": "Russia",
+        "specials": {}
+    },
+    {
+        "uuid": "8e7f5751-a32b-44b9-890e-e8fef8081664",
+        "index": "PBSB610",
+        "group": "ultimate",
+        "level": 10,
+        "name": "PBSB610_Incomparable",
+        "species": "Battleship",
+        "nation": "United_Kingdom",
+        "specials": {}
+    },
+    {
+        "uuid": "4df0fb05-925a-41b1-8786-22bd5c75d74d",
+        "index": "PGSD519",
+        "group": "special",
+        "level": 9,
+        "name": "PGSD519_Z_44",
+        "species": "Destroyer",
+        "nation": "Germany",
+        "specials": {}
+    },
+    {
+        "uuid": "53b6903a-9d9b-4b74-a5e7-1fa4de9b358f",
+        "index": "PFSD109",
+        "group": "upgradeable",
+        "level": 9,
+        "name": "PFSD109_Mogador",
+        "species": "Destroyer",
+        "nation": "France",
+        "specials": {}
+    },
+    {
+        "uuid": "b6ede2d3-2bee-4969-9fce-70d7b19989fa",
+        "index": "PFSB508",
+        "group": "special",
+        "level": 8,
+        "name": "PFSB508_Gascogne",
+        "species": "Battleship",
+        "nation": "France",
+        "specials": {}
+    },
+    {
+        "uuid": "3369a974-2305-4817-ab74-86b5595aa03e",
+        "index": "PBSC105",
+        "group": "upgradeable",
+        "level": 5,
+        "name": "PBSC105_Emerald",
+        "species": "Cruiser",
+        "nation": "United_Kingdom",
+        "specials": {}
+    },
+    {
+        "uuid": "5adee1ca-8035-423d-bc76-31022472fb13",
+        "index": "PBSB002",
+        "group": "special",
+        "level": 6,
+        "name": "PBSB002_Warspite_1941",
+        "species": "Battleship",
+        "nation": "United_Kingdom",
+        "specials": {}
+    },
+    {
+        "uuid": "28735d4c-dd99-45e5-9f67-31f69325b112",
+        "index": "PASB519",
+        "group": "special",
+        "level": 9,
+        "name": "PASB519_Kearsarge",
+        "species": "Battleship",
+        "nation": "USA",
+        "specials": {}
+    },
+    {
+        "uuid": "4113e431-a8ae-4fa6-b76d-6b44f5a8fe48",
+        "index": "PRSD409",
+        "group": "upgradeable",
+        "level": 9,
+        "name": "PRSD409_Pr_20i_Tashkent",
+        "species": "Destroyer",
+        "nation": "Russia",
+        "specials": {}
+    },
+    {
+        "uuid": "f2464b41-62d8-45a2-ab7a-ebd7a76562c8",
+        "index": "PFSC111",
+        "group": "superShip",
+        "level": 11,
+        "name": "PFSC111_Conde",
+        "species": "Cruiser",
+        "nation": "France",
+        "specials": {
+            "burstMode": "连续射击2轮，每轮间隔2秒，此模式下：主炮散布-40%,主炮HE穿深+25%,副炮HE穿深+25%；装填50秒。"
+        }
+    },
+    {
+        "uuid": "df67d14e-e76f-404b-b883-47488c0f33b1",
+        "index": "PRSB105",
+        "group": "upgradeable",
+        "level": 5,
+        "name": "PRSB105_Pyotr_Velikiy",
+        "species": "Battleship",
+        "nation": "Russia",
+        "specials": {}
+    },
+    {
+        "uuid": "77d90043-d99a-476c-b315-68dbbffa1db2",
+        "index": "PRSC104",
+        "group": "upgradeable",
+        "level": 4,
+        "name": "PRSC104_Svetlana",
+        "species": "Cruiser",
+        "nation": "Russia",
+        "specials": {}
+    },
+    {
+        "uuid": "f3647bd2-1b02-4958-976b-cdbd68e17493",
+        "index": "PASC206",
+        "group": "upgradeable",
+        "level": 6,
+        "name": "PASC206_Dallas",
+        "species": "Cruiser",
+        "nation": "USA",
+        "specials": {}
+    },
+    {
+        "uuid": "a8732b88-c968-4ee2-9f6c-1780a53e7985",
+        "index": "PFSD110",
+        "group": "upgradeable",
+        "level": 10,
+        "name": "PFSD110_Kleber",
+        "species": "Destroyer",
+        "nation": "France",
+        "specials": {}
+    },
+    {
+        "uuid": "c06af9bf-5f12-4373-ae56-c3af35d900e5",
+        "index": "PASB538",
+        "group": "special",
+        "level": 8,
+        "name": "PASB538_Constellation",
+        "species": "Battleship",
+        "nation": "USA",
+        "specials": {}
+    },
+    {
+        "uuid": "cb499841-01fd-4a0f-b152-0025f7f53406",
+        "index": "PGSB210",
+        "group": "upgradeable",
+        "level": 10,
+        "name": "PGSB210_Schlieffen",
+        "species": "Battleship",
+        "nation": "Germany",
+        "specials": {}
+    },
+    {
+        "uuid": "909763b8-b6ee-4cf5-b328-97ee293e16b0",
+        "index": "PJSD001",
+        "group": "special",
+        "level": 2,
+        "name": "PJSD001_Tachibana_1912",
+        "species": "Destroyer",
+        "nation": "Japan",
+        "specials": {}
+    },
+    {
+        "uuid": "15946102-1ccc-43b3-a642-39c7ea512878",
+        "index": "PISB110",
+        "group": "upgradeable",
+        "level": 10,
+        "name": "PISB110_Cristoforo_Colombo",
+        "species": "Battleship",
+        "nation": "Italy",
+        "specials": {}
+    },
+    {
+        "uuid": "7e845aaa-27b6-48bc-9e95-18ed7d94905c",
+        "index": "PGSC107",
+        "group": "upgradeable",
+        "level": 7,
+        "name": "PGSC107_Yorck",
+        "species": "Cruiser",
+        "nation": "Germany",
+        "specials": {}
+    },
+    {
+        "uuid": "bcbbe420-263b-4e05-b491-48c1310a3612",
+        "index": "PHSC104",
+        "group": "upgradeable",
+        "level": 4,
+        "name": "PHSC104_De_Ruyter",
+        "species": "Cruiser",
+        "nation": "Netherlands",
+        "specials": {}
+    },
+    {
+        "uuid": "e60f94a1-d109-4293-b6ed-ccf83145939f",
+        "index": "PGSS210",
+        "group": "upgradeable",
+        "level": 10,
+        "name": "PGSS210_U_2501",
+        "species": "Submarine",
+        "nation": "Germany",
+        "specials": {}
+    },
+    {
+        "uuid": "6bd47c1d-931a-4b1b-b49f-eb02282d0c2d",
+        "index": "PGSD207",
+        "group": "upgradeable",
+        "level": 7,
+        "name": "PGSD207_Z_31",
+        "species": "Destroyer",
+        "nation": "Germany",
+        "specials": {}
+    },
+    {
+        "uuid": "715f0016-c22d-4450-8439-c4b2de45112f",
+        "index": "PASB808",
+        "group": "demoWithoutStats",
+        "level": 8,
+        "name": "PASB808_Colorful_North_Carolina",
+        "species": "Battleship",
+        "nation": "USA",
+        "specials": {}
+    },
+    {
+        "uuid": "73a686a9-bd41-40fd-b949-1434fef471bd",
+        "index": "PISC510",
+        "group": "ultimate",
+        "level": 10,
+        "name": "PISC510_Napoli",
+        "species": "Cruiser",
+        "nation": "Italy",
+        "specials": {}
+    },
+    {
+        "uuid": "f9ce76ac-6541-4891-80f0-e43e6143837c",
+        "index": "PASA510",
+        "group": "ultimate",
+        "level": 10,
+        "name": "PASA510_Roosevelt",
+        "species": "AirCarrier",
+        "nation": "USA",
+        "specials": {}
+    },
+    {
+        "uuid": "acf33b31-e25a-4d44-88c6-dc065ccd3529",
+        "index": "PISD109",
+        "group": "upgradeable",
+        "level": 9,
+        "name": "PISD109_Adriatico",
+        "species": "Destroyer",
+        "nation": "Italy",
+        "specials": {}
+    },
+    {
+        "uuid": "7c6a5c73-0079-438a-96bd-872b489740bd",
+        "index": "PRSC606",
+        "group": "special",
+        "level": 6,
+        "name": "PRSC606_Admiral_Makarov",
+        "species": "Cruiser",
+        "nation": "Russia",
+        "specials": {}
+    },
+    {
+        "uuid": "97d370ca-aa6e-4410-88f4-1153b85c3dbc",
+        "index": "PGSD518",
+        "group": "special",
+        "level": 8,
+        "name": "PGSD518_Z_35",
+        "species": "Destroyer",
+        "nation": "Germany",
+        "specials": {}
+    },
+    {
+        "uuid": "7da7652c-610a-4702-b3bb-f8e1fa77753c",
+        "index": "PJSD003",
+        "group": "upgradeable",
+        "level": 4,
+        "name": "PJSD003_Isokaze_1917",
+        "species": "Destroyer",
+        "nation": "Japan",
+        "specials": {}
+    },
+    {
+        "uuid": "5e9c567b-9a19-41f2-8f10-12b2b8288969",
+        "index": "PFSC104",
+        "group": "upgradeable",
+        "level": 4,
+        "name": "PFSC104_Duguay_Trouin",
+        "species": "Cruiser",
+        "nation": "France",
+        "specials": {}
+    },
+    {
+        "uuid": "fbc3f9d5-550f-4db5-9cef-4846130604d0",
+        "index": "PGSB528",
+        "group": "special",
+        "level": 8,
+        "name": "PGSB528_Anhalt",
+        "species": "Battleship",
+        "nation": "Germany",
+        "specials": {}
+    },
+    {
+        "uuid": "a84fe589-ef96-45c4-9de4-b5276df2a397",
+        "index": "PASB517",
+        "group": "special",
+        "level": 7,
+        "name": "PASB517_Florida",
+        "species": "Battleship",
+        "nation": "USA",
+        "specials": {}
+    },
+    {
+        "uuid": "52807f42-82ca-415c-ba21-724c90fa62b5",
+        "index": "PVSC508",
+        "group": "special",
+        "level": 8,
+        "name": "PVSC508_Almirante_Grau",
+        "species": "Cruiser",
+        "nation": "Pan_America",
+        "specials": {
+            "rageMode": "自身未被发现时，每5秒进度加10%，进度达到100%时触发：主炮装填-66%；持续30秒。30秒内没有增加进度时，每1秒减少2%进度"
+        }
+    },
+    {
+        "uuid": "1ca6f415-158c-4b5e-9685-ecfda02a84a3",
+        "index": "PBSC109",
+        "group": "upgradeable",
+        "level": 9,
+        "name": "PBSC109_Neptune",
+        "species": "Cruiser",
+        "nation": "United_Kingdom",
+        "specials": {}
+    },
+    {
+        "uuid": "95075cc8-0221-4645-8fd1-70a40ea286be",
+        "index": "PHSC106",
+        "group": "upgradeable",
+        "level": 6,
+        "name": "PHSC106_Kijkduin",
+        "species": "Cruiser",
+        "nation": "Netherlands",
+        "specials": {}
+    },
+    {
+        "uuid": "852dc6e7-53e6-4228-986d-1f59f68ccfca",
+        "index": "PASB506",
+        "group": "special",
+        "level": 6,
+        "name": "PASB506_Arizona_1941",
+        "species": "Battleship",
+        "nation": "USA",
+        "specials": {}
+    },
+    {
+        "uuid": "7f4e8ad6-de2c-488b-8ed5-09adc0a46b0a",
+        "index": "PASD709",
+        "group": "special",
+        "level": 9,
+        "name": "PASD709_Black",
+        "species": "Destroyer",
+        "nation": "USA",
+        "specials": {}
+    },
+    {
+        "uuid": "caf2c43f-5515-4b25-81df-072701817d87",
+        "index": "PBSA108",
+        "group": "upgradeable",
+        "level": 8,
+        "name": "PBSA108_Implacable",
+        "species": "AirCarrier",
+        "nation": "United_Kingdom",
+        "specials": {}
+    },
+    {
+        "uuid": "db704cfb-13d2-41b6-a90e-ef338bb536ae",
+        "index": "PASD008",
+        "group": "upgradeable",
+        "level": 8,
+        "name": "PASD008_Benson_1945",
+        "species": "Destroyer",
+        "nation": "USA",
+        "specials": {}
+    },
+    {
+        "uuid": "9215ee3e-f0cb-4c4e-85b3-c6c5162e3db1",
+        "index": "PJSA106",
+        "group": "upgradeable",
+        "level": 6,
+        "name": "PJSA106_Ryujo",
+        "species": "AirCarrier",
+        "nation": "Japan",
+        "specials": {}
+    },
+    {
+        "uuid": "fa0a6fed-ff3c-4495-a308-60bf2b00bed5",
+        "index": "PASD027",
+        "group": "upgradeable",
+        "level": 3,
+        "name": "PASD027_Wickes_1918",
+        "species": "Destroyer",
+        "nation": "USA",
+        "specials": {}
+    },
+    {
+        "uuid": "958b935b-373c-4bca-a075-2a7984f9930b",
+        "index": "PASS206",
+        "group": "upgradeable",
+        "level": 6,
+        "name": "PASS206_Cachalot",
+        "species": "Submarine",
+        "nation": "USA",
+        "specials": {}
+    },
+    {
+        "uuid": "6a907b7a-e0c7-4064-befb-3507dff20a70",
+        "index": "PBSC106",
+        "group": "upgradeable",
+        "level": 6,
+        "name": "PBSC106_Leander",
+        "species": "Cruiser",
+        "nation": "United_Kingdom",
+        "specials": {}
+    },
+    {
+        "uuid": "e5f33126-c7ea-4946-b06c-03f82c7946bd",
+        "index": "PBSB505",
+        "group": "special",
+        "level": 5,
+        "name": "PBSB505_Agincourt",
+        "species": "Battleship",
+        "nation": "United_Kingdom",
+        "specials": {}
+    },
+    {
+        "uuid": "4b382a19-c4f8-47b9-96f0-d0bb0f02d137",
+        "index": "PASC107",
+        "group": "upgradeable",
+        "level": 7,
+        "name": "PASC107_New_Orlean_1944",
+        "species": "Cruiser",
+        "nation": "USA",
+        "specials": {}
+    },
+    {
+        "uuid": "38df308e-7cb8-464a-a403-d62dcfb5b6d5",
+        "index": "PJSA111",
+        "group": "superShip",
+        "level": 11,
+        "name": "PJSA111_Sekiryu",
+        "species": "AirCarrier",
+        "nation": "Japan",
+        "specials": {}
+    },
+    {
+        "uuid": "0ba2f952-3128-45f4-8a73-eec19a235680",
+        "index": "PISC607",
+        "group": "special",
+        "level": 7,
+        "name": "PISC607_Gorizia",
+        "species": "Cruiser",
+        "nation": "Italy",
+        "specials": {}
+    },
+    {
+        "uuid": "039378cb-adc7-4a1b-8493-5f271ef71e6e",
+        "index": "PJSB007",
+        "group": "upgradeable",
+        "level": 5,
+        "name": "PJSB007_Kongo_1942",
+        "species": "Battleship",
+        "nation": "Japan",
+        "specials": {}
+    },
+    {
+        "uuid": "72ac3325-56d0-4e86-8311-5513e3d9f1be",
+        "index": "PBSC102",
+        "group": "upgradeable",
+        "level": 2,
+        "name": "PBSC102_Weymouth",
+        "species": "Cruiser",
+        "nation": "United_Kingdom",
+        "specials": {}
+    },
+    {
+        "uuid": "cf1abf3f-a0d3-488b-83c3-a77aa3129379",
+        "index": "PHSC108",
+        "group": "upgradeable",
+        "level": 8,
+        "name": "PHSC108_Haarlem",
+        "species": "Cruiser",
+        "nation": "Netherlands",
+        "specials": {}
+    },
+    {
+        "uuid": "f2c83688-2acb-4e30-af06-569df3d89de8",
+        "index": "PRSD208",
+        "group": "upgradeable",
+        "level": 8,
+        "name": "PRSD208_Pr_30",
+        "species": "Destroyer",
+        "nation": "Russia",
+        "specials": {}
+    },
+    {
+        "uuid": "e1fe9866-bcab-4a6d-9902-df1229375a65",
+        "index": "PJSB700",
+        "group": "ultimate",
+        "level": 10,
+        "name": "PJSB700_ARP_Yamato",
+        "species": "Battleship",
+        "nation": "Japan",
+        "specials": {}
+    },
+    {
+        "uuid": "82296458-77ec-4eb2-9edc-32feafac0546",
+        "index": "PBSA210",
+        "group": "upgradeable",
+        "level": 10,
+        "name": "PBSA210_Audacious",
+        "species": "AirCarrier",
+        "nation": "United_Kingdom",
+        "specials": {}
+    },
+    {
+        "uuid": "64f4c386-2131-4c25-bfb5-3d2f0eee2d59",
+        "index": "PRSC710",
+        "group": "ultimate",
+        "level": 10,
+        "name": "PRSC710_Sevastopol",
+        "species": "Cruiser",
+        "nation": "Russia",
+        "specials": {}
+    },
+    {
+        "uuid": "8309e092-42b7-45ae-8205-125420277a2a",
+        "index": "PGSD529",
+        "group": "special",
+        "level": 9,
+        "name": "PGSD529_ZF_6",
+        "species": "Destroyer",
+        "nation": "Germany",
+        "specials": {}
+    },
+    {
+        "uuid": "630294b2-80c2-40b3-88b0-84660541ff6a",
+        "index": "PASB012",
+        "group": "upgradeable",
+        "level": 8,
+        "name": "PASB012_North_Carolina_1945",
+        "species": "Battleship",
+        "nation": "USA",
+        "specials": {}
+    },
+    {
+        "uuid": "f1641a51-c595-43ca-8ec3-696dfb000cdb",
+        "index": "PASB507",
+        "group": "special",
+        "level": 6,
+        "name": "PASB507_West_Virginia",
+        "species": "Battleship",
+        "nation": "USA",
+        "specials": {}
+    },
+    {
+        "uuid": "190ef24c-51b2-4af3-af4e-e906bf0ef00c",
+        "index": "PGSB207",
+        "group": "upgradeable",
+        "level": 7,
+        "name": "PGSB207_Prinz_Heinrich",
+        "species": "Battleship",
+        "nation": "Germany",
+        "specials": {}
+    },
+    {
+        "uuid": "7d96100b-26de-4cf2-8a9d-8b92571a7fda",
+        "index": "PJSC209",
+        "group": "upgradeable",
+        "level": 9,
+        "name": "PJSC209_Takahashi",
+        "species": "Cruiser",
+        "nation": "Japan",
+        "specials": {}
+    },
+    {
+        "uuid": "b2bcb445-b142-4c8b-a790-842b245ea4ae",
+        "index": "PBSB517",
+        "group": "special",
+        "level": 7,
+        "name": "PBSB517_Nelson",
+        "species": "Battleship",
+        "nation": "United_Kingdom",
+        "specials": {}
+    },
+    {
+        "uuid": "709498d3-8d0e-47da-b1fc-b5e9cd91c8c0",
+        "index": "PASC509",
+        "group": "specialUnsellable",
+        "level": 9,
+        "name": "PASC509_Vallejo",
+        "species": "Cruiser",
+        "nation": "USA",
+        "specials": {}
+    },
+    {
+        "uuid": "ba584001-f2b0-4873-8fa9-3427e8f115b0",
+        "index": "PASD006",
+        "group": "upgradeable",
+        "level": 7,
+        "name": "PASD006_Mahan_1936",
+        "species": "Destroyer",
+        "nation": "USA",
+        "specials": {}
+    },
+    {
+        "uuid": "825593fd-30f4-4cb7-85bb-430544230242",
+        "index": "PJSD598",
+        "group": "special",
+        "level": 8,
+        "name": "PJSD598_Black_Asashio",
+        "species": "Destroyer",
+        "nation": "Japan",
+        "specials": {}
+    },
+    {
+        "uuid": "3855b4b0-5e18-47af-a920-98c57f35ada7",
+        "index": "PISC108",
+        "group": "upgradeable",
+        "level": 8,
+        "name": "PISC108_Amalfi",
+        "species": "Cruiser",
+        "nation": "Italy",
+        "specials": {}
+    },
+    {
+        "uuid": "fec858d0-5f5f-4759-baf7-d44fd97f7e7c",
+        "index": "PASC207",
+        "group": "upgradeable",
+        "level": 7,
+        "name": "PASC207_Helena",
+        "species": "Cruiser",
+        "nation": "USA",
+        "specials": {}
+    },
+    {
+        "uuid": "6ffb649b-5138-4810-b0c6-8e7bf14d13d5",
+        "index": "PVSC109",
+        "group": "earlyAccess",
+        "level": 9,
+        "name": "PVSC109_Santander",
+        "species": "Cruiser",
+        "nation": "Pan_America",
+        "specials": {
+            "rageMode": "每座炮塔的一次射击中的1枚炮弹命中目标时进度加3.3%，进度达到100%时触发：所有消耗品装填时间-80%；持续30秒。15秒内没有增加进度时，每1秒减少15%进度"
+        }
+    },
+    {
+        "uuid": "67375a54-a024-4356-8f50-4046f7d5015e",
+        "index": "PASD014",
+        "group": "upgradeable",
+        "level": 5,
+        "name": "PASD014_Leader_1919",
+        "species": "Destroyer",
+        "nation": "USA",
+        "specials": {}
+    },
+    {
+        "uuid": "157c2594-375f-47cd-b96f-b1c9171b2f30",
+        "index": "PJSC519",
+        "group": "special",
+        "level": 9,
+        "name": "PJSC519_AZUR_Azuma",
+        "species": "Cruiser",
+        "nation": "Japan",
+        "specials": {}
+    },
+    {
+        "uuid": "435d4b12-949a-43de-8c60-b1f3ec12d748",
+        "index": "PFSB510",
+        "group": "ultimate",
+        "level": 10,
+        "name": "PFSB510_Bourgogne",
+        "species": "Battleship",
+        "nation": "France",
+        "specials": {}
+    },
+    {
+        "uuid": "25785527-61f6-4613-bee9-246042c60e77",
+        "index": "PHSC109",
+        "group": "upgradeable",
+        "level": 9,
+        "name": "PHSC109_Johan_de_Witt",
+        "species": "Cruiser",
+        "nation": "Netherlands",
+        "specials": {}
+    },
+    {
+        "uuid": "64d778b3-5ed0-41a3-a726-fdd47150542f",
+        "index": "PASD021",
+        "group": "upgradeable",
+        "level": 9,
+        "name": "PASD021_Fletcher_1943",
+        "species": "Destroyer",
+        "nation": "USA",
+        "specials": {}
+    },
+    {
+        "uuid": "df82f59e-6a6d-45b6-878e-4af3d53f5f05",
+        "index": "PRSC108",
+        "group": "upgradeable",
+        "level": 8,
+        "name": "PRSC108_Pr_68_Chapaev",
+        "species": "Cruiser",
+        "nation": "Russia",
+        "specials": {}
+    },
+    {
+        "uuid": "0f093d1f-a2a6-41ff-a372-d36774508826",
+        "index": "PVSC108",
+        "group": "earlyAccess",
+        "level": 8,
+        "name": "PVSC108_Ignacio_Allende",
+        "species": "Cruiser",
+        "nation": "Pan_America",
+        "specials": {
+            "rageMode": "每座炮塔的一次射击中的1枚炮弹命中目标时进度加3.7%，进度达到100%时触发：所有消耗品装填时间-80%；持续30秒。15秒内没有增加进度时，每1秒减少15%进度"
+        }
+    },
+    {
+        "uuid": "f3b5d5bb-2742-4516-8acd-c57a5354dd5c",
+        "index": "PGSA110",
+        "group": "upgradeable",
+        "level": 10,
+        "name": "PGSA110_Manfred_Richthofen",
+        "species": "AirCarrier",
+        "nation": "Germany",
+        "specials": {}
+    },
+    {
+        "uuid": "c1514790-6b67-479b-b4f2-6c7179e3c305",
+        "index": "PHSC508",
+        "group": "special",
+        "level": 8,
+        "name": "PHSC508_De_Zeven_Provincien",
+        "species": "Cruiser",
+        "nation": "Netherlands",
+        "specials": {}
+    },
+    {
+        "uuid": "5e9bfbea-901b-44d9-95d8-eefa40b378bf",
+        "index": "PGSA506",
+        "group": "special",
+        "level": 6,
+        "name": "PGSA506_Erich_Loewenhardt",
+        "species": "AirCarrier",
+        "nation": "Germany",
+        "specials": {}
+    },
+    {
+        "uuid": "efdbdde3-28fd-4839-87c4-d5a12fcdb20f",
+        "index": "PBSC526",
+        "group": "special",
+        "level": 6,
+        "name": "PBSC526_Dido",
+        "species": "Cruiser",
+        "nation": "United_Kingdom",
+        "specials": {}
+    },
+    {
+        "uuid": "d0b17645-b92f-4995-9237-228f35d72991",
+        "index": "PASA111",
+        "group": "superShip",
+        "level": 11,
+        "name": "PASA111_United_States",
+        "species": "AirCarrier",
+        "nation": "USA",
+        "specials": {}
+    },
+    {
+        "uuid": "23e092f5-0079-4839-9837-acde84d35f9e",
+        "index": "PISD102",
+        "group": "upgradeable",
+        "level": 2,
+        "name": "PISD102_Curtatone",
+        "species": "Destroyer",
+        "nation": "Italy",
+        "specials": {}
+    },
+    {
+        "uuid": "796e00c4-2187-4d58-920a-ec616c95e2e1",
+        "index": "PASD013",
+        "group": "upgradeable",
+        "level": 10,
+        "name": "PASD013_Gearing_1945",
+        "species": "Destroyer",
+        "nation": "USA",
+        "specials": {}
+    },
+    {
+        "uuid": "5f5b189a-44cc-4d44-9a61-d629a3a7fa3a",
+        "index": "PASB004",
+        "group": "upgradeable",
+        "level": 4,
+        "name": "PASB004_Arkansas_1912",
+        "species": "Battleship",
+        "nation": "USA",
+        "specials": {}
+    },
+    {
+        "uuid": "2e1fe883-c67c-469d-8d3f-87023da8369d",
+        "index": "PBSA204",
+        "group": "upgradeable",
+        "level": 4,
+        "name": "PBSA204_Hermes",
+        "species": "AirCarrier",
+        "nation": "United_Kingdom",
+        "specials": {}
+    },
+    {
+        "uuid": "b31905d7-5517-4723-ba05-f1df0aaf204f",
+        "index": "PFSC896",
+        "group": "coopOnly",
+        "level": 6,
+        "name": "PFSC896_La_Galissonniere_coop",
+        "species": "Cruiser",
+        "nation": "France",
+        "specials": {}
+    },
+    {
+        "uuid": "d606b5c4-284f-4ae4-af9f-521f47b3f816",
+        "index": "PISB105",
+        "group": "upgradeable",
+        "level": 5,
+        "name": "PISB105_Conte_di_Cavour",
+        "species": "Battleship",
+        "nation": "Italy",
+        "specials": {}
+    },
+    {
+        "uuid": "98b6b189-8ef0-457c-a4d2-6c4f37727222",
+        "index": "PASD019",
+        "group": "upgradeable",
+        "level": 4,
+        "name": "PASD019_Clemson_1920",
+        "species": "Destroyer",
+        "nation": "USA",
+        "specials": {}
+    },
+    {
+        "uuid": "60fd7595-87f8-4d94-8279-92a3fc7f7acc",
+        "index": "PASB001",
+        "group": "upgradeable",
+        "level": 3,
+        "name": "PASB001_Michigan_1916",
+        "species": "Battleship",
+        "nation": "USA",
+        "specials": {}
+    },
+    {
+        "uuid": "93fe7927-5896-4d90-9055-b5a079fec102",
+        "index": "PJSD889",
+        "group": "special",
+        "level": 9,
+        "name": "PJSD889_Kitakaze_PR",
+        "species": "Destroyer",
+        "nation": "Japan",
+        "specials": {}
+    },
+    {
+        "uuid": "db5b6339-d051-415a-9250-757a53b1a1f0",
+        "index": "PISC506",
+        "group": "special",
+        "level": 6,
+        "name": "PISC506_DucadAosta",
+        "species": "Cruiser",
+        "nation": "Italy",
+        "specials": {}
+    },
+    {
+        "uuid": "bd88c306-1119-4c58-ab38-b57cefb91c23",
+        "index": "PRSC110",
+        "group": "ultimate",
+        "level": 10,
+        "name": "PRSC110_Pr_66_Moskva",
+        "species": "Cruiser",
+        "nation": "Russia",
+        "specials": {}
+    },
+    {
+        "uuid": "834baa67-ba3f-4b72-ba0d-f867edffcac5",
+        "index": "PZSD108",
+        "group": "upgradeable",
+        "level": 8,
+        "name": "PZSD108_Hsien_Yang",
+        "species": "Destroyer",
+        "nation": "Pan_Asia",
+        "specials": {}
+    },
+    {
+        "uuid": "4035c431-6cb7-426f-b5eb-5f2b752a9e4b",
+        "index": "PRSB001",
+        "group": "special",
+        "level": 4,
+        "name": "PRSB001_Nikolay_I",
+        "species": "Battleship",
+        "nation": "Russia",
+        "specials": {}
+    },
+    {
+        "uuid": "ae5e11d5-6fb7-43c5-ab5d-d56bfd425b12",
+        "index": "PJSD105",
+        "group": "upgradeable",
+        "level": 5,
+        "name": "PJSD105_Mutsuki",
+        "species": "Destroyer",
+        "nation": "Japan",
+        "specials": {}
+    },
+    {
+        "uuid": "ba35fea8-5728-4cf1-bb5c-99fb314383c0",
+        "index": "PGSC002",
+        "group": "upgradeable",
+        "level": 2,
+        "name": "PGSC002_Drezden_1908",
+        "species": "Cruiser",
+        "nation": "Germany",
+        "specials": {}
+    },
+    {
+        "uuid": "2b1c4026-27c5-4bec-bf9e-abaee36c4668",
+        "index": "PGSD506",
+        "group": "special",
+        "level": 6,
+        "name": "PGSD506_T_61",
+        "species": "Destroyer",
+        "nation": "Germany",
+        "specials": {}
+    },
+    {
+        "uuid": "1ef6e38f-480e-40cd-88b0-0a382d6f3974",
+        "index": "PGSD102",
+        "group": "upgradeable",
+        "level": 2,
+        "name": "PGSD102_V_25",
+        "species": "Destroyer",
+        "nation": "Germany",
+        "specials": {}
+    },
+    {
+        "uuid": "a712bf99-4523-4612-813a-0d4e63b962eb",
+        "index": "PGSC809",
+        "group": "demoWithoutStats",
+        "level": 9,
+        "name": "PGSC809_Colorful_Roon",
+        "species": "Cruiser",
+        "nation": "Germany",
+        "specials": {}
+    },
+    {
+        "uuid": "a67949ce-0be0-46de-8d2a-8c670a1f90a2",
+        "index": "PASC518",
+        "group": "special",
+        "level": 8,
+        "name": "PASC518_Anchorage",
+        "species": "Cruiser",
+        "nation": "USA",
+        "specials": {}
+    },
+    {
+        "uuid": "a078a1c3-4337-4305-9238-c28db7528d24",
+        "index": "PJSD518",
+        "group": "special",
+        "level": 8,
+        "name": "PJSD518_Asashio",
+        "species": "Destroyer",
+        "nation": "Japan",
+        "specials": {}
+    },
+    {
+        "uuid": "575b7e19-de51-4d5e-8729-a0fae5b9bf06",
+        "index": "PJSD002",
+        "group": "upgradeable",
+        "level": 2,
+        "name": "PJSD002_Umikaze_1925",
+        "species": "Destroyer",
+        "nation": "Japan",
+        "specials": {}
+    },
+    {
+        "uuid": "f2988aa4-4e09-42fa-8e94-09613a894082",
+        "index": "PASC599",
+        "group": "special",
+        "level": 9,
+        "name": "PASC599_Black_Alaska",
+        "species": "Cruiser",
+        "nation": "USA",
+        "specials": {}
+    },
+    {
+        "uuid": "ba016eb7-b462-498e-bafa-99dae5fec044",
+        "index": "PGSC507",
+        "group": "special",
+        "level": 7,
+        "name": "PGSC507_Munchen",
+        "species": "Cruiser",
+        "nation": "Germany",
+        "specials": {}
+    },
+    {
+        "uuid": "b2005d6d-9369-4c42-8931-d6d54516fa2b",
+        "index": "PJSB010",
+        "group": "upgradeable",
+        "level": 7,
+        "name": "PJSB010_Nagato_1944",
+        "species": "Battleship",
+        "nation": "Japan",
+        "specials": {}
+    },
+    {
+        "uuid": "7bdb8e91-0c8f-4c9d-b2e3-89868d319706",
+        "index": "PASD002",
+        "group": "upgradeable",
+        "level": 2,
+        "name": "PASD002_Sampson_1917",
+        "species": "Destroyer",
+        "nation": "USA",
+        "specials": {}
+    },
+    {
+        "uuid": "f069d130-35ab-4b23-8073-72133158348b",
+        "index": "PASC004",
+        "group": "upgradeable",
+        "level": 3,
+        "name": "PASC004_St_Louis_1906",
+        "species": "Cruiser",
+        "nation": "USA",
+        "specials": {}
+    },
+    {
+        "uuid": "de218df5-f3be-4737-925c-2a892b627cd7",
+        "index": "PFSC106",
+        "group": "upgradeable",
+        "level": 6,
+        "name": "PFSC106_La_Galissonniere",
+        "species": "Cruiser",
+        "nation": "France",
+        "specials": {}
+    },
+    {
+        "uuid": "d2edf270-92f9-4276-bf9a-47197a1e9652",
+        "index": "PJSC035",
+        "group": "upgradeable",
+        "level": 2,
+        "name": "PJSC035_Chikuma_1912",
+        "species": "Cruiser",
+        "nation": "Japan",
+        "specials": {}
+    },
+    {
+        "uuid": "77938dca-3a9c-442b-8710-247cc9abc674",
+        "index": "PBSC111",
+        "group": "superShip",
+        "level": 11,
+        "name": "PBSC111_Edgar",
+        "species": "Cruiser",
+        "nation": "United_Kingdom",
+        "specials": {
+            "burstMode": "连续射击3轮，每轮间隔2秒，此模式下：主炮AP标伤+50%,AP穿深+100%；装填35秒。"
+        }
+    },
+    {
+        "uuid": "277c756d-5c2f-4515-a19f-fa6ab88e60fc",
+        "index": "PZSC106",
+        "group": "upgradeable",
+        "level": 6,
+        "name": "PZSC106_Rahmat",
+        "species": "Cruiser",
+        "nation": "Pan_Asia",
+        "specials": {}
+    },
+    {
+        "uuid": "fe8e62e6-7134-41b3-bbf1-128a7786e168",
+        "index": "PRSD210",
+        "group": "upgradeable",
+        "level": 10,
+        "name": "PRSD210_Grozovoy_pr_40N",
+        "species": "Destroyer",
+        "nation": "Russia",
+        "specials": {}
+    },
+    {
+        "uuid": "88c90bdd-d95e-49ed-8f14-d9147efcfa8d",
+        "index": "PASB598",
+        "group": "special",
+        "level": 8,
+        "name": "PASB598_Black_Massachusetts",
+        "species": "Battleship",
+        "nation": "USA",
+        "specials": {}
+    },
+    {
+        "uuid": "3b9ff3b4-99de-42f5-9717-484d34dcf7b5",
+        "index": "PISC109",
+        "group": "upgradeable",
+        "level": 9,
+        "name": "PISC109_Brindisi",
+        "species": "Cruiser",
+        "nation": "Italy",
+        "specials": {}
+    },
+    {
+        "uuid": "3a4ff561-c436-4fee-90dd-0ebd994726aa",
+        "index": "PFSC102",
+        "group": "upgradeable",
+        "level": 2,
+        "name": "PFSC102_Jurien",
+        "species": "Cruiser",
+        "nation": "France",
+        "specials": {}
+    },
+    {
+        "uuid": "bd7d0ca4-b24f-4c14-8be5-08523b534c5b",
+        "index": "PWSB504",
+        "group": "special",
+        "level": 5,
+        "name": "PWSB504_Viribus_Unitis",
+        "species": "Battleship",
+        "nation": "Europe",
+        "specials": {}
+    },
+    {
+        "uuid": "99c6a63a-d226-4248-acd0-722f369da057",
+        "index": "PZSC518",
+        "group": "special",
+        "level": 8,
+        "name": "PZSC518_Martel_Wukong",
+        "species": "Cruiser",
+        "nation": "Pan_Asia",
+        "specials": {}
+    },
+    {
+        "uuid": "a7be45cc-f51a-406a-963e-39a85e679de4",
+        "index": "PFSC109",
+        "group": "upgradeable",
+        "level": 9,
+        "name": "PFSC109_Saint_Louis",
+        "species": "Cruiser",
+        "nation": "France",
+        "specials": {}
+    },
+    {
+        "uuid": "edc02353-73bf-469f-bf81-a200d8f91c48",
+        "index": "PBSB509",
+        "group": "special",
+        "level": 9,
+        "name": "PBSB509_Marlborough",
+        "species": "Battleship",
+        "nation": "United_Kingdom",
+        "specials": {}
+    },
+    {
+        "uuid": "0318c12b-6cf6-4720-82bf-a845268ea327",
+        "index": "PFSD107",
+        "group": "upgradeable",
+        "level": 7,
+        "name": "PFSD107_Vauquelin",
+        "species": "Destroyer",
+        "nation": "France",
+        "specials": {}
+    },
+    {
+        "uuid": "3b367ea8-a654-47ce-8da6-d19c8c4704e5",
+        "index": "PRSD111",
+        "group": "superShip",
+        "level": 11,
+        "name": "PRSD111_Zorky",
+        "species": "Destroyer",
+        "nation": "Russia",
+        "specials": {
+            "burstMode": "连续射击4轮，每轮间隔1秒，此模式下：主炮HE穿深+50%；装填40秒。"
+        }
+    },
+    {
+        "uuid": "951e654f-8de8-4e28-acf3-bfde087b04a1",
+        "index": "PRSB108",
+        "group": "upgradeable",
+        "level": 8,
+        "name": "PRSB108_Vladivostok",
+        "species": "Battleship",
+        "nation": "Russia",
+        "specials": {}
+    },
+    {
+        "uuid": "0109cce7-fb72-4529-9801-fdb7458cb19b",
+        "index": "PFSB109",
+        "group": "upgradeable",
+        "level": 9,
+        "name": "PFSB109_Alsace",
+        "species": "Battleship",
+        "nation": "France",
+        "specials": {}
+    },
+    {
+        "uuid": "e04339ad-c284-4d4b-9a2f-30e2678710e7",
+        "index": "PJSC008",
+        "group": "upgradeable",
+        "level": 7,
+        "name": "PJSC008_Myoko_1945",
+        "species": "Cruiser",
+        "nation": "Japan",
+        "specials": {}
+    },
+    {
+        "uuid": "f32cc1ff-0a7e-4c02-aaad-bc5ee9893bb0",
+        "index": "PASC210",
+        "group": "upgradeable",
+        "level": 10,
+        "name": "PASC210_Worcester",
+        "species": "Cruiser",
+        "nation": "USA",
+        "specials": {}
+    },
+    {
+        "uuid": "7c1a9692-02bb-4b03-9e27-7d60fee75d31",
+        "index": "PJSC206",
+        "group": "upgradeable",
+        "level": 6,
+        "name": "PJSC206_Gokase",
+        "species": "Cruiser",
+        "nation": "Japan",
+        "specials": {}
+    },
+    {
+        "uuid": "461f7100-6b6d-43d6-bb94-9c51ba809659",
+        "index": "PBSC208",
+        "group": "upgradeable",
+        "level": 8,
+        "name": "PBSC208_Albemarle",
+        "species": "Cruiser",
+        "nation": "United_Kingdom",
+        "specials": {}
+    },
+    {
+        "uuid": "4e40657d-c160-417a-9ce5-2d1966b7e597",
+        "index": "PRSB510",
+        "group": "ultimate",
+        "level": 10,
+        "name": "PRSB510_Slava",
+        "species": "Battleship",
+        "nation": "Russia",
+        "specials": {}
+    },
+    {
+        "uuid": "2b3cd2ed-f9c7-4777-ba6b-fc689b0421cc",
+        "index": "PRSC525",
+        "group": "special",
+        "level": 5,
+        "name": "PRSC525_Kirov",
+        "species": "Cruiser",
+        "nation": "Russia",
+        "specials": {}
+    },
+    {
+        "uuid": "5cc13661-3393-4bd9-a9cd-fc0780d8a7d9",
+        "index": "PGSD110",
+        "group": "upgradeable",
+        "level": 10,
+        "name": "PGSD110_Z_52",
+        "species": "Destroyer",
+        "nation": "Germany",
+        "specials": {}
+    },
+    {
+        "uuid": "1dcd2a9a-a2e0-4d2a-93fd-9f135051303f",
+        "index": "PGSC108",
+        "group": "upgradeable",
+        "level": 8,
+        "name": "PGSC108_Hipper",
+        "species": "Cruiser",
+        "nation": "Germany",
+        "specials": {}
+    },
+    {
+        "uuid": "7b4a244d-02e3-47dd-8236-a06c1e839c91",
+        "index": "PBSD102",
+        "group": "upgradeable",
+        "level": 2,
+        "name": "PBSD102_Medea",
+        "species": "Destroyer",
+        "nation": "United_Kingdom",
+        "specials": {}
+    },
+    {
+        "uuid": "a567e545-0710-4949-b5c5-0974a5f53a0a",
+        "index": "PRSC610",
+        "group": "ultimate",
+        "level": 10,
+        "name": "PRSC610_Smolensk",
+        "species": "Cruiser",
+        "nation": "Russia",
+        "specials": {}
+    },
+    {
+        "uuid": "5a2dd7e5-780d-4848-bdc0-1ad66c119b4e",
+        "index": "PBSD517",
+        "group": "special",
+        "level": 8,
+        "name": "PBSD517_Cossack",
+        "species": "Destroyer",
+        "nation": "United_Kingdom",
+        "specials": {}
+    },
+    {
+        "uuid": "d440ba26-6ac3-4e2e-8cce-4204e0c857cf",
+        "index": "PASC002",
+        "group": "upgradeable",
+        "level": 2,
+        "name": "PASC002_Chester_1908",
+        "species": "Cruiser",
+        "nation": "USA",
+        "specials": {}
+    },
+    {
+        "uuid": "e6d1e3f0-2452-4e75-be01-bc1601982467",
+        "index": "PASD597",
+        "group": "special",
+        "level": 7,
+        "name": "PASD597_Black_Sims",
+        "species": "Destroyer",
+        "nation": "USA",
+        "specials": {}
+    },
+    {
+        "uuid": "6da5553c-6b66-41f9-a6ce-614acd632515",
+        "index": "PVSC110",
+        "group": "earlyAccess",
+        "level": 10,
+        "name": "PVSC110_San_Martin",
+        "species": "Cruiser",
+        "nation": "Pan_America",
+        "specials": {
+            "rageMode": "每座炮塔的一次射击中的1枚炮弹命中目标时进度加3%，进度达到100%时触发：所有消耗品装填时间-85%；持续30秒。15秒内没有增加进度时，每1秒减少15%进度"
+        }
+    },
+    {
+        "uuid": "15014b53-f47c-441f-894a-90bd28ddd7b6",
+        "index": "PHSC102",
+        "group": "upgradeable",
+        "level": 2,
+        "name": "PHSC102_Gelderland",
+        "species": "Cruiser",
+        "nation": "Netherlands",
+        "specials": {}
+    },
+    {
+        "uuid": "9d7512db-2e95-4b69-8512-91d386acf633",
+        "index": "PBSD105",
+        "group": "upgradeable",
+        "level": 5,
+        "name": "PBSD105_Acasta",
+        "species": "Destroyer",
+        "nation": "United_Kingdom",
+        "specials": {}
+    },
+    {
+        "uuid": "1b15c597-e544-4f93-acb4-c83e66976462",
+        "index": "PASB599",
+        "group": "special",
+        "level": 9,
+        "name": "PASB599_Black_Kearsarge",
+        "species": "Battleship",
+        "nation": "USA",
+        "specials": {}
+    },
+    {
+        "uuid": "9e8b8567-f256-4065-b944-1e485f0db1f9",
+        "index": "PRSC210",
+        "group": "upgradeable",
+        "level": 10,
+        "name": "PRSC210_Pr_84_Alexander_Nevsky",
+        "species": "Cruiser",
+        "nation": "Russia",
+        "specials": {}
+    },
+    {
+        "uuid": "3ee24f65-44ad-494a-970c-31413b2453b6",
+        "index": "PISC505",
+        "group": "special",
+        "level": 5,
+        "name": "PISC505_Genova",
+        "species": "Cruiser",
+        "nation": "Italy",
+        "specials": {}
+    },
+    {
+        "uuid": "9fc02436-5368-43d4-9f8e-404f8ba9fa28",
+        "index": "PJSA518",
+        "group": "special",
+        "level": 8,
+        "name": "PJSA518_Kaga",
+        "species": "AirCarrier",
+        "nation": "Japan",
+        "specials": {}
+    },
+    {
+        "uuid": "9fc63284-995b-4156-85d1-f1d7e470d9ee",
+        "index": "PRSB106",
+        "group": "upgradeable",
+        "level": 6,
+        "name": "PRSB106_Izmail",
+        "species": "Battleship",
+        "nation": "Russia",
+        "specials": {}
+    },
+    {
+        "uuid": "d7f08a01-d113-4771-9378-6241e1b458a9",
+        "index": "PBSS106",
+        "group": "upgradeable",
+        "level": 6,
+        "name": "PBSS106_Undine",
+        "species": "Submarine",
+        "nation": "United_Kingdom",
+        "specials": {}
+    },
+    {
+        "uuid": "2eb15fb0-6f3d-45ed-a569-be144f92cb5a",
+        "index": "PWSD990",
+        "group": "demoWithoutStats",
+        "level": 10,
+        "name": "PWSD990_Sodermanland",
+        "species": "Destroyer",
+        "nation": "Europe",
+        "specials": {}
+    },
+    {
+        "uuid": "e55d208b-0eec-4fd5-9646-1ab31450bf67",
+        "index": "PRSB110",
+        "group": "upgradeable",
+        "level": 10,
+        "name": "PRSB110_Sovetskaya_Rossiya",
+        "species": "Battleship",
+        "nation": "Russia",
+        "specials": {}
+    },
+    {
+        "uuid": "76b35920-d550-4788-9145-f5c1fa322806",
+        "index": "PGSC001",
+        "group": "start",
+        "level": 1,
+        "name": "PGSC001_Hermelin_1940",
+        "species": "Cruiser",
+        "nation": "Germany",
+        "specials": {}
+    },
+    {
+        "uuid": "36ece1ba-c4d8-4206-8a7d-804485b993e3",
+        "index": "PASS210",
+        "group": "upgradeable",
+        "level": 10,
+        "name": "PASS210_Balao",
+        "species": "Submarine",
+        "nation": "USA",
+        "specials": {}
+    },
+    {
+        "uuid": "0e69fe05-ed8d-4ac7-a07e-606b863ade38",
+        "index": "PASB034",
+        "group": "upgradeable",
+        "level": 6,
+        "name": "PASB034_New_Mexico_1941",
+        "species": "Battleship",
+        "nation": "USA",
+        "specials": {}
+    },
+    {
+        "uuid": "0154c970-3666-4c2e-8b44-5b3649869660",
+        "index": "PGSS208",
+        "group": "upgradeable",
+        "level": 8,
+        "name": "PGSS208_U190",
+        "species": "Submarine",
+        "nation": "Germany",
+        "specials": {}
+    },
+    {
+        "uuid": "651b6bc5-6dac-45c4-8c5f-0260fb345bc0",
+        "index": "PGSB107",
+        "group": "upgradeable",
+        "level": 7,
+        "name": "PGSB107_Gneisenau",
+        "species": "Battleship",
+        "nation": "Germany",
+        "specials": {}
+    },
+    {
+        "uuid": "5f1b49ab-cc3c-4969-bfeb-11ace0e0fbd1",
+        "index": "PGSA518",
+        "group": "special",
+        "level": 8,
+        "name": "PGSA518_Graf_Zeppelin",
+        "species": "AirCarrier",
+        "nation": "Germany",
+        "specials": {}
+    },
+    {
+        "uuid": "c3093818-3509-4422-8bec-9398da603acd",
+        "index": "PJSC009",
+        "group": "upgradeable",
+        "level": 8,
+        "name": "PJSC009_Mogami_1935",
+        "species": "Cruiser",
+        "nation": "Japan",
+        "specials": {}
+    },
+    {
+        "uuid": "5c1ccc8c-7637-4fe3-a0a0-caeeb68ebbe6",
+        "index": "PFSC108",
+        "group": "upgradeable",
+        "level": 8,
+        "name": "PFSC108_Charles_Martel",
+        "species": "Cruiser",
+        "nation": "France",
+        "specials": {}
+    },
+    {
+        "uuid": "a83616cb-761a-4831-85c6-bbcef64ffdb8",
+        "index": "PJSC026",
+        "group": "special",
+        "level": 4,
+        "name": "PJSC026_Iwaki_1944",
+        "species": "Cruiser",
+        "nation": "Japan",
+        "specials": {}
+    },
+    {
+        "uuid": "adb926a1-5060-4da3-8462-0add5e7f929b",
+        "index": "PGSB204",
+        "group": "upgradeable",
+        "level": 4,
+        "name": "PGSB204_Moltke",
+        "species": "Battleship",
+        "nation": "Germany",
+        "specials": {}
+    },
+    {
+        "uuid": "565bf355-9f3e-49c9-b22f-97bf1c162b28",
+        "index": "PSSD510",
+        "group": "ultimate",
+        "level": 10,
+        "name": "PSSD510_Alvaro_de_Bazan",
+        "species": "Destroyer",
+        "nation": "Spain",
+        "specials": {
+            "burstMode": "连续射击3轮，每轮间隔1秒，装填24秒。"
+        }
+    },
+    {
+        "uuid": "53fb7620-ae98-44c9-b0ed-ac2463ac6f24",
+        "index": "PZSD104",
+        "group": "upgradeable",
+        "level": 4,
+        "name": "PZSD104_Shen_Yang",
+        "species": "Destroyer",
+        "nation": "Pan_Asia",
+        "specials": {}
+    },
+    {
+        "uuid": "472f0614-c97b-47b9-acd9-6750efba9824",
+        "index": "PRSC002",
+        "group": "special",
+        "level": 2,
+        "name": "PRSC002_Diana_1905",
+        "species": "Cruiser",
+        "nation": "Russia",
+        "specials": {}
+    },
+    {
+        "uuid": "4ddc4de5-30db-4f9a-a6de-d739bf5b956d",
+        "index": "PASB729",
+        "group": "special",
+        "level": 9,
+        "name": "PASB729_Georgia",
+        "species": "Battleship",
+        "nation": "USA",
+        "specials": {}
+    },
+    {
+        "uuid": "b7c0c545-31e7-40b5-ad53-40ecee71cff7",
+        "index": "PJSC007",
+        "group": "upgradeable",
+        "level": 6,
+        "name": "PJSC007_Aoba_1943",
+        "species": "Cruiser",
+        "nation": "Japan",
+        "specials": {}
+    },
+    {
+        "uuid": "46bb6def-c27b-4be8-81c6-e0a25faaaa79",
+        "index": "PJSB111",
+        "group": "superShip",
+        "level": 11,
+        "name": "PJSB111_Satsuma",
+        "species": "Battleship",
+        "nation": "Japan",
+        "specials": {
+            "rageMode": "每枚炮弹落在目标周围1000米内进度加5%，进度达到100%时触发：主炮散布-35%；持续25秒。45秒内没有增加进度时，每1秒减少4%进度"
+        }
+    },
+    {
+        "uuid": "47c7522c-858e-4bc9-859b-83a6607e3aac",
+        "index": "PGSB610",
+        "group": "ultimate",
+        "level": 10,
+        "name": "PGSB610_Mecklenburg",
+        "species": "Battleship",
+        "nation": "Germany",
+        "specials": {}
+    },
+    {
+        "uuid": "64653628-4e18-4c59-8c08-7efcdad54ec4",
+        "index": "PASC003",
+        "group": "special",
+        "level": 2,
+        "name": "PASC003_Albany_1898",
+        "species": "Cruiser",
+        "nation": "USA",
+        "specials": {}
+    },
+    {
+        "uuid": "18d07bf9-997c-4f4d-861b-f07e6f19d3ea",
+        "index": "PGSB104",
+        "group": "upgradeable",
+        "level": 4,
+        "name": "PGSB104_Kaiser",
+        "species": "Battleship",
+        "nation": "Germany",
+        "specials": {}
+    },
+    {
+        "uuid": "adb5b245-278a-432e-bdd2-44b0591e4e2b",
+        "index": "PBSC888",
+        "group": "special",
+        "level": 8,
+        "name": "PBSC888_Edinburgh_PR",
+        "species": "Cruiser",
+        "nation": "United_Kingdom",
+        "specials": {}
+    },
+    {
+        "uuid": "b1e270b1-5e71-4c84-be8a-56fddd5be9d0",
+        "index": "PBSC205",
+        "group": "upgradeable",
+        "level": 5,
+        "name": "PBSC205_Hawkins",
+        "species": "Cruiser",
+        "nation": "United_Kingdom",
+        "specials": {}
+    },
+    {
+        "uuid": "3002697f-aceb-4270-a347-feb022fd9b58",
+        "index": "PBSB106",
+        "group": "upgradeable",
+        "level": 6,
+        "name": "PBSB106_Queen_Elizabeth",
+        "species": "Battleship",
+        "nation": "United_Kingdom",
+        "specials": {}
+    },
+    {
+        "uuid": "a3786b8f-a443-42c3-91be-dd4ec63cb324",
+        "index": "PRSD410",
+        "group": "upgradeable",
+        "level": 10,
+        "name": "PRSD410_Delny",
+        "species": "Destroyer",
+        "nation": "Russia",
+        "specials": {}
+    },
+    {
+        "uuid": "98ad0daf-2942-4b73-81f2-311c65cc8304",
+        "index": "PJSC505",
+        "group": "special",
+        "level": 5,
+        "name": "PJSC505_Yahagi",
+        "species": "Cruiser",
+        "nation": "Japan",
+        "specials": {}
+    },
+    {
+        "uuid": "7bab3c26-c6cc-4875-ab16-808d71452563",
+        "index": "PASC108",
+        "group": "upgradeable",
+        "level": 8,
+        "name": "PASC108_Baltimore_1944",
+        "species": "Cruiser",
+        "nation": "USA",
+        "specials": {}
+    },
+    {
+        "uuid": "7f409ec0-6554-4011-9fb0-eb572de5caa1",
+        "index": "PRSD709",
+        "group": "specialUnsellable",
+        "level": 9,
+        "name": "PRSD709_Pr_41_Neustrashimy",
+        "species": "Destroyer",
+        "nation": "Russia",
+        "specials": {}
+    },
+    {
+        "uuid": "3fc37e55-e4bc-443f-83ab-73ceb6985f72",
+        "index": "PGSB209",
+        "group": "upgradeable",
+        "level": 9,
+        "name": "PGSB209_Prinz_Rupprecht",
+        "species": "Battleship",
+        "nation": "Germany",
+        "specials": {}
+    },
+    {
+        "uuid": "94780011-6a3c-4db6-9a22-9f420999005f",
+        "index": "PGSB108",
+        "group": "upgradeable",
+        "level": 8,
+        "name": "PGSB108_Bismarck",
+        "species": "Battleship",
+        "nation": "Germany",
+        "specials": {}
+    },
+    {
+        "uuid": "18dcf279-0dcc-4dac-84e6-cf04e7272e69",
+        "index": "PZSD102",
+        "group": "upgradeable",
+        "level": 2,
+        "name": "PZSD102_Long_Jiang",
+        "species": "Destroyer",
+        "nation": "Pan_Asia",
+        "specials": {}
+    },
+    {
+        "uuid": "2b31908f-1ef1-47ae-a97a-d3a38af5398d",
+        "index": "PFSB107",
+        "group": "upgradeable",
+        "level": 7,
+        "name": "PFSB107_Lyon",
+        "species": "Battleship",
+        "nation": "France",
+        "specials": {}
+    },
+    {
+        "uuid": "f9c1d2b4-0ee3-487e-9317-685e4149ca70",
+        "index": "PBSA510",
+        "group": "ultimate",
+        "level": 10,
+        "name": "PBSA510_Malta",
+        "species": "AirCarrier",
+        "nation": "United_Kingdom",
+        "specials": {}
+    },
+    {
+        "uuid": "0098d075-2135-4b87-a1ad-45f7389cf777",
+        "index": "PZSB509",
+        "group": "special",
+        "level": 9,
+        "name": "PZSB509_Izumo_Bajie",
+        "species": "Battleship",
+        "nation": "Pan_Asia",
+        "specials": {}
+    },
+    {
+        "uuid": "8735cfd7-cefd-4ea6-bf76-8b8ee188ad73",
+        "index": "PFSC101",
+        "group": "start",
+        "level": 1,
+        "name": "PFSC101_Bougainville",
+        "species": "Cruiser",
+        "nation": "France",
+        "specials": {}
+    },
+    {
+        "uuid": "69ef83f6-2561-4783-95cc-d5a49a438d83",
+        "index": "PWSD111",
+        "group": "superShip",
+        "level": 11,
+        "name": "PWSD111_Dalarna",
+        "species": "Destroyer",
+        "nation": "Europe",
+        "specials": {}
+    },
+    {
+        "uuid": "75f95caf-5a69-470b-bb7e-6c573990374d",
+        "index": "PGSB508",
+        "group": "special",
+        "level": 8,
+        "name": "PGSB508_Odin",
+        "species": "Battleship",
+        "nation": "Germany",
+        "specials": {}
+    },
+    {
+        "uuid": "964bc32e-6f19-4cc0-b320-01fde1225871",
+        "index": "PGSC598",
+        "group": "special",
+        "level": 8,
+        "name": "PGSC598_Black_Mainz",
+        "species": "Cruiser",
+        "nation": "Germany",
+        "specials": {}
+    },
+    {
+        "uuid": "9a54bba6-5543-446f-8cef-d4f752dc839f",
+        "index": "PJSC590",
+        "group": "ultimate",
+        "level": 10,
+        "name": "PJSC590_Black_Yoshino",
+        "species": "Cruiser",
+        "nation": "Japan",
+        "specials": {}
+    },
+    {
+        "uuid": "352c6320-b5a0-40ee-884f-69d0bca5a0ba",
+        "index": "PJSC208",
+        "group": "upgradeable",
+        "level": 8,
+        "name": "PJSC208_Shimanto",
+        "species": "Cruiser",
+        "nation": "Japan",
+        "specials": {}
+    },
+    {
+        "uuid": "5b0fec70-85fb-4d94-b0ed-4046ec1bf64d",
+        "index": "PISB106",
+        "group": "upgradeable",
+        "level": 6,
+        "name": "PISB106_Andrea_Doria",
+        "species": "Battleship",
+        "nation": "Italy",
+        "specials": {}
+    },
+    {
+        "uuid": "214295ae-fb3b-44a8-94c9-9aa2aed01a93",
+        "index": "PBSC210",
+        "group": "upgradeable",
+        "level": 10,
+        "name": "PBSC210_Goliath",
+        "species": "Cruiser",
+        "nation": "United_Kingdom",
+        "specials": {}
+    },
+    {
+        "uuid": "2bd39c6c-78eb-4617-a43c-774380b48023",
+        "index": "PZSD111",
+        "group": "superShip",
+        "level": 11,
+        "name": "PZSD111_Kunming",
+        "species": "Destroyer",
+        "nation": "Pan_Asia",
+        "specials": {}
+    },
+    {
+        "uuid": "2c60944a-ecd6-4789-874d-dea115bc4b5d",
+        "index": "PJSB888",
+        "group": "special",
+        "level": 8,
+        "name": "PJSB888_Ragnarok",
+        "species": "Battleship",
+        "nation": "Japan",
+        "specials": {}
+    },
+    {
+        "uuid": "91ebd892-8820-4cde-aba1-c6fd5742db47",
+        "index": "PASC111",
+        "group": "superShip",
+        "level": 11,
+        "name": "PASC111_Annapolis",
+        "species": "Cruiser",
+        "nation": "USA",
+        "specials": {
+            "burstMode": "连续射击3轮，每轮间隔1秒，装填40秒。"
+        }
+    },
+    {
+        "uuid": "d7f8c6c6-a01f-4b43-9cd8-01b929ca21c9",
+        "index": "PZSB519",
+        "group": "special",
+        "level": 9,
+        "name": "PZSB519_Alsace_Wujing",
+        "species": "Battleship",
+        "nation": "Pan_Asia",
+        "specials": {}
+    },
+    {
+        "uuid": "512cb2ae-c342-4ccb-b37e-275c77cdced1",
+        "index": "PFSD108",
+        "group": "upgradeable",
+        "level": 8,
+        "name": "PFSD108_Le_Fantasque",
+        "species": "Destroyer",
+        "nation": "France",
+        "specials": {}
+    },
+    {
+        "uuid": "07ffcfa0-14c2-4713-ae92-77d5291f74bd",
+        "index": "PASC106",
+        "group": "upgradeable",
+        "level": 6,
+        "name": "PASC106_Pensacola_1944",
+        "species": "Cruiser",
+        "nation": "USA",
+        "specials": {}
+    },
+    {
+        "uuid": "291ed27b-4b25-4a0e-bd17-f96cc0b4ccf7",
+        "index": "PBSA528",
+        "group": "special",
+        "level": 8,
+        "name": "PBSA528_Colossus",
+        "species": "AirCarrier",
+        "nation": "United_Kingdom",
+        "specials": {}
+    },
+    {
+        "uuid": "2a7b8717-de7c-439e-8dcf-0002e5b93d10",
+        "index": "PBSC710",
+        "group": "demoWithoutStats",
+        "level": 10,
+        "name": "PBSC710_Monmouth",
+        "species": "Cruiser",
+        "nation": "United_Kingdom",
+        "specials": {}
+    },
+    {
+        "uuid": "8de5b6ff-105b-4310-8d50-fdf0b15d7bd2",
+        "index": "PBSD104",
+        "group": "upgradeable",
+        "level": 4,
+        "name": "PBSD104_Wakeful",
+        "species": "Destroyer",
+        "nation": "United_Kingdom",
+        "specials": {}
+    },
+    {
+        "uuid": "aeae89c2-556e-4ce3-879d-0719ec256575",
+        "index": "PWSD509",
+        "group": "special",
+        "level": 9,
+        "name": "PWSD509_Velos",
+        "species": "Destroyer",
+        "nation": "Europe",
+        "specials": {}
+    },
+    {
+        "uuid": "f93a164f-c8ec-4874-a857-c7461f1eaf40",
+        "index": "PFSC509",
+        "group": "special",
+        "level": 9,
+        "name": "PFSC509_Carnot",
+        "species": "Cruiser",
+        "nation": "France",
+        "specials": {}
+    },
+    {
+        "uuid": "ed91dd3e-10be-4963-9db0-1ddb6dd4d7b1",
+        "index": "PFSB528",
+        "group": "special",
+        "level": 8,
+        "name": "PFSB528_Champagne",
+        "species": "Battleship",
+        "nation": "France",
+        "specials": {}
+    },
+    {
+        "uuid": "f4a08868-dcdf-457e-b7d7-bd141d683d1b",
+        "index": "PZSD109",
+        "group": "upgradeable",
+        "level": 9,
+        "name": "PZSD109_Chung_Mu",
+        "species": "Destroyer",
+        "nation": "Pan_Asia",
+        "specials": {}
+    },
+    {
+        "uuid": "7493057f-e20e-4088-8ce2-13fe62d4f3e5",
+        "index": "PZSD105",
+        "group": "upgradeable",
+        "level": 5,
+        "name": "PZSD105_Jian_Wei",
+        "species": "Destroyer",
+        "nation": "Pan_Asia",
+        "specials": {}
+    },
+    {
+        "uuid": "436a7949-a4c1-41c8-90d4-fdad14583cbb",
+        "index": "PRSD505",
+        "group": "special",
+        "level": 5,
+        "name": "PRSD505_Okhotnik_1917",
+        "species": "Destroyer",
+        "nation": "Russia",
+        "specials": {}
+    },
+    {
+        "uuid": "263c0cc5-34ca-4478-9ec6-071adf010a99",
+        "index": "PJSD004",
+        "group": "upgradeable",
+        "level": 5,
+        "name": "PJSD004_Minekadze_1920",
+        "species": "Destroyer",
+        "nation": "Japan",
+        "specials": {}
+    },
+    {
+        "uuid": "3524c2e0-08ba-4a79-84e8-726764c3543c",
+        "index": "PASD508",
+        "group": "special",
+        "level": 8,
+        "name": "PASD508_Kidd",
+        "species": "Destroyer",
+        "nation": "USA",
+        "specials": {}
+    },
+    {
+        "uuid": "374b8016-ac8e-4eb5-b156-5650ff0f47e2",
+        "index": "PJSB008",
+        "group": "special",
+        "level": 4,
+        "name": "PJSB008_Ishizuchi_1921",
+        "species": "Battleship",
+        "nation": "Japan",
+        "specials": {}
+    },
+    {
+        "uuid": "99a4c36e-6cf3-4cb4-862c-1ad0f9e429da",
+        "index": "PBSC510",
+        "group": "ultimate",
+        "level": 10,
+        "name": "PBSC510_Plymouth",
+        "species": "Cruiser",
+        "nation": "United_Kingdom",
+        "specials": {}
+    },
+    {
+        "uuid": "1877ff7e-6d9a-4ba8-a0e6-e50fee8a7ec6",
+        "index": "PISD103",
+        "group": "upgradeable",
+        "level": 3,
+        "name": "PISD103_Sauro",
+        "species": "Destroyer",
+        "nation": "Italy",
+        "specials": {}
+    },
+    {
+        "uuid": "8f2243e7-ad59-4133-87b6-963042d5b9f8",
+        "index": "PASB109",
+        "group": "upgradeable",
+        "level": 9,
+        "name": "PASB109_Minnesota",
+        "species": "Battleship",
+        "nation": "USA",
+        "specials": {}
+    },
+    {
+        "uuid": "2a07c1cb-e10a-43d1-9c45-1f173838d3a8",
+        "index": "PZSC503",
+        "group": "special",
+        "level": 3,
+        "name": "PZSC503_Ning_Hai",
+        "species": "Cruiser",
+        "nation": "Pan_Asia",
+        "specials": {}
+    },
+    {
+        "uuid": "dc88804a-4f51-43cc-b9e6-b121a0cc1100",
+        "index": "PRSC518",
+        "group": "special",
+        "level": 7,
+        "name": "PRSC518_Lazo",
+        "species": "Cruiser",
+        "nation": "Russia",
+        "specials": {}
+    },
+    {
+        "uuid": "9b7ae071-59b3-4978-8155-9fb447d23b76",
+        "index": "PJSB539",
+        "group": "special",
+        "level": 9,
+        "name": "PJSB539_Daisen",
+        "species": "Battleship",
+        "nation": "Japan",
+        "specials": {}
+    },
+    {
+        "uuid": "4753adcc-5398-41a0-a892-c5ba31e5934c",
+        "index": "PJSB507",
+        "group": "special",
+        "level": 7,
+        "name": "PJSB507_Ashitaka",
+        "species": "Battleship",
+        "nation": "Japan",
+        "specials": {}
+    },
+    {
+        "uuid": "13affc17-3833-467f-afaa-54c5f6b7dbd3",
+        "index": "PGSB208",
+        "group": "upgradeable",
+        "level": 8,
+        "name": "PGSB208_Zieten",
+        "species": "Battleship",
+        "nation": "Germany",
+        "specials": {}
+    },
+    {
+        "uuid": "7551ec17-461b-4b11-90cd-02cec212e330",
+        "index": "PBSC516",
+        "group": "special",
+        "level": 6,
+        "name": "PBSC516_London",
+        "species": "Cruiser",
+        "nation": "United_Kingdom",
+        "specials": {}
+    },
+    {
+        "uuid": "1336a045-c22f-4277-91dc-52add64335e3",
+        "index": "PGSD108",
+        "group": "upgradeable",
+        "level": 8,
+        "name": "PGSD108_Z_23",
+        "species": "Destroyer",
+        "nation": "Germany",
+        "specials": {}
+    },
+    {
+        "uuid": "44969819-50e7-4807-bca0-67c9e6e5b542",
+        "index": "PJSD014",
+        "group": "special",
+        "level": 2,
+        "name": "PJSD014_Tachibana_1912_Asus",
+        "species": "Destroyer",
+        "nation": "Japan",
+        "specials": {}
+    },
+    {
+        "uuid": "287706de-6b90-42f5-8499-73b0c5ddd4c6",
+        "index": "PWSD210",
+        "group": "demoWithoutStats",
+        "level": 10,
+        "name": "PWSD210_Gdansk",
+        "species": "Destroyer",
+        "nation": "Europe",
+        "specials": {}
+    },
+    {
+        "uuid": "760ef88d-6dae-4777-a904-e1c41bd18991",
+        "index": "PBSB503",
+        "group": "special",
+        "level": 3,
+        "name": "PBSB503_Dreadnought",
+        "species": "Battleship",
+        "nation": "United_Kingdom",
+        "specials": {}
+    },
+    {
+        "uuid": "9f2cf90e-e5bd-44a5-b99c-47c9e15e4885",
+        "index": "PZSD518",
+        "group": "special",
+        "level": 8,
+        "name": "PZSD518_Fen_Yang",
+        "species": "Destroyer",
+        "nation": "Pan_Asia",
+        "specials": {}
+    },
+    {
+        "uuid": "ac0e7439-9dd5-41fc-9e7e-49cec385126a",
+        "index": "PISD108",
+        "group": "upgradeable",
+        "level": 8,
+        "name": "PISD108_Vittorio_Cuniberti",
+        "species": "Destroyer",
+        "nation": "Italy",
+        "specials": {}
+    },
+    {
+        "uuid": "ed2e1ffa-111f-45a7-b886-4ac1c2eda058",
+        "index": "PASS208",
+        "group": "upgradeable",
+        "level": 8,
+        "name": "PASS208_Salmon",
+        "species": "Submarine",
+        "nation": "USA",
+        "specials": {}
+    },
+    {
+        "uuid": "cd7674e3-9941-43e3-a110-a0d0fe2d763c",
+        "index": "PRSC109",
+        "group": "upgradeable",
+        "level": 9,
+        "name": "PRSC109_Dmitry_Donskoy",
+        "species": "Cruiser",
+        "nation": "Russia",
+        "specials": {}
+    },
+    {
+        "uuid": "facd319c-5823-467c-9dea-d03951e191af",
+        "index": "PVSC101",
+        "group": "demoWithoutStats",
+        "level": 1,
+        "name": "PVSC101_Hercules",
+        "species": "Cruiser",
+        "nation": "Pan_America",
+        "specials": {}
+    },
+    {
+        "uuid": "f120f16c-8ffe-4a02-8a15-4d50444a7c1f",
+        "index": "PGSB105",
+        "group": "upgradeable",
+        "level": 5,
+        "name": "PGSB105_Koenig",
+        "species": "Battleship",
+        "nation": "Germany",
+        "specials": {}
+    },
+    {
+        "uuid": "f089beb8-cd46-4f70-a621-915f144865b6",
+        "index": "PJSB003",
+        "group": "upgradeable",
+        "level": 4,
+        "name": "PJSB003_Myogi_1912",
+        "species": "Battleship",
+        "nation": "Japan",
+        "specials": {}
+    },
+    {
+        "uuid": "07af8cd5-09a5-4840-b280-65013d49215e",
+        "index": "PWSC101",
+        "group": "start",
+        "level": 1,
+        "name": "PWSC101_Gryf",
+        "species": "Cruiser",
+        "nation": "Europe",
+        "specials": {}
+    },
+    {
+        "uuid": "019a3642-2bbc-44ec-8192-6c756da0a444",
+        "index": "PJSB715",
+        "group": "special",
+        "level": 5,
+        "name": "PJSB715_HSF_Hiei",
+        "species": "Battleship",
+        "nation": "Japan",
+        "specials": {}
+    },
+    {
+        "uuid": "13fe1458-b559-411e-b505-b5359cf228c3",
+        "index": "PZSC107",
+        "group": "upgradeable",
+        "level": 7,
+        "name": "PZSC107_Chumphon",
+        "species": "Cruiser",
+        "nation": "Pan_Asia",
+        "specials": {}
+    },
+    {
+        "uuid": "706e5446-32eb-42b0-8e5a-2bb3d4f73338",
+        "index": "PBSA111",
+        "group": "superShip",
+        "level": 11,
+        "name": "PBSA111_Eagle",
+        "species": "AirCarrier",
+        "nation": "United_Kingdom",
+        "specials": {}
+    },
+    {
+        "uuid": "7565cff0-9173-4ac2-8898-25359f500dd4",
+        "index": "PZSD107",
+        "group": "upgradeable",
+        "level": 7,
+        "name": "PZSD107_Gadjah_Mada",
+        "species": "Destroyer",
+        "nation": "Pan_Asia",
+        "specials": {}
+    },
+    {
+        "uuid": "1bfc092c-d43d-4e9a-bcd3-c8dfae3d21af",
+        "index": "PASC020",
+        "group": "upgradeable",
+        "level": 10,
+        "name": "PASC020_Des_Moines_1948",
+        "species": "Cruiser",
+        "nation": "USA",
+        "specials": {}
+    },
+    {
+        "uuid": "ad02c0fe-03ee-41c1-bbfd-cfce29c87a2f",
+        "index": "PBSC209",
+        "group": "upgradeable",
+        "level": 9,
+        "name": "PBSC209_Drake",
+        "species": "Cruiser",
+        "nation": "United_Kingdom",
+        "specials": {}
+    },
+    {
+        "uuid": "6c9f8062-6c98-49eb-bd1e-1553fb86ca8b",
+        "index": "PRSB516",
+        "group": "special",
+        "level": 6,
+        "name": "PRSB516_Novorossiysk",
+        "species": "Battleship",
+        "nation": "Russia",
+        "specials": {}
+    },
+    {
+        "uuid": "4a05aa5f-9a71-408e-9a9a-758e60c57a14",
+        "index": "PRSC310",
+        "group": "upgradeable",
+        "level": 10,
+        "name": "PRSC310_Petropavlovsk",
+        "species": "Cruiser",
+        "nation": "Russia",
+        "specials": {}
+    },
+    {
+        "uuid": "1521ba03-dede-47ff-8ca4-b2a367d47e4a",
+        "index": "PRSA990",
+        "group": "demoWithoutStats",
+        "level": 10,
+        "name": "PRSA990_Admiral_Orlov",
+        "species": "AirCarrier",
+        "nation": "Russia",
+        "specials": {}
+    },
+    {
+        "uuid": "0fb9be34-54b0-45b8-ba51-f55c2fdb321d",
+        "index": "PASC045",
+        "group": "special",
+        "level": 5,
+        "name": "PASC045_Marblehead_1924_Asus",
+        "species": "Cruiser",
+        "nation": "USA",
+        "specials": {}
+    },
+    {
+        "uuid": "43d8f40d-788f-433e-89a0-8dedf9dda3ef",
+        "index": "PBSB510",
+        "group": "ultimate",
+        "level": 10,
+        "name": "PBSB510_Thunderer",
+        "species": "Battleship",
+        "nation": "United_Kingdom",
+        "specials": {}
+    },
+    {
+        "uuid": "cd1d30f1-30e9-4ee7-bc1a-07b5c1720996",
+        "index": "PRSD104",
+        "group": "upgradeable",
+        "level": 4,
+        "name": "PRSD104_Izyaslav",
+        "species": "Destroyer",
+        "nation": "Russia",
+        "specials": {}
+    },
+    {
+        "uuid": "f768573a-b93d-4cbd-ad5b-956fb27db0a1",
+        "index": "PGSC509",
+        "group": "specialUnsellable",
+        "level": 9,
+        "name": "PGSC509_Siegfried",
+        "species": "Cruiser",
+        "nation": "Germany",
+        "specials": {}
+    },
+    {
+        "uuid": "51df5689-fddf-4625-b41b-862d1676b00e",
+        "index": "PGSB206",
+        "group": "upgradeable",
+        "level": 6,
+        "name": "PGSB206_Mackensen",
+        "species": "Battleship",
+        "nation": "Germany",
+        "specials": {}
+    },
+    {
+        "uuid": "1967f61b-49e8-44e4-8151-b4820642ac8f",
+        "index": "PFSB111",
+        "group": "superShip",
+        "level": 11,
+        "name": "PFSB111_Patrie",
+        "species": "Battleship",
+        "nation": "France",
+        "specials": {}
+    },
+    {
+        "uuid": "fbf16069-84e7-4689-9c3e-7bee9a052686",
+        "index": "PFSC110",
+        "group": "upgradeable",
+        "level": 10,
+        "name": "PFSC110_Henri_IV",
+        "species": "Cruiser",
+        "nation": "France",
+        "specials": {}
+    },
+    {
+        "uuid": "71b988c4-d8da-41cc-ae9c-546e8467dc3b",
+        "index": "PASA110",
+        "group": "upgradeable",
+        "level": 10,
+        "name": "PASA110_Midway",
+        "species": "AirCarrier",
+        "nation": "USA",
+        "specials": {}
+    },
+    {
+        "uuid": "f8d292b6-bfc5-4ddc-95af-1905b09b8362",
+        "index": "PJSB011",
+        "group": "special",
+        "level": 2,
+        "name": "PJSB011_Mikasa_1905",
+        "species": "Battleship",
+        "nation": "Japan",
+        "specials": {}
+    },
+    {
+        "uuid": "6211a152-c9bd-43da-9d9e-8b1ec5fb049c",
+        "index": "PRSA598",
+        "group": "special",
+        "level": 8,
+        "name": "PRSA598_Black_Chkalov",
+        "species": "AirCarrier",
+        "nation": "Russia",
+        "specials": {}
+    },
+    {
+        "uuid": "b9e289a3-e667-4380-9b33-2458f43eee81",
+        "index": "PJSC598",
+        "group": "special",
+        "level": 8,
+        "name": "PJSC598_Black_Atago",
+        "species": "Cruiser",
+        "nation": "Japan",
+        "specials": {}
+    },
+    {
+        "uuid": "8239da37-bb69-48e3-9b6b-09a80740420c",
+        "index": "PVSB508",
+        "group": "special",
+        "level": 8,
+        "name": "PVSB508_Atlantico",
+        "species": "Battleship",
+        "nation": "Pan_America",
+        "specials": {}
+    },
+    {
+        "uuid": "0d0f8cff-0d81-4d93-8fef-5f418f29c797",
+        "index": "PJSC717",
+        "group": "special",
+        "level": 7,
+        "name": "PJSC717_Yellow_Dragon",
+        "species": "Cruiser",
+        "nation": "Japan",
+        "specials": {}
+    },
+    {
+        "uuid": "59650cb8-09b6-43e7-9bdc-159833465815",
+        "index": "PUSC516",
+        "group": "special",
+        "level": 6,
+        "name": "PUSC516_Mysore",
+        "species": "Cruiser",
+        "nation": "Commonwealth",
+        "specials": {}
+    },
+    {
+        "uuid": "a3d10add-3dda-4d9b-abc8-9030b00b94e7",
+        "index": "PBSC518",
+        "group": "special",
+        "level": 8,
+        "name": "PBSC518_Tiger_1959",
+        "species": "Cruiser",
+        "nation": "United_Kingdom",
+        "specials": {}
+    },
+    {
+        "uuid": "a16194d2-cfc6-4f82-b446-b635b89c3db4",
+        "index": "PRSB518",
+        "group": "special",
+        "level": 8,
+        "name": "PRSB518_Lenin",
+        "species": "Battleship",
+        "nation": "Russia",
+        "specials": {}
+    },
+    {
+        "uuid": "355f69d2-63b2-456a-ae64-45c043aa09df",
+        "index": "PASC528",
+        "group": "special",
+        "level": 8,
+        "name": "PASC528_Congress",
+        "species": "Cruiser",
+        "nation": "USA",
+        "specials": {}
+    },
+    {
+        "uuid": "c7456008-3c94-4134-9708-7162a1d93f6c",
+        "index": "PJSD207",
+        "group": "upgradeable",
+        "level": 7,
+        "name": "PJSD207_Shiratsuyu",
+        "species": "Destroyer",
+        "nation": "Japan",
+        "specials": {}
+    },
+    {
+        "uuid": "c590f5eb-6957-4d85-b33c-8236c1425d68",
+        "index": "PGSB110",
+        "group": "ultimate",
+        "level": 10,
+        "name": "PGSB110_Grossdeutschland",
+        "species": "Battleship",
+        "nation": "Germany",
+        "specials": {}
+    },
+    {
+        "uuid": "74578398-49e1-4360-97a7-d3432e4ce9a1",
+        "index": "PRSC980",
+        "group": "demoWithoutStats",
+        "level": 10,
+        "name": "PRSC980_Vladimir_Monomakh",
+        "species": "Cruiser",
+        "nation": "Russia",
+        "specials": {}
+    },
+    {
+        "uuid": "9287f6f0-c5d3-4b1f-b19a-bc12fae043eb",
+        "index": "PJSD718",
+        "group": "special",
+        "level": 8,
+        "name": "PJSD718_AZUR_Yukikaze",
+        "species": "Destroyer",
+        "nation": "Japan",
+        "specials": {}
+    },
+    {
+        "uuid": "eba68d69-cc68-4f80-ab5d-e140f1f2c235",
+        "index": "PJSA108",
+        "group": "upgradeable",
+        "level": 8,
+        "name": "PJSA108_Shokaku",
+        "species": "AirCarrier",
+        "nation": "Japan",
+        "specials": {}
+    },
+    {
+        "uuid": "d905d263-c44a-4505-9eec-79b8653e823b",
+        "index": "PRSD206",
+        "group": "upgradeable",
+        "level": 6,
+        "name": "PRSD206_Pr_7",
+        "species": "Destroyer",
+        "nation": "Russia",
+        "specials": {}
+    },
+    {
+        "uuid": "4255c333-ae9e-40e1-a5e8-d3fc470bdfa0",
+        "index": "PGSD106",
+        "group": "upgradeable",
+        "level": 6,
+        "name": "PGSD106_Ernst_Gaede",
+        "species": "Destroyer",
+        "nation": "Germany",
+        "specials": {}
+    },
+    {
+        "uuid": "599274d2-8e20-438d-80cf-6e1eebf4f1fc",
+        "index": "PJSB013",
+        "group": "upgradeable",
+        "level": 8,
+        "name": "PJSB013_Amagi_1942",
+        "species": "Battleship",
+        "nation": "Japan",
+        "specials": {}
+    },
+    {
+        "uuid": "0eff63ce-4bba-4f0d-bba5-67de81f9bba3",
+        "index": "PGSA610",
+        "group": "ultimate",
+        "level": 10,
+        "name": "PGSA610_Max_Immelmann",
+        "species": "AirCarrier",
+        "nation": "Germany",
+        "specials": {}
+    },
+    {
+        "uuid": "ae0ad55f-eb0c-47f2-b6ae-40af20419be0",
+        "index": "PBSB206",
+        "group": "upgradeable",
+        "level": 6,
+        "name": "PBSB206_Renown",
+        "species": "Battleship",
+        "nation": "United_Kingdom",
+        "specials": {}
+    },
+    {
+        "uuid": "fdfc8485-1f6c-4350-b737-5b46720aebf2",
+        "index": "PISD106",
+        "group": "upgradeable",
+        "level": 6,
+        "name": "PISD106_Aviere",
+        "species": "Destroyer",
+        "nation": "Italy",
+        "specials": {}
+    },
+    {
+        "uuid": "314995ab-9a8e-4327-9bf1-56b20136abe8",
+        "index": "PFSD106",
+        "group": "upgradeable",
+        "level": 6,
+        "name": "PFSD106_Guepard",
+        "species": "Destroyer",
+        "nation": "France",
+        "specials": {}
+    },
+    {
+        "uuid": "cb1b419a-0d84-413f-abcf-70bcf65e7533",
+        "index": "PJSA110",
+        "group": "upgradeable",
+        "level": 10,
+        "name": "PJSA110_Hakuryu",
+        "species": "AirCarrier",
+        "nation": "Japan",
+        "specials": {}
+    },
+    {
+        "uuid": "c8884085-a7e1-4b4f-b5c2-f5238b84bdac",
+        "index": "PFSB596",
+        "group": "special",
+        "level": 6,
+        "name": "PFSB596_Black_Dunkerque",
+        "species": "Battleship",
+        "nation": "France",
+        "specials": {}
+    },
+    {
+        "uuid": "10363f48-edd2-4483-96fa-a5676c735a37",
+        "index": "PGSC529",
+        "group": "special",
+        "level": 9,
+        "name": "PGSC529_Admiral_Schroder",
+        "species": "Cruiser",
+        "nation": "Germany",
+        "specials": {}
+    },
+    {
+        "uuid": "f8aced3b-0bf4-4d25-8945-bead5a52a3e4",
+        "index": "PASD519",
+        "group": "demoWithoutStatsPrem",
+        "level": 9,
+        "name": "PASD519_Halford",
+        "species": "Destroyer",
+        "nation": "USA",
+        "specials": {}
+    },
+    {
+        "uuid": "648a5c5d-bef6-42bf-b04d-cbe59a0633aa",
+        "index": "PISC101",
+        "group": "start",
+        "level": 1,
+        "name": "PISC101_Eritrea",
+        "species": "Cruiser",
+        "nation": "Italy",
+        "specials": {}
+    },
+    {
+        "uuid": "ba217d51-84ad-490b-98ea-59fd7ce6e7bc",
+        "index": "PASD502",
+        "group": "special",
+        "level": 2,
+        "name": "PASD502_Smith",
+        "species": "Destroyer",
+        "nation": "USA",
+        "specials": {}
+    },
+    {
+        "uuid": "6edc7da3-3706-418a-9b93-80e1559882d4",
+        "index": "PRSC509",
+        "group": "specialUnsellable",
+        "level": 9,
+        "name": "PRSC509_Kronshtadt",
+        "species": "Cruiser",
+        "nation": "Russia",
+        "specials": {}
+    },
+    {
+        "uuid": "59f1b225-98e8-4f19-873d-804ff6e8f9c3",
+        "index": "PWSD108",
+        "group": "upgradeable",
+        "level": 8,
+        "name": "PWSD108_Oland",
+        "species": "Destroyer",
+        "nation": "Europe",
+        "specials": {}
+    },
+    {
+        "uuid": "434918f0-7554-4015-8dfe-50ee055391f0",
+        "index": "PGSB518",
+        "group": "special",
+        "level": 8,
+        "name": "PGSB518_Brandenburg",
+        "species": "Battleship",
+        "nation": "Germany",
+        "specials": {}
+    },
+    {
+        "uuid": "9ec0dfa0-0593-4f3a-8b92-1294310837bf",
+        "index": "PBSS108",
+        "group": "upgradeable",
+        "level": 8,
+        "name": "PBSS108_Sturdy",
+        "species": "Submarine",
+        "nation": "United_Kingdom",
+        "specials": {}
+    },
+    {
+        "uuid": "933ee2a5-acd4-4e08-9615-62fe232f0f8b",
+        "index": "PJSC205",
+        "group": "upgradeable",
+        "level": 5,
+        "name": "PJSC205_Agano",
+        "species": "Cruiser",
+        "nation": "Japan",
+        "specials": {}
+    },
+    {
+        "uuid": "75fd7440-71c6-4116-81c5-84afbbeeb618",
+        "index": "PBSB205",
+        "group": "upgradeable",
+        "level": 5,
+        "name": "PBSB205_Tiger",
+        "species": "Battleship",
+        "nation": "United_Kingdom",
+        "specials": {}
+    },
+    {
+        "uuid": "e457e9e4-0ced-439c-a134-cd0b94bbebcb",
+        "index": "PFSC103",
+        "group": "upgradeable",
+        "level": 3,
+        "name": "PFSC103_Friant",
+        "species": "Cruiser",
+        "nation": "France",
+        "specials": {}
+    },
+    {
+        "uuid": "bb3b0a98-3876-47f3-a038-05076c428d0d",
+        "index": "PASA104",
+        "group": "upgradeable",
+        "level": 4,
+        "name": "PASA104_Langley",
+        "species": "AirCarrier",
+        "nation": "USA",
+        "specials": {}
+    },
+    {
+        "uuid": "134c8f72-8363-46a9-bb7e-7fd267ef3891",
+        "index": "PISC590",
+        "group": "ultimate",
+        "level": 10,
+        "name": "PISC590_Black_Napoli",
+        "species": "Cruiser",
+        "nation": "Italy",
+        "specials": {}
+    },
+    {
+        "uuid": "0b189994-154e-4252-b660-d0129db68e61",
+        "index": "PRSC107",
+        "group": "upgradeable",
+        "level": 7,
+        "name": "PRSC107_Schors",
+        "species": "Cruiser",
+        "nation": "Russia",
+        "specials": {}
+    },
+    {
+        "uuid": "2b25f640-59d8-4140-a973-f18829fd0f12",
+        "index": "PRSD517",
+        "group": "special",
+        "level": 7,
+        "name": "PRSD517_Tashkent_1939",
+        "species": "Destroyer",
+        "nation": "Russia",
+        "specials": {}
+    },
+    {
+        "uuid": "63ad0510-5d65-4df3-9378-6ff1a58039f4",
+        "index": "PJSD012",
+        "group": "upgradeable",
+        "level": 10,
+        "name": "PJSD012_Shimakaze_1943",
+        "species": "Destroyer",
+        "nation": "Japan",
+        "specials": {}
+    },
+    {
+        "uuid": "e7fed81e-cc46-4b69-b735-111bc245be2b",
+        "index": "PZSD506",
+        "group": "special",
+        "level": 6,
+        "name": "PZSD506_Anshan",
+        "species": "Destroyer",
+        "nation": "Pan_Asia",
+        "specials": {}
+    },
+    {
+        "uuid": "2899d37f-41b5-4835-b0e4-e79851c36cdd",
+        "index": "PWSD710",
+        "group": "ultimate",
+        "level": 10,
+        "name": "PWSD710_Ragnar",
+        "species": "Destroyer",
+        "nation": "Europe",
+        "specials": {}
+    },
+    {
+        "uuid": "12638fff-edf6-492a-a13f-043d7c12f22e",
+        "index": "PRSC538",
+        "group": "special",
+        "level": 8,
+        "name": "PRSC538_Petr_Bagration",
+        "species": "Cruiser",
+        "nation": "Russia",
+        "specials": {}
+    },
+    {
+        "uuid": "7da2e9cc-9faf-4ae7-8a6b-47fe4ca67b1b",
+        "index": "PWSD207",
+        "group": "demoWithoutStats",
+        "level": 7,
+        "name": "PWSD207_Grom",
+        "species": "Destroyer",
+        "nation": "Europe",
+        "specials": {}
+    },
+    {
+        "uuid": "88a5b10b-7611-4aa7-80a9-ec2ae8e91530",
+        "index": "PASD510",
+        "group": "ultimate",
+        "level": 10,
+        "name": "PASD510_Somers",
+        "species": "Destroyer",
+        "nation": "USA",
+        "specials": {}
+    },
+    {
+        "uuid": "1832be92-da82-4403-9f1b-32b1dfeb30f9",
+        "index": "PJSC707",
+        "group": "special",
+        "level": 7,
+        "name": "PJSC707_Ashigara",
+        "species": "Cruiser",
+        "nation": "Japan",
+        "specials": {}
+    },
+    {
+        "uuid": "345e6a8e-ddd1-49a1-9dde-4d207704952d",
+        "index": "PJSC037",
+        "group": "start",
+        "level": 1,
+        "name": "PJSC037_Hashidate_1940",
+        "species": "Cruiser",
+        "nation": "Japan",
+        "specials": {}
+    },
+    {
+        "uuid": "457fc5d1-3eb0-4445-bc99-c96f286bd375",
+        "index": "PWSD110",
+        "group": "upgradeable",
+        "level": 10,
+        "name": "PWSD110_Halland",
+        "species": "Destroyer",
+        "nation": "Europe",
+        "specials": {}
+    },
+    {
+        "uuid": "06b082d3-c8e7-4b04-b963-d1be927ec40a",
+        "index": "PASC024",
+        "group": "upgradeable",
+        "level": 4,
+        "name": "PASC024_Phoenix_1917",
+        "species": "Cruiser",
+        "nation": "USA",
+        "specials": {}
+    },
+    {
+        "uuid": "d10b60bc-85e6-44fc-8ddc-380e0ef99421",
+        "index": "PVSC507",
+        "group": "special",
+        "level": 7,
+        "name": "PVSC507_Nueve_de_Julio_1951",
+        "species": "Cruiser",
+        "nation": "Pan_America",
+        "specials": {}
+    },
+    {
+        "uuid": "7b747d91-8b2d-42d4-a609-bcd4e124e426",
+        "index": "PZSD508",
+        "group": "special",
+        "level": 8,
+        "name": "PZSD508_LoYang",
+        "species": "Destroyer",
+        "nation": "Pan_Asia",
+        "specials": {}
+    },
+    {
+        "uuid": "7bc4f1e7-db25-4271-9514-b893a5293fd9",
+        "index": "PBSB527",
+        "group": "special",
+        "level": 7,
+        "name": "PBSB527_Duke_of_York",
+        "species": "Battleship",
+        "nation": "United_Kingdom",
+        "specials": {}
+    },
+    {
+        "uuid": "0bcfa7f5-1ea1-48e6-b3ab-99f4f17cf7f9",
+        "index": "PRSC548",
+        "group": "demoWithoutStatsPrem",
+        "level": 8,
+        "name": "PRSC548_Bagration",
+        "species": "Cruiser",
+        "nation": "Russia",
+        "specials": {}
+    },
+    {
+        "uuid": "b6438d69-833c-46b7-8e09-aca46acf0173",
+        "index": "PGSA108",
+        "group": "upgradeable",
+        "level": 8,
+        "name": "PGSA108_Parseval",
+        "species": "AirCarrier",
+        "nation": "Germany",
+        "specials": {}
+    },
+    {
+        "uuid": "fbf17ab1-c9d8-45a9-91c7-ccf47acfb335",
+        "index": "PFSB103",
+        "group": "upgradeable",
+        "level": 3,
+        "name": "PFSB103_Turenne",
+        "species": "Battleship",
+        "nation": "France",
+        "specials": {}
+    },
+    {
+        "uuid": "84b6ed7b-bf95-4f6c-ad46-4a92620f7537",
+        "index": "PRSD102",
+        "group": "upgradeable",
+        "level": 2,
+        "name": "PRSD102_SM_Storojevoy",
+        "species": "Destroyer",
+        "nation": "Russia",
+        "specials": {}
+    },
+    {
+        "uuid": "76d673a1-bba3-453c-b524-089e712088a6",
+        "index": "PWSD501",
+        "group": "special",
+        "level": 7,
+        "name": "PWSD501_Blyskawica",
+        "species": "Destroyer",
+        "nation": "Europe",
+        "specials": {}
+    },
+    {
+        "uuid": "223ce0d8-b4f8-4cf4-bd40-36360a8ced74",
+        "index": "PGSB310",
+        "group": "upgradeable",
+        "level": 10,
+        "name": "PGSB310_Preussen",
+        "species": "Battleship",
+        "nation": "Germany",
+        "specials": {}
+    },
+    {
+        "uuid": "54a99fd0-3a4a-4e8b-8328-509f54980a58",
+        "index": "PGSD508",
+        "group": "special",
+        "level": 7,
+        "name": "PGSD508_Z_39",
+        "species": "Destroyer",
+        "nation": "Germany",
+        "specials": {}
+    },
+    {
+        "uuid": "29d70005-df37-4d08-8e39-6d34cdab4a8c",
+        "index": "PJSC503",
+        "group": "special",
+        "level": 3,
+        "name": "PJSC503_Katori",
+        "species": "Cruiser",
+        "nation": "Japan",
+        "specials": {}
+    },
+    {
+        "uuid": "461a0f2a-d3a4-4101-a103-2d32412d4638",
+        "index": "PZSD718",
+        "group": "special",
+        "level": 8,
+        "name": "PZSD718_Warhammer_Ork",
+        "species": "Destroyer",
+        "nation": "Pan_Asia",
+        "specials": {}
+    },
+    {
+        "uuid": "d84ce1eb-2e8b-4faf-b290-559763ea16f4",
+        "index": "PISB519",
+        "group": "special",
+        "level": 9,
+        "name": "PISB519_Giuseppe_Verdi",
+        "species": "Battleship",
+        "nation": "Italy",
+        "specials": {}
+    },
+    {
+        "uuid": "70492bc2-642a-46a0-b27b-c156b49f7bef",
+        "index": "PWSC506",
+        "group": "demoWithoutStatsPrem",
+        "level": 6,
+        "name": "PWSC506_Elli",
+        "species": "Cruiser",
+        "nation": "Europe",
+        "specials": {}
+    },
+    {
+        "uuid": "855ee675-d1b7-42dc-9311-51f898533688",
+        "index": "PBSB108",
+        "group": "upgradeable",
+        "level": 8,
+        "name": "PBSB108_Monarch",
+        "species": "Battleship",
+        "nation": "United_Kingdom",
+        "specials": {}
+    },
+    {
+        "uuid": "603c283b-cac4-4295-8fb1-bfa46c85f8b5",
+        "index": "PFSB106",
+        "group": "upgradeable",
+        "level": 6,
+        "name": "PFSB106_Normandie",
+        "species": "Battleship",
+        "nation": "France",
+        "specials": {}
+    },
+    {
+        "uuid": "bf0f997a-4c4c-4169-b5b4-f9ac6a489b7a",
+        "index": "PASC109",
+        "group": "upgradeable",
+        "level": 9,
+        "name": "PASC109_Buffalo",
+        "species": "Cruiser",
+        "nation": "USA",
+        "specials": {}
+    },
+    {
+        "uuid": "35d3ae06-ed04-43cd-90f6-65be598ae3dd",
+        "index": "PISC106",
+        "group": "upgradeable",
+        "level": 6,
+        "name": "PISC106_Trento",
+        "species": "Cruiser",
+        "nation": "Italy",
+        "specials": {}
+    },
+    {
+        "uuid": "611aa464-4eb1-4314-b1cd-637882f0697a",
+        "index": "PGSD208",
+        "group": "upgradeable",
+        "level": 8,
+        "name": "PGSD208_Gustav_Julius_Maerker",
+        "species": "Destroyer",
+        "nation": "Germany",
+        "specials": {}
+    },
+    {
+        "uuid": "dd29a187-6264-4581-8159-60b36bb42179",
+        "index": "PASC209",
+        "group": "upgradeable",
+        "level": 9,
+        "name": "PASC209_Seattle",
+        "species": "Cruiser",
+        "nation": "USA",
+        "specials": {}
+    },
+    {
+        "uuid": "ec7b24c5-a350-4dab-822c-c7f0e0ac6ebc",
+        "index": "PJSC737",
+        "group": "special",
+        "level": 7,
+        "name": "PJSC737_Nachi",
+        "species": "Cruiser",
+        "nation": "Japan",
+        "specials": {}
+    },
+    {
+        "uuid": "f8d6e6d1-8a6d-479b-bf97-95dc2266d645",
+        "index": "PZSC508",
+        "group": "special",
+        "level": 8,
+        "name": "PZSC508_Irian",
+        "species": "Cruiser",
+        "nation": "Pan_Asia",
+        "specials": {}
+    },
+    {
+        "uuid": "26bea6ae-7edf-44d1-bba5-6bc5a654246e",
+        "index": "PJSC507",
+        "group": "special",
+        "level": 7,
+        "name": "PJSC507_Tokachi",
+        "species": "Cruiser",
+        "nation": "Japan",
+        "specials": {}
+    },
+    {
+        "uuid": "4fc7b208-8073-4534-90c0-dc0e9b05caef",
+        "index": "PFSB898",
+        "group": "coopOnly",
+        "level": 8,
+        "name": "PFSB898_Richelieu_coop",
+        "species": "Battleship",
+        "nation": "France",
+        "specials": {}
+    },
+    {
+        "uuid": "4853b0b3-87b2-4384-96b5-0cad97556864",
+        "index": "PWSD109",
+        "group": "upgradeable",
+        "level": 9,
+        "name": "PWSD109_Ostergotland",
+        "species": "Destroyer",
+        "nation": "Europe",
+        "specials": {}
+    },
+    {
+        "uuid": "24863a42-b032-40f5-9f2d-02c3e7019055",
+        "index": "PJSC610",
+        "group": "demoWithoutStatsPrem",
+        "level": 10,
+        "name": "PJSC610_Kitakami",
+        "species": "Cruiser",
+        "nation": "Japan",
+        "specials": {}
+    },
+    {
+        "uuid": "4b928298-8a85-4d6c-baf0-17b923acd808",
+        "index": "PJSC005",
+        "group": "upgradeable",
+        "level": 5,
+        "name": "PJSC005_Furutaka_1926",
+        "species": "Cruiser",
+        "nation": "Japan",
+        "specials": {}
+    },
+    {
+        "uuid": "62af93dd-349c-4513-9807-bfe7441c6efb",
+        "index": "PJSD510",
+        "group": "upgradeableUltimate",
+        "level": 10,
+        "name": "PJSD510_Hayate",
+        "species": "Destroyer",
+        "nation": "Japan",
+        "specials": {}
+    },
+    {
+        "uuid": "da369e91-d697-44d1-a9bb-b473c65e1365",
+        "index": "PZSD106",
+        "group": "upgradeable",
+        "level": 6,
+        "name": "PZSD106_Fu_Shun",
+        "species": "Destroyer",
+        "nation": "Pan_Asia",
+        "specials": {}
+    },
+    {
+        "uuid": "071fcb7c-984c-4e4a-9e63-3e25f6198c0a",
+        "index": "PRSB103",
+        "group": "upgradeable",
+        "level": 3,
+        "name": "PRSB103_Knyaz_Suvorov",
+        "species": "Battleship",
+        "nation": "Russia",
+        "specials": {}
+    },
+    {
+        "uuid": "1a610cb2-16c6-4c57-9b06-0c4c7854b8b1",
+        "index": "PRSB505",
+        "group": "special",
+        "level": 5,
+        "name": "PRSB505_Oktyabrskaya_Revolutsiya",
+        "species": "Battleship",
+        "nation": "Russia",
+        "specials": {}
+    },
+    {
+        "uuid": "e1857ff5-9eee-472a-97b9-363a325f3ed7",
+        "index": "PASC503",
+        "group": "special",
+        "level": 3,
+        "name": "PASC503_Charleston",
+        "species": "Cruiser",
+        "nation": "USA",
+        "specials": {}
+    },
+    {
+        "uuid": "c8e9739a-a792-496e-a989-22e178c7c00b",
+        "index": "PJSD528",
+        "group": "special",
+        "level": 8,
+        "name": "PJSD528_Harekaze_2",
+        "species": "Destroyer",
+        "nation": "Japan",
+        "specials": {}
+    },
+    {
+        "uuid": "f3fa5d4b-e643-4b86-bc79-122735beb502",
+        "index": "PGSC103",
+        "group": "upgradeable",
+        "level": 3,
+        "name": "PGSC103_Kolberg",
+        "species": "Cruiser",
+        "nation": "Germany",
+        "specials": {}
+    },
+    {
+        "uuid": "0a852b66-868b-475e-abca-2188de30f539",
+        "index": "PJSD706",
+        "group": "special",
+        "level": 6,
+        "name": "PJSD706_Shinonome",
+        "species": "Destroyer",
+        "nation": "Japan",
+        "specials": {}
+    },
+    {
+        "uuid": "609396b6-f1d3-426b-9a30-6ca194b770d8",
+        "index": "PBSB207",
+        "group": "upgradeable",
+        "level": 7,
+        "name": "PBSB207_Rooke",
+        "species": "Battleship",
+        "nation": "United_Kingdom",
+        "specials": {}
+    },
+    {
+        "uuid": "945e9183-69ac-4f69-b4e3-4eb8d8b5b1e5",
+        "index": "PZSC108",
+        "group": "upgradeable",
+        "level": 8,
+        "name": "PZSC108_Harbin",
+        "species": "Cruiser",
+        "nation": "Pan_Asia",
+        "specials": {}
+    },
+    {
+        "uuid": "d20589e9-2542-434a-9e28-4db86bbdd1bc",
+        "index": "PISB505",
+        "group": "special",
+        "level": 5,
+        "name": "PISB505_Giulio_Cesare",
+        "species": "Battleship",
+        "nation": "Italy",
+        "specials": {}
+    },
+    {
+        "uuid": "c62c4ac8-e9bd-4b1e-959c-41a8efb7c429",
+        "index": "PBSC610",
+        "group": "ultimate",
+        "level": 10,
+        "name": "PBSC610_Gibraltar",
+        "species": "Cruiser",
+        "nation": "United_Kingdom",
+        "specials": {}
+    },
+    {
+        "uuid": "74100469-583f-4f4c-b7f6-2161929e79a4",
+        "index": "PUSD517",
+        "group": "special",
+        "level": 7,
+        "name": "PUSD517_Huron",
+        "species": "Destroyer",
+        "nation": "Commonwealth",
+        "specials": {}
+    },
+    {
+        "uuid": "10e05803-ea2e-474d-9e71-ffa7f0cb0f5d",
+        "index": "PGSB503",
+        "group": "special",
+        "level": 3,
+        "name": "PGSB503_Koenig_Albert",
+        "species": "Battleship",
+        "nation": "Germany",
+        "specials": {}
+    },
+    {
+        "uuid": "ecce90f4-d2ab-4479-82c4-e9c037d61fc9",
+        "index": "PGSC104",
+        "group": "upgradeable",
+        "level": 4,
+        "name": "PGSC104_Karlsruhe",
+        "species": "Cruiser",
+        "nation": "Germany",
+        "specials": {}
+    },
+    {
+        "uuid": "82d356c4-e492-42f9-ad25-e33946845378",
+        "index": "PJSB526",
+        "group": "special",
+        "level": 6,
+        "name": "PJSB526_Ise",
+        "species": "Battleship",
+        "nation": "Japan",
+        "specials": {}
+    },
+    {
+        "uuid": "c026ad8c-e4f8-45a6-b0be-cb392de83780",
+        "index": "PISB104",
+        "group": "upgradeable",
+        "level": 4,
+        "name": "PISB104_Dante_Alighieri",
+        "species": "Battleship",
+        "nation": "Italy",
+        "specials": {}
+    },
+    {
+        "uuid": "e6cf9be5-5c27-4c7e-880c-f4f615237cbc",
+        "index": "PGSD209",
+        "group": "upgradeable",
+        "level": 9,
+        "name": "PGSD209_Felix_Schultz",
+        "species": "Destroyer",
+        "nation": "Germany",
+        "specials": {}
+    },
+    {
+        "uuid": "4c05309f-d441-420e-b691-463f991d0244",
+        "index": "PFSB104",
+        "group": "upgradeable",
+        "level": 4,
+        "name": "PFSB104_Courbet",
+        "species": "Battleship",
+        "nation": "France",
+        "specials": {}
+    },
+    {
+        "uuid": "778121b5-338b-443d-854e-add92ea2a0b9",
+        "index": "PGSB103",
+        "group": "upgradeable",
+        "level": 3,
+        "name": "PGSB103_Nassau",
+        "species": "Battleship",
+        "nation": "Germany",
+        "specials": {}
+    },
+    {
+        "uuid": "5d5bb78f-2986-4058-89f4-0efe6df07839",
+        "index": "PBSB507",
+        "group": "special",
+        "level": 7,
+        "name": "PBSB507_Hood",
+        "species": "Battleship",
+        "nation": "United_Kingdom",
+        "specials": {}
+    },
+    {
+        "uuid": "d3b88206-fc7d-4ed5-ba23-359dd875b316",
+        "index": "PZSD103",
+        "group": "upgradeable",
+        "level": 3,
+        "name": "PZSD103_Phra_Ruang",
+        "species": "Destroyer",
+        "nation": "Pan_Asia",
+        "specials": {}
+    },
+    {
+        "uuid": "ecd0300d-b174-41f8-bd6a-d68478a33692",
+        "index": "PJSD107",
+        "group": "upgradeable",
+        "level": 7,
+        "name": "PJSD107_Akatsuki",
+        "species": "Destroyer",
+        "nation": "Japan",
+        "specials": {}
+    },
+    {
+        "uuid": "67d831fe-3e9b-4b3b-b0f8-ee1fc20e69df",
+        "index": "PJSB706",
+        "group": "special",
+        "level": 5,
+        "name": "PJSB706_Kirishima",
+        "species": "Battleship",
+        "nation": "Japan",
+        "specials": {}
+    },
+    {
+        "uuid": "3f966feb-e40a-42ea-883e-e43b8f445d81",
+        "index": "PWSD105",
+        "group": "upgradeable",
+        "level": 5,
+        "name": "PWSD105_Visby",
+        "species": "Destroyer",
+        "nation": "Europe",
+        "specials": {}
+    },
+    {
+        "uuid": "53e4b842-2c75-4815-91b8-5804d38254b2",
+        "index": "PASB006",
+        "group": "upgradeable",
+        "level": 5,
+        "name": "PASB006_New_York_1934",
+        "species": "Battleship",
+        "nation": "USA",
+        "specials": {}
+    },
+    {
+        "uuid": "b09b91f0-9cca-445f-98e8-74ef4d45acd1",
+        "index": "PJSC727",
+        "group": "special",
+        "level": 7,
+        "name": "PJSC727_Blue_Dragon",
+        "species": "Cruiser",
+        "nation": "Japan",
+        "specials": {}
+    },
+    {
+        "uuid": "deb6069b-19a0-4d5a-a2af-e7c101682a18",
+        "index": "PRSC209",
+        "group": "upgradeable",
+        "level": 9,
+        "name": "PRSC209_Riga",
+        "species": "Cruiser",
+        "nation": "Russia",
+        "specials": {}
+    },
+    {
+        "uuid": "f8a3b1d3-53ea-44f5-8343-874a5a4fb3ab",
+        "index": "PVSC105",
+        "group": "earlyAccess",
+        "level": 5,
+        "name": "PVSC105_La_Argentina",
+        "species": "Cruiser",
+        "nation": "Pan_America",
+        "specials": {}
+    },
+    {
+        "uuid": "9b795dbe-ce86-4506-b9ad-8503a22aa7fb",
+        "index": "PHSC105",
+        "group": "upgradeable",
+        "level": 5,
+        "name": "PHSC105_Celebes",
+        "species": "Cruiser",
+        "nation": "Netherlands",
+        "specials": {}
+    },
+    {
+        "uuid": "49c3dd9b-ed3b-4e3b-bde4-5460ba633260",
+        "index": "PJSB021",
+        "group": "upgradeable",
+        "level": 9,
+        "name": "PJSB021_Izumo_1938",
+        "species": "Battleship",
+        "nation": "Japan",
+        "specials": {}
+    },
+    {
+        "uuid": "4895face-3ff1-4bb3-97eb-773167c7e04b",
+        "index": "PJSB509",
+        "group": "specialUnsellable",
+        "level": 9,
+        "name": "PJSB509_Musashi",
+        "species": "Battleship",
+        "nation": "Japan",
+        "specials": {}
+    },
+    {
+        "uuid": "1bfdf92d-073f-452a-a82b-81f10e9c9ee4",
+        "index": "PASB528",
+        "group": "specialUnsellable",
+        "level": 8,
+        "name": "PASB528_Alabama_VL",
+        "species": "Battleship",
+        "nation": "USA",
+        "specials": {}
+    },
+    {
+        "uuid": "5b59f99f-e5da-4066-b281-7a1d38129a2d",
+        "index": "PZSC506",
+        "group": "special",
+        "level": 6,
+        "name": "PZSC506_Huang_he",
+        "species": "Cruiser",
+        "nation": "Pan_Asia",
+        "specials": {}
+    },
+    {
+        "uuid": "e2ff084f-1fb8-46f9-aec9-cbf448080f8f",
+        "index": "PJSB517",
+        "group": "special",
+        "level": 7,
+        "name": "PJSB517_Hyuga",
+        "species": "Battleship",
+        "nation": "Japan",
+        "specials": {}
+    },
+    {
+        "uuid": "80100c36-ed6b-4393-bc4b-3d869fc89bca",
+        "index": "PRSC101",
+        "group": "start",
+        "level": 1,
+        "name": "PRSC101_Orlan",
+        "species": "Cruiser",
+        "nation": "Russia",
+        "specials": {}
+    },
+    {
+        "uuid": "f49996f1-d57c-4115-8a9f-50d3db5d7ffa",
+        "index": "PRSC103",
+        "group": "upgradeable",
+        "level": 3,
+        "name": "PRSC103_Bogatyr",
+        "species": "Cruiser",
+        "nation": "Russia",
+        "specials": {}
+    },
+    {
+        "uuid": "07094c29-ce7c-43fb-b2cf-3589a2f10fca",
+        "index": "PISC104",
+        "group": "upgradeable",
+        "level": 4,
+        "name": "PISC104_Alberto_da_Giussano",
+        "species": "Cruiser",
+        "nation": "Italy",
+        "specials": {}
+    },
+    {
+        "uuid": "ceb6504c-841c-4495-9084-4461214a5319",
+        "index": "PRSC208",
+        "group": "upgradeable",
+        "level": 8,
+        "name": "PRSC208_Tallin",
+        "species": "Cruiser",
+        "nation": "Russia",
+        "specials": {}
+    },
+    {
+        "uuid": "ed61a08e-4eac-42ac-828f-87c1b14d5eef",
+        "index": "PJSD219",
+        "group": "upgradeable",
+        "level": 9,
+        "name": "PJSD219_Kitakaze",
+        "species": "Destroyer",
+        "nation": "Japan",
+        "specials": {}
+    },
+    {
+        "uuid": "22dcb16b-81e4-4fe3-a834-7a1e7de0a289",
+        "index": "PUSC510",
+        "group": "ultimate",
+        "level": 10,
+        "name": "PUSC510_Brisbane",
+        "species": "Cruiser",
+        "nation": "Commonwealth",
+        "specials": {}
+    },
+    {
+        "uuid": "7ff4b1a6-edbb-429c-974c-b223366f58ae",
+        "index": "PISB109",
+        "group": "upgradeable",
+        "level": 9,
+        "name": "PISB109_Lepanto",
+        "species": "Battleship",
+        "nation": "Italy",
+        "specials": {}
+    },
+    {
+        "uuid": "b3548d10-e900-4d2d-9427-8a84144d2d69",
+        "index": "PJSD108",
+        "group": "upgradeable",
+        "level": 8,
+        "name": "PJSD108_Akizuki",
+        "species": "Destroyer",
+        "nation": "Japan",
+        "specials": {}
+    },
+    {
+        "uuid": "f2784229-6898-4ffc-abad-e29e46087b38",
+        "index": "PGSC502",
+        "group": "special",
+        "level": 2,
+        "name": "PGSC502_Emden_1908",
+        "species": "Cruiser",
+        "nation": "Germany",
+        "specials": {}
+    },
+    {
+        "uuid": "08a5733d-f7eb-4c5e-bf3c-879a298a9b05",
+        "index": "PFSB599",
+        "group": "special",
+        "level": 9,
+        "name": "PFSB599_Black_Jean_Bart",
+        "species": "Battleship",
+        "nation": "France",
+        "specials": {}
+    },
+    {
+        "uuid": "9eab8dfe-0bfa-4d8c-be3a-f11c47378d90",
+        "index": "PISD506",
+        "group": "special",
+        "level": 6,
+        "name": "PISD506_Leone",
+        "species": "Destroyer",
+        "nation": "Italy",
+        "specials": {}
+    },
+    {
+        "uuid": "e0e52220-bb8c-4725-a4fe-88f7ce0e9262",
+        "index": "PASB510",
+        "group": "ultimate",
+        "level": 10,
+        "name": "PASB510_Ohio",
+        "species": "Battleship",
+        "nation": "USA",
+        "specials": {}
+    },
+    {
+        "uuid": "7740ab29-6dfa-4d21-87e8-d0aaad271c2b",
+        "index": "PBSC107",
+        "group": "upgradeable",
+        "level": 7,
+        "name": "PBSC107_Fiji",
+        "species": "Cruiser",
+        "nation": "United_Kingdom",
+        "specials": {}
+    },
+    {
+        "uuid": "97194020-8317-429f-9862-7b562e65bab4",
+        "index": "PZSC509",
+        "group": "special",
+        "level": 9,
+        "name": "PZSC509_Dalian",
+        "species": "Cruiser",
+        "nation": "Pan_Asia",
+        "specials": {}
+    },
+    {
+        "uuid": "b46c4455-4798-48e7-b748-3023e0b77ad7",
+        "index": "PGSA990",
+        "group": "demoWithoutStats",
+        "level": 10,
+        "name": "PGSA990_Otto_Lilienthal",
+        "species": "AirCarrier",
+        "nation": "Germany",
+        "specials": {}
+    },
+    {
+        "uuid": "9e3aff6c-527f-41f7-a263-3a5534a5a67d",
+        "index": "PGSB597",
+        "group": "special",
+        "level": 7,
+        "name": "PGSB597_Black_Scharnhorst",
+        "species": "Battleship",
+        "nation": "Germany",
+        "specials": {}
+    },
+    {
+        "uuid": "0e00e616-7116-4500-b7ce-f2cc682ff56e",
+        "index": "PRSS106",
+        "group": "demoWithoutStats",
+        "level": 6,
+        "name": "PRSS106_S_1",
+        "species": "Submarine",
+        "nation": "Russia",
+        "specials": {}
+    },
+    {
+        "uuid": "e87b5fbd-7782-47a8-bb8c-0fc47afe3f30",
+        "index": "PASD610",
+        "group": "ultimate",
+        "level": 10,
+        "name": "PASD610_Forrest_Sherman",
+        "species": "Destroyer",
+        "nation": "USA",
+        "specials": {}
+    },
+    {
+        "uuid": "fae4d909-2b9e-4441-b52a-bef42319dbf6",
+        "index": "PFSD504",
+        "group": "special",
+        "level": 5,
+        "name": "PFSD504_Siroco",
+        "species": "Destroyer",
+        "nation": "France",
+        "specials": {}
+    },
+    {
+        "uuid": "4f7a648c-7308-4c36-b3cd-a615d54f23ad",
+        "index": "PBSD109",
+        "group": "upgradeable",
+        "level": 9,
+        "name": "PBSD109_Jutland",
+        "species": "Destroyer",
+        "nation": "United_Kingdom",
+        "specials": {}
+    },
+    {
+        "uuid": "46b30d9f-9860-472e-a762-1da421903961",
+        "index": "PASC519",
+        "group": "special",
+        "level": 9,
+        "name": "PASC519_Tulsa",
+        "species": "Cruiser",
+        "nation": "USA",
+        "specials": {}
+    },
+    {
+        "uuid": "ddf9b5f7-401e-4747-b48d-c0a311c89be3",
+        "index": "PBSB109",
+        "group": "upgradeable",
+        "level": 9,
+        "name": "PBSB109_Lion",
+        "species": "Battleship",
+        "nation": "United_Kingdom",
+        "specials": {}
+    },
+    {
+        "uuid": "9db58ac0-484d-456e-90b2-b8355affa58c",
+        "index": "PBSC508",
+        "group": "special",
+        "level": 8,
+        "name": "PBSC508_Cheshire",
+        "species": "Cruiser",
+        "nation": "United_Kingdom",
+        "specials": {}
+    },
+    {
+        "uuid": "72669c43-e299-453f-a205-e4c969933023",
+        "index": "PSSC506",
+        "group": "special",
+        "level": 6,
+        "name": "PSSC506_Canarias",
+        "species": "Cruiser",
+        "nation": "Spain",
+        "specials": {}
+    },
+    {
+        "uuid": "25b55c62-f9cb-4d6f-8783-f0d8bfaae115",
+        "index": "PASB705",
+        "group": "special",
+        "level": 5,
+        "name": "PASB705_Texas_1944",
+        "species": "Battleship",
+        "nation": "USA",
+        "specials": {}
+    },
+    {
+        "uuid": "5b346120-9cab-4d7d-bfeb-313fb71fe7c9",
+        "index": "PJSB506",
+        "group": "special",
+        "level": 6,
+        "name": "PJSB506_Mutsu",
+        "species": "Battleship",
+        "nation": "Japan",
+        "specials": {}
+    },
+    {
+        "uuid": "f423637f-872d-477b-aa31-39ab1420dabd",
+        "index": "PGSC517",
+        "group": "special",
+        "level": 7,
+        "name": "PGSC517_Weimar",
+        "species": "Cruiser",
+        "nation": "Germany",
+        "specials": {}
+    },
+    {
+        "uuid": "56573568-2c7d-4f01-ba3e-92096ddc6389",
+        "index": "PASS510",
+        "group": "demoWithoutStatsPrem",
+        "level": 10,
+        "name": "PASS510_Gato",
+        "species": "Submarine",
+        "nation": "USA",
+        "specials": {}
+    },
+    {
+        "uuid": "38161401-5054-4dc0-b947-5febd8cf420a",
+        "index": "PWSD107",
+        "group": "upgradeable",
+        "level": 7,
+        "name": "PWSD107_Skane",
+        "species": "Destroyer",
+        "nation": "Europe",
+        "specials": {}
+    },
+    {
+        "uuid": "9d6eb1d7-9dfd-4b93-b8f0-38a0295b685f",
+        "index": "PASB990",
+        "group": "demoWithoutStats",
+        "level": 10,
+        "name": "PASB990_Utah",
+        "species": "Battleship",
+        "nation": "USA",
+        "specials": {}
+    },
+    {
+        "uuid": "9367b790-d7c9-4abd-89d7-809a9310e4f4",
+        "index": "PISB990",
+        "group": "demoWithoutStats",
+        "level": 10,
+        "name": "PISB990_Amerigo_Vespucci",
+        "species": "Battleship",
+        "nation": "Italy",
+        "specials": {}
+    },
+    {
+        "uuid": "d7683ace-978f-42a5-96bf-a569c4bea374",
+        "index": "PRSA110",
+        "group": "upgradeable",
+        "level": 10,
+        "name": "PRSA110_Admiral_Nakhimov",
+        "species": "AirCarrier",
+        "nation": "Russia",
+        "specials": {}
+    },
+    {
+        "uuid": "ba565ff6-5176-4922-aa59-366c66dec901",
+        "index": "PGSC519",
+        "group": "upgradeableExclusive",
+        "level": 9,
+        "name": "PGSC519_Aegir",
+        "species": "Cruiser",
+        "nation": "Germany",
+        "specials": {}
+    },
+    {
+        "uuid": "cc1c8f6b-f2c5-4f14-8baf-533e0ee6352b",
+        "index": "PJSD596",
+        "group": "special",
+        "level": 6,
+        "name": "PJSD596_Black_Shinonome",
+        "species": "Destroyer",
+        "nation": "Japan",
+        "specials": {}
+    },
+    {
+        "uuid": "e5212d7f-a7f1-444f-9aad-75600c02e2c6",
+        "index": "PZSD208",
+        "group": "special",
+        "level": 8,
+        "name": "PZSD208_Siliwangi_1959",
+        "species": "Destroyer",
+        "nation": "Pan_Asia",
+        "specials": {}
+    },
+    {
+        "uuid": "26cb1d70-afb9-4f65-b459-d0c093f63795",
+        "index": "PBSB105",
+        "group": "upgradeable",
+        "level": 5,
+        "name": "PBSB105_Iron_Duke",
+        "species": "Battleship",
+        "nation": "United_Kingdom",
+        "specials": {}
+    },
+    {
+        "uuid": "9f4bce0f-f98f-4647-8ac3-c052359d6b23",
+        "index": "PWSD103",
+        "group": "upgradeable",
+        "level": 3,
+        "name": "PWSD103_Romulus",
+        "species": "Destroyer",
+        "nation": "Europe",
+        "specials": {}
+    },
+    {
+        "uuid": "4742dd7c-a7d8-4def-9ecf-d1ab82cf3b6f",
+        "index": "PJSB529",
+        "group": "special",
+        "level": 9,
+        "name": "PJSB529_Iwami",
+        "species": "Battleship",
+        "nation": "Japan",
+        "specials": {}
+    },
+    {
+        "uuid": "f9beaf18-d733-489f-9a7c-7255968bdd9f",
+        "index": "PASC006",
+        "group": "special",
+        "level": 7,
+        "name": "PASC006_Atlanta_1942",
+        "species": "Cruiser",
+        "nation": "USA",
+        "specials": {}
+    },
+    {
+        "uuid": "35ad1dd1-3af3-4773-b7a9-b0ef32b383d1",
+        "index": "PFSC105",
+        "group": "upgradeable",
+        "level": 5,
+        "name": "PFSC105_Emile_Bertin",
+        "species": "Cruiser",
+        "nation": "France",
+        "specials": {}
+    },
+    {
+        "uuid": "86791f48-608d-4683-9734-e30e20302511",
+        "index": "PISC107",
+        "group": "upgradeable",
+        "level": 7,
+        "name": "PISC107_Zara",
+        "species": "Cruiser",
+        "nation": "Italy",
+        "specials": {}
+    },
+    {
+        "uuid": "0e89b15e-76f6-4983-8c10-d97cfff296fd",
+        "index": "PASB708",
+        "group": "specialUnsellable",
+        "level": 8,
+        "name": "PASB708_Alabama",
+        "species": "Battleship",
+        "nation": "USA",
+        "specials": {}
+    },
+    {
+        "uuid": "2ec3d624-ed20-46f1-ada4-fa407a562cda",
+        "index": "PFSD210",
+        "group": "ultimate",
+        "level": 10,
+        "name": "PFSD210_Marceau",
+        "species": "Destroyer",
+        "nation": "France",
+        "specials": {}
+    },
+    {
+        "uuid": "11276cec-3db1-4546-b333-65c9693f2898",
+        "index": "PASB017",
+        "group": "upgradeable",
+        "level": 10,
+        "name": "PASB017_Montana_1945",
+        "species": "Battleship",
+        "nation": "USA",
+        "specials": {}
+    },
+    {
+        "uuid": "cef63b66-77d8-47a6-8c05-8ab2becc3be9",
+        "index": "PISB509",
+        "group": "special",
+        "level": 9,
+        "name": "PISB509_Marco_Polo",
+        "species": "Battleship",
+        "nation": "Italy",
+        "specials": {}
+    },
+    {
+        "uuid": "ada43a92-0077-4206-b6fa-136e7294bc83",
+        "index": "PJSB508",
+        "group": "special",
+        "level": 8,
+        "name": "PJSB508_Kii",
+        "species": "Battleship",
+        "nation": "Japan",
+        "specials": {}
+    },
+    {
+        "uuid": "dca8a032-e0ad-4a19-ba56-e47fc45e4a84",
+        "index": "PWSD106",
+        "group": "upgradeable",
+        "level": 6,
+        "name": "PWSD106_Vasteras",
+        "species": "Destroyer",
+        "nation": "Europe",
+        "specials": {}
+    },
+    {
+        "uuid": "4dd78342-bb6d-404c-bac9-a42511a877a8",
+        "index": "PASC810",
+        "group": "ultimate",
+        "level": 10,
+        "name": "PASC810_Austin",
+        "species": "Cruiser",
+        "nation": "USA",
+        "specials": {}
+    },
+    {
+        "uuid": "e7382aed-55fb-45b8-bcc2-e9e990a9ec5b",
+        "index": "PGSB509",
+        "group": "special",
+        "level": 9,
+        "name": "PGSB509_Pommern",
+        "species": "Battleship",
+        "nation": "Germany",
+        "specials": {}
+    },
+    {
+        "uuid": "977b97b9-8ee6-4df5-b581-d0c57d4bb55e",
+        "index": "PBSC538",
+        "group": "special",
+        "level": 8,
+        "name": "PBSC538_Hampshire",
+        "species": "Cruiser",
+        "nation": "United_Kingdom",
+        "specials": {}
+    },
+    {
+        "uuid": "c9351f77-b8b0-4662-85a7-975d847ee93d",
+        "index": "PJSB018",
+        "group": "upgradeable",
+        "level": 10,
+        "name": "PJSB018_Yamato_1944",
+        "species": "Battleship",
+        "nation": "Japan",
+        "specials": {}
+    },
+    {
+        "uuid": "476a578a-8a48-4831-bbfb-3c162ee58d79",
+        "index": "PFSB108",
+        "group": "upgradeable",
+        "level": 8,
+        "name": "PFSB108_Richelieu",
+        "species": "Battleship",
+        "nation": "France",
+        "specials": {}
+    },
+    {
+        "uuid": "0cbb2b6c-0295-4567-be51-ed9bf6c8e79c",
+        "index": "PFSC209",
+        "group": "upgradeable",
+        "level": 9,
+        "name": "PFSC209_Brest",
+        "species": "Cruiser",
+        "nation": "France",
+        "specials": {}
+    }
+]
