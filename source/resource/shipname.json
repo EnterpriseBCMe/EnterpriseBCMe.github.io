@@ -1,233 +1,233 @@
 {
     "PASA002": {
-        "zh": "博格（旧）",
+        "zh": "\u535A\u683C\uFF08\u65E7\uFF09",
         "en": "Bogue (old)",
         "py": "bgj",
         "tag": "M5A"
     },
     "PASA004": {
-        "zh": "兰利（旧）",
+        "zh": "\u5170\u5229\uFF08\u65E7\uFF09",
         "en": "Langley (old)",
         "py": "llj",
         "tag": "M4A"
     },
     "PASA006": {
-        "zh": "独立（旧）",
+        "zh": "\u72EC\u7ACB\uFF08\u65E7\uFF09",
         "en": "Independence (old)",
         "py": "dlj",
         "tag": "M6A"
     },
     "PASA010": {
-        "zh": "突击者（旧）",
+        "zh": "\u7A81\u51FB\u8005\uFF08\u65E7\uFF09",
         "en": "Ranger (old)",
         "py": "tjzj",
         "tag": "M7A"
     },
     "PASA012": {
-        "zh": "列克星敦（旧）",
+        "zh": "\u5217\u514B\u661F\u6566\uFF08\u65E7\uFF09",
         "en": "Lexington (old)",
         "py": "lkxdj",
         "tag": "M8A"
     },
     "PASA013": {
-        "zh": "埃塞克斯（旧）",
+        "zh": "\u57C3\u585E\u514B\u65AF\uFF08\u65E7\uFF09",
         "en": "Essex (old)",
         "py": "asksj",
         "tag": "M9A"
     },
     "PASA015": {
-        "zh": "中途岛（旧）",
+        "zh": "\u4E2D\u9014\u5C9B\uFF08\u65E7\uFF09",
         "en": "Midway (old)",
         "py": "ztdj",
         "tag": "M10A"
     },
     "PASA104": {
-        "zh": "兰利",
+        "zh": "\u5170\u5229",
         "en": "Langley",
         "py": "ll",
         "tag": "M4A"
     },
     "PASA106": {
-        "zh": "突击者",
+        "zh": "\u7A81\u51FB\u8005",
         "en": "Ranger",
         "py": "tjz",
         "tag": "M6A"
     },
     "PASA108": {
-        "zh": "列克星敦",
+        "zh": "\u5217\u514B\u661F\u6566",
         "en": "Lexington",
         "py": "lkxd",
         "tag": "M8A"
     },
     "PASA110": {
-        "zh": "中途岛",
+        "zh": "\u4E2D\u9014\u5C9B",
         "en": "Midway",
         "py": "ztd",
         "tag": "M10A"
     },
     "PASA111": {
-        "zh": "合众国",
+        "zh": "\u5408\u4F17\u56FD",
         "en": "United States",
         "py": "hzg",
         "tag": "M11A"
     },
     "PASA208": {
-        "zh": "约克城",
+        "zh": "\u7EA6\u514B\u57CE",
         "en": "Yorktown",
         "py": "ykc",
         "tag": "M8A"
     },
     "PASA507": {
-        "zh": "塞班（旧）",
+        "zh": "\u585E\u73ED\uFF08\u65E7\uFF09",
         "en": "Saipan (old)",
         "py": "sbj",
         "tag": "M7A"
     },
     "PASA508": {
-        "zh": "企业（旧）",
+        "zh": "\u4F01\u4E1A\uFF08\u65E7\uFF09",
         "en": "Enterprise (old)",
         "py": "qyj",
         "tag": "M8A"
     },
     "PASA510": {
-        "zh": "富兰克林·罗斯福",
+        "zh": "\u5BCC\u5170\u514B\u6797\u00B7\u7F57\u65AF\u798F",
         "en": "F. D. Roosevelt",
         "py": "flkllsf",
         "tag": "M10A"
     },
     "PASA518": {
-        "zh": "企业",
+        "zh": "\u4F01\u4E1A",
         "en": "Enterprise",
         "py": "qy",
         "tag": "M8A"
     },
     "PASA528": {
-        "zh": "塞班",
+        "zh": "\u585E\u73ED",
         "en": "Saipan",
         "py": "sb",
         "tag": "M8A"
     },
     "PASA538": {
-        "zh": "大黄蜂",
+        "zh": "\u5927\u9EC4\u8702",
         "en": "Hornet",
         "py": "dhf",
         "tag": "M8A"
     },
     "PASA598": {
-        "zh": "塞班B",
+        "zh": "\u585E\u73EDB",
         "en": "Saipan B",
         "py": "sbB",
         "tag": "M8A"
     },
     "PASA906": {
-        "zh": "突击者",
+        "zh": "\u7A81\u51FB\u8005",
         "en": "Ranger",
         "py": "tjz"
     },
     "PASA915": {
-        "zh": "[中途岛]",
+        "zh": "[\u4E2D\u9014\u5C9B]",
         "en": "[Midway]",
         "py": "ztd",
         "tag": "M10A"
     },
     "PASB001": {
-        "zh": "南卡罗来纳",
+        "zh": "\u5357\u5361\u7F57\u6765\u7EB3",
         "en": "S. Carolina",
         "py": "nklln",
         "tag": "M3B"
     },
     "PASB004": {
-        "zh": "怀俄明",
+        "zh": "\u6000\u4FC4\u660E",
         "en": "Wyoming",
         "py": "hem",
         "tag": "M4B"
     },
     "PASB006": {
-        "zh": "纽约",
+        "zh": "\u7EBD\u7EA6",
         "en": "New York",
         "py": "ny",
         "tag": "M5B"
     },
     "PASB008": {
-        "zh": "科罗拉多",
+        "zh": "\u79D1\u7F57\u62C9\u591A",
         "en": "Colorado",
         "py": "klld",
         "tag": "M7B"
     },
     "PASB012": {
-        "zh": "北卡罗来纳",
+        "zh": "\u5317\u5361\u7F57\u6765\u7EB3",
         "en": "N. Carolina",
         "py": "bklln",
         "tag": "M8B"
     },
     "PASB013": {
-        "zh": "阿肯色B",
+        "zh": "\u963F\u80AF\u8272B",
         "en": "Arkansas B",
         "py": "aksB",
         "tag": "M4B"
     },
     "PASB017": {
-        "zh": "蒙大拿",
+        "zh": "\u8499\u5927\u62FF",
         "en": "Montana",
         "py": "mdn",
         "tag": "M10B"
     },
     "PASB018": {
-        "zh": "依阿华",
+        "zh": "\u4F9D\u963F\u534E",
         "en": "Iowa",
         "py": "yah",
         "tag": "M9B"
     },
     "PASB034": {
-        "zh": "新墨西哥",
+        "zh": "\u65B0\u58A8\u897F\u54E5",
         "en": "New Mexico",
         "py": "xmxg",
         "tag": "M6B"
     },
     "PASB108": {
-        "zh": "堪萨斯",
+        "zh": "\u582A\u8428\u65AF",
         "en": "Kansas",
         "py": "kss",
         "tag": "M8B"
     },
     "PASB109": {
-        "zh": "明尼苏达",
+        "zh": "\u660E\u5C3C\u82CF\u8FBE",
         "en": "Minnesota",
         "py": "mnsd",
         "tag": "M9B"
     },
     "PASB110": {
-        "zh": "佛蒙特",
+        "zh": "\u4F5B\u8499\u7279",
         "en": "Vermont",
         "py": "fmt",
         "tag": "M10B"
     },
     "PASB208": {
-        "zh": "内布拉斯加",
+        "zh": "\u5185\u5E03\u62C9\u65AF\u52A0",
         "en": "Nebraska",
         "py": "nblsj",
         "tag": "M8B"
     },
     "PASB209": {
-        "zh": "特拉华",
+        "zh": "\u7279\u62C9\u534E",
         "en": "Delaware",
         "py": "tlh",
         "tag": "M9B"
     },
     "PASB210": {
-        "zh": "路易斯安那",
+        "zh": "\u8DEF\u6613\u65AF\u5B89\u90A3",
         "en": "Louisiana",
         "py": "lysan",
         "tag": "M10B"
     },
     "PASB505": {
-        "zh": "俄克拉荷马",
+        "zh": "\u4FC4\u514B\u62C9\u8377\u9A6C",
         "en": "Oklahoma",
         "py": "eklhm",
         "tag": "M5B"
     },
     "PASB506": {
-        "zh": "亚利桑那",
+        "zh": "\u4E9A\u5229\u6851\u90A3",
         "en": "Arizona",
         "py": "ylsn",
         "tag": "M6B"
@@ -239,37 +239,37 @@
         "tag": "M6B"
     },
     "PASB508": {
-        "zh": "阿拉巴马",
+        "zh": "\u963F\u62C9\u5DF4\u9A6C",
         "en": "Alabama",
         "py": "albm",
         "tag": "M8B"
     },
     "PASB509": {
-        "zh": "密苏里",
+        "zh": "\u5BC6\u82CF\u91CC",
         "en": "Missouri",
         "py": "msl",
         "tag": "M9B"
     },
     "PASB510": {
-        "zh": "俄亥俄",
+        "zh": "\u4FC4\u4EA5\u4FC4",
         "en": "Ohio",
         "py": "ehe",
         "tag": "M10B"
     },
     "PASB517": {
-        "zh": "佛罗里达",
+        "zh": "\u4F5B\u7F57\u91CC\u8FBE",
         "en": "Florida",
         "py": "flld",
         "tag": "M7B"
     },
     "PASB518": {
-        "zh": "马萨诸塞",
+        "zh": "\u9A6C\u8428\u8BF8\u585E",
         "en": "Massachusetts",
         "py": "mszs",
         "tag": "M8B"
     },
     "PASB519": {
-        "zh": "奇尔沙治",
+        "zh": "\u5947\u5C14\u6C99\u6CBB",
         "en": "Kearsarge",
         "py": "qesz",
         "tag": "M9B"
@@ -281,66 +281,66 @@
         "tag": "M7B"
     },
     "PASB528": {
-        "zh": "阿拉巴马VL",
+        "zh": "\u963F\u62C9\u5DF4\u9A6CVL",
         "en": "Alabama VL",
         "py": "albmVL",
         "tag": "M8B"
     },
     "PASB538": {
-        "zh": "星座",
+        "zh": "\u661F\u5EA7",
         "en": "Constellation",
         "py": "xz",
         "tag": "M8B"
     },
     "PASB539": {
-        "zh": "伊利诺伊",
+        "zh": "\u4F0A\u5229\u8BFA\u4F0A",
         "en": "Illinois",
         "py": "ylny",
         "tag": "M9B"
     },
     "PASB598": {
-        "zh": "马萨诸塞B",
+        "zh": "\u9A6C\u8428\u8BF8\u585EB",
         "en": "Massachusetts B",
         "py": "mszsB",
         "tag": "M8B"
     },
     "PASB599": {
-        "zh": "奇尔沙治B",
+        "zh": "\u5947\u5C14\u6C99\u6CBBB",
         "en": "Kearsarge B",
         "py": "qeszB",
         "tag": "M9B"
     },
     "PASB705": {
-        "zh": "德克萨斯",
+        "zh": "\u5FB7\u514B\u8428\u65AF",
         "en": "Texas",
         "py": "dkss",
         "tag": "M5B"
     },
     "PASB707": {
-        "zh": "加利福尼亚",
+        "zh": "\u52A0\u5229\u798F\u5C3C\u4E9A",
         "en": "California",
         "py": "jlfny",
         "tag": "M7B"
     },
     "PASB708": {
-        "zh": "阿拉巴马ST",
+        "zh": "\u963F\u62C9\u5DF4\u9A6CST",
         "en": "Alabama ST",
         "py": "albmST",
         "tag": "M8B"
     },
     "PASB729": {
-        "zh": "佐治亚",
+        "zh": "\u4F50\u6CBB\u4E9A",
         "en": "Georgia",
         "py": "zzy",
         "tag": "M9B"
     },
     "PASB801": {
-        "zh": "南卡罗来纳",
+        "zh": "\u5357\u5361\u7F57\u6765\u7EB3",
         "en": "South Carolina",
         "py": "nklln"
     },
     "PASB802": {
-        "zh": "密歇根",
+        "zh": "\u5BC6\u6B47\u6839",
         "en": "Michigan",
         "py": "mxg"
     },
@@ -351,19 +351,19 @@
         "tag": "M8B"
     },
     "PASB810": {
-        "zh": "蒙大拿P",
+        "zh": "\u8499\u5927\u62FFP",
         "en": "Montana P",
         "py": "mdnP",
         "tag": "M10B"
     },
     "PASB910": {
-        "zh": "康涅狄格",
+        "zh": "\u5EB7\u6D85\u72C4\u683C",
         "en": "Connecticut",
         "py": "kndg",
         "tag": "M10B"
     },
     "PASB917": {
-        "zh": "[蒙大拿]",
+        "zh": "[\u8499\u5927\u62FF]",
         "en": "[Montana]",
         "py": "mdn",
         "tag": "M10B"
@@ -375,392 +375,392 @@
         "tag": "M10B"
     },
     "PASC001": {
-        "zh": "伊利",
+        "zh": "\u4F0A\u5229",
         "en": "Erie",
         "py": "yl",
         "tag": "M1C"
     },
     "PASC002": {
-        "zh": "切斯特",
+        "zh": "\u5207\u65AF\u7279",
         "en": "Chester",
         "py": "qst",
         "tag": "M2C"
     },
     "PASC003": {
-        "zh": "奥尔巴尼",
+        "zh": "\u5965\u5C14\u5DF4\u5C3C",
         "en": "Albany",
         "py": "aebn",
         "tag": "M2C"
     },
     "PASC004": {
-        "zh": "圣路易斯",
+        "zh": "\u5723\u8DEF\u6613\u65AF",
         "en": "St. Louis",
         "py": "slys",
         "tag": "M3C"
     },
     "PASC005": {
-        "zh": "奥马哈",
+        "zh": "\u5965\u9A6C\u54C8",
         "en": "Omaha",
         "py": "amh",
         "tag": "M5C"
     },
     "PASC006": {
-        "zh": "亚特兰大",
+        "zh": "\u4E9A\u7279\u5170\u5927",
         "en": "Atlanta",
         "py": "ytld",
         "tag": "M7C"
     },
     "PASC007": {
-        "zh": "克利夫兰（旧）",
+        "zh": "\u514B\u5229\u592B\u5170\uFF08\u65E7\uFF09",
         "en": "Cleveland (old)",
         "py": "klflj",
         "tag": "M6C"
     },
     "PASC012": {
-        "zh": "彭萨科拉（旧）",
+        "zh": "\u5F6D\u8428\u79D1\u62C9\uFF08\u65E7\uFF09",
         "en": "Pensacola (old)",
         "py": "psklj",
         "tag": "M7C"
     },
     "PASC014": {
-        "zh": "新奥尔良（旧）",
+        "zh": "\u65B0\u5965\u5C14\u826F\uFF08\u65E7\uFF09",
         "en": "New Orleans (old)",
         "py": "xaelj",
         "tag": "M8C"
     },
     "PASC016": {
-        "zh": "伍斯特",
+        "zh": "\u4F0D\u65AF\u7279",
         "en": "Worcester",
         "py": "wst",
         "tag": "M10C"
     },
     "PASC017": {
-        "zh": "巴尔的摩（旧）",
+        "zh": "\u5DF4\u5C14\u7684\u6469\uFF08\u65E7\uFF09",
         "en": "Baltimore (old)",
         "py": "bedmj",
         "tag": "M9C"
     },
     "PASC019": {
-        "zh": "水牛城",
+        "zh": "\u6C34\u725B\u57CE",
         "en": "Buffalo",
         "py": "snc",
         "tag": "M10C"
     },
     "PASC020": {
-        "zh": "得梅因",
+        "zh": "\u5F97\u6885\u56E0",
         "en": "Des Moines",
         "py": "dmy",
         "tag": "M10C"
     },
     "PASC024": {
-        "zh": "凤凰城",
+        "zh": "\u51E4\u51F0\u57CE",
         "en": "Phoenix",
         "py": "fhc",
         "tag": "M4C"
     },
     "PASC039": {
-        "zh": "彭萨科拉1930",
+        "zh": "\u5F6D\u8428\u79D1\u62C91930",
         "en": "Pensacola 1930",
         "py": "pskl1930"
     },
     "PASC044": {
-        "zh": "马布尔黑德",
+        "zh": "\u9A6C\u5E03\u5C14\u9ED1\u5FB7",
         "en": "Marblehead",
         "py": "mbehd",
         "tag": "M5C"
     },
     "PASC045": {
-        "zh": "马布尔黑德L",
+        "zh": "\u9A6C\u5E03\u5C14\u9ED1\u5FB7L",
         "en": "Marblehead L",
         "py": "mbehdL",
         "tag": "M5C"
     },
     "PASC106": {
-        "zh": "彭萨科拉",
+        "zh": "\u5F6D\u8428\u79D1\u62C9",
         "en": "Pensacola",
         "py": "pskl",
         "tag": "M6C"
     },
     "PASC107": {
-        "zh": "新奥尔良",
+        "zh": "\u65B0\u5965\u5C14\u826F",
         "en": "New Orleans",
         "py": "xael",
         "tag": "M7C"
     },
     "PASC108": {
-        "zh": "巴尔的摩",
+        "zh": "\u5DF4\u5C14\u7684\u6469",
         "en": "Baltimore",
         "py": "bedm",
         "tag": "M8C"
     },
     "PASC109": {
-        "zh": "水牛城",
+        "zh": "\u6C34\u725B\u57CE",
         "en": "Buffalo",
         "py": "snc",
         "tag": "M9C"
     },
     "PASC111": {
-        "zh": "安纳波利斯",
+        "zh": "\u5B89\u7EB3\u6CE2\u5229\u65AF",
         "en": "Annapolis",
         "py": "anbls",
         "tag": "M11C"
     },
     "PASC206": {
-        "zh": "达拉斯",
+        "zh": "\u8FBE\u62C9\u65AF",
         "en": "Dallas",
         "py": "dls",
         "tag": "M6C"
     },
     "PASC207": {
-        "zh": "海伦娜",
+        "zh": "\u6D77\u4F26\u5A1C",
         "en": "Helena",
         "py": "hln",
         "tag": "M7C"
     },
     "PASC208": {
-        "zh": "克利夫兰",
+        "zh": "\u514B\u5229\u592B\u5170",
         "en": "Cleveland",
         "py": "klfl",
         "tag": "M8C"
     },
     "PASC209": {
-        "zh": "西雅图",
+        "zh": "\u897F\u96C5\u56FE",
         "en": "Seattle",
         "py": "xyt",
         "tag": "M9C"
     },
     "PASC210": {
-        "zh": "伍斯特",
+        "zh": "\u4F0D\u65AF\u7279",
         "en": "Worcester",
         "py": "wst",
         "tag": "M10C"
     },
     "PASC503": {
-        "zh": "查尔斯顿",
+        "zh": "\u67E5\u5C14\u65AF\u987F",
         "en": "Charleston",
         "py": "cesd",
         "tag": "M3C"
     },
     "PASC507": {
-        "zh": "印第安纳波利斯",
+        "zh": "\u5370\u7B2C\u5B89\u7EB3\u6CE2\u5229\u65AF",
         "en": "Indianapolis",
         "py": "ydanbls",
         "tag": "M7C"
     },
     "PASC508": {
-        "zh": "威奇塔",
+        "zh": "\u5A01\u5947\u5854",
         "en": "Wichita",
         "py": "wqt",
         "tag": "M8C"
     },
     "PASC509": {
-        "zh": "瓦列霍",
+        "zh": "\u74E6\u5217\u970D",
         "en": "Vallejo",
         "py": "wlh",
         "tag": "M9C"
     },
     "PASC510": {
-        "zh": "阿拉斯加",
+        "zh": "\u963F\u62C9\u65AF\u52A0",
         "en": "Alaska",
         "py": "alsj",
         "tag": "M9C"
     },
     "PASC518": {
-        "zh": "安克雷奇",
+        "zh": "\u5B89\u514B\u96F7\u5947",
         "en": "Anchorage",
         "py": "aklq",
         "tag": "M8C"
     },
     "PASC519": {
-        "zh": "塔尔萨",
+        "zh": "\u5854\u5C14\u8428",
         "en": "Tulsa",
         "py": "tes",
         "tag": "M9C"
     },
     "PASC528": {
-        "zh": "国会",
+        "zh": "\u56FD\u4F1A",
         "en": "Congress",
         "py": "gh",
         "tag": "M8C"
     },
     "PASC538": {
-        "zh": "罗彻斯特",
+        "zh": "\u7F57\u5F7B\u65AF\u7279",
         "en": "Rochester",
         "py": "lcst",
         "tag": "M8C"
     },
     "PASC548": {
-        "zh": "圣地亚哥",
+        "zh": "\u5723\u5730\u4E9A\u54E5",
         "en": "San Diego",
         "py": "sdyg",
         "tag": "M8C"
     },
     "PASC587": {
-        "zh": "亚特兰大B",
+        "zh": "\u4E9A\u7279\u5170\u5927B",
         "en": "Atlanta B",
         "py": "ytldB",
         "tag": "M7C"
     },
     "PASC597": {
-        "zh": "博伊西",
+        "zh": "\u535A\u4F0A\u897F",
         "en": "Boise",
         "py": "byx",
         "tag": "M7C"
     },
     "PASC599": {
-        "zh": "阿拉斯加B",
+        "zh": "\u963F\u62C9\u65AF\u52A0B",
         "en": "Alaska B",
         "py": "alsjB",
         "tag": "M9C"
     },
     "PASC610": {
-        "zh": "波多黎各",
+        "zh": "\u6CE2\u591A\u9ECE\u5404",
         "en": "Puerto Rico",
         "py": "bdlg",
         "tag": "M10C"
     },
     "PASC707": {
-        "zh": "弗林特",
+        "zh": "\u5F17\u6797\u7279",
         "en": "Flint",
         "py": "flt",
         "tag": "M7C"
     },
     "PASC710": {
-        "zh": "塞勒姆",
+        "zh": "\u585E\u52D2\u59C6",
         "en": "Salem",
         "py": "slm",
         "tag": "M10C"
     },
     "PASC718": {
-        "zh": "AL蒙彼利埃",
+        "zh": "AL\u8499\u5F7C\u5229\u57C3",
         "en": "AL Montpelier",
         "py": "ALmbla",
         "tag": "M8C"
     },
     "PASC802": {
-        "zh": "西马隆",
+        "zh": "\u897F\u9A6C\u9686",
         "en": "Cimarron",
         "py": "xml"
     },
     "PASC803": {
-        "zh": "西马隆",
+        "zh": "\u897F\u9A6C\u9686",
         "en": "Cimarron",
         "py": "xml"
     },
     "PASC804": {
-        "zh": "伊利",
+        "zh": "\u4F0A\u5229",
         "en": "Erie",
         "py": "yl"
     },
     "PASC805": {
-        "zh": "伊利",
+        "zh": "\u4F0A\u5229",
         "en": "Erie",
         "py": "yl"
     },
     "PASC810": {
-        "zh": "奥斯汀",
+        "zh": "\u5965\u65AF\u6C40",
         "en": "Austin",
         "py": "ast",
         "tag": "M10C"
     },
     "PASD002": {
-        "zh": "桑普森",
+        "zh": "\u6851\u666E\u68EE",
         "en": "Sampson",
         "py": "sps",
         "tag": "M2D"
     },
     "PASD005": {
-        "zh": "法拉格特",
+        "zh": "\u6CD5\u62C9\u683C\u7279",
         "en": "Farragut",
         "py": "flgt",
         "tag": "M6D"
     },
     "PASD006": {
-        "zh": "马汉",
+        "zh": "\u9A6C\u6C49",
         "en": "Mahan",
         "py": "mh",
         "tag": "M7D"
     },
     "PASD008": {
-        "zh": "本森",
+        "zh": "\u672C\u68EE",
         "en": "Benson",
         "py": "bs",
         "tag": "M8D"
     },
     "PASD013": {
-        "zh": "基林",
+        "zh": "\u57FA\u6797",
         "en": "Gearing",
         "py": "jl",
         "tag": "M10D"
     },
     "PASD014": {
-        "zh": "尼古拉斯",
+        "zh": "\u5C3C\u53E4\u62C9\u65AF",
         "en": "Nicholas",
         "py": "ngls",
         "tag": "M5D"
     },
     "PASD019": {
-        "zh": "克莱姆森",
+        "zh": "\u514B\u83B1\u59C6\u68EE",
         "en": "Clemson",
         "py": "klms",
         "tag": "M4D"
     },
     "PASD021": {
-        "zh": "弗莱彻",
+        "zh": "\u5F17\u83B1\u5F7B",
         "en": "Fletcher",
         "py": "flc",
         "tag": "M9D"
     },
     "PASD027": {
-        "zh": "维克斯",
+        "zh": "\u7EF4\u514B\u65AF",
         "en": "Wickes",
         "py": "wks",
         "tag": "M3D"
     },
     "PASD029": {
-        "zh": "西姆斯",
+        "zh": "\u897F\u59C6\u65AF",
         "en": "Sims",
         "py": "xms",
         "tag": "M7D"
     },
     "PASD111": {
-        "zh": "约书亚·汉弗莱斯",
+        "zh": "\u7EA6\u4E66\u4E9A\u00B7\u6C49\u5F17\u83B1\u65AF",
         "en": "J. Humphreys",
         "py": "ysyhfls",
         "tag": "M11D"
     },
     "PASD502": {
-        "zh": "史密斯",
+        "zh": "\u53F2\u5BC6\u65AF",
         "en": "Smith",
         "py": "sms",
         "tag": "M2D"
     },
     "PASD505": {
-        "zh": "希尔",
+        "zh": "\u5E0C\u5C14",
         "en": "Hill",
         "py": "xe",
         "tag": "M5D"
     },
     "PASD506": {
-        "zh": "莫纳汉",
+        "zh": "\u83AB\u7EB3\u6C49",
         "en": "Monaghan",
         "py": "mnh",
         "tag": "M6D"
     },
     "PASD508": {
-        "zh": "基德",
+        "zh": "\u57FA\u5FB7",
         "en": "Kidd",
         "py": "jd",
         "tag": "M8D"
     },
     "PASD509": {
-        "zh": "贝纳姆",
+        "zh": "\u8D1D\u7EB3\u59C6",
         "en": "Benham",
         "py": "bnm",
         "tag": "M9D"
     },
     "PASD510": {
-        "zh": "萨默斯",
+        "zh": "\u8428\u9ED8\u65AF",
         "en": "Somers",
         "py": "sms",
         "tag": "M10D"
@@ -772,84 +772,84 @@
         "tag": "M9D"
     },
     "PASD597": {
-        "zh": "西姆斯B",
+        "zh": "\u897F\u59C6\u65AFB",
         "en": "Sims B",
         "py": "xmsB",
         "tag": "M7D"
     },
     "PASD610": {
-        "zh": "福雷斯特·谢尔曼",
+        "zh": "\u798F\u96F7\u65AF\u7279\u00B7\u8C22\u5C14\u66FC",
         "en": "F. Sherman",
         "py": "flstxem",
         "tag": "M10D"
     },
     "PASD709": {
-        "zh": "布莱克",
+        "zh": "\u5E03\u83B1\u514B",
         "en": "Black",
         "py": "blk",
         "tag": "M9D"
     },
     "PASD801": {
-        "zh": "桑普森",
+        "zh": "\u6851\u666E\u68EE",
         "en": "Sampson",
         "py": "sps"
     },
     "PASD810": {
-        "zh": "基林P",
+        "zh": "\u57FA\u6797P",
         "en": "Gearing P",
         "py": "jlP",
         "tag": "M10D"
     },
     "PASD913": {
-        "zh": "[基林]",
+        "zh": "[\u57FA\u6797]",
         "en": "[Gearing]",
         "py": "jl",
         "tag": "M10D"
     },
     "PASS106": {
-        "zh": "抹香鲸 (old)",
+        "zh": "\u62B9\u9999\u9CB8 (old)",
         "en": "Cachalot (old)",
         "py": "mxj old",
         "tag": "M6S"
     },
     "PASS108": {
-        "zh": "鲑鱼 (old)",
+        "zh": "\u9C91\u9C7C (old)",
         "en": "Salmon (old)",
         "py": "gy old",
         "tag": "M8S"
     },
     "PASS110": {
-        "zh": "巴劳鱵 (old)",
+        "zh": "\u5DF4\u52B3\u9C75 (old)",
         "en": "Balao (old)",
         "py": "blz old",
         "tag": "M10S"
     },
     "PASS206": {
-        "zh": "抹香鲸",
+        "zh": "\u62B9\u9999\u9CB8",
         "en": "Cachalot",
         "py": "mxj",
         "tag": "M6S"
     },
     "PASS208": {
-        "zh": "鲑鱼",
+        "zh": "\u9C91\u9C7C",
         "en": "Salmon",
         "py": "gy",
         "tag": "M8S"
     },
     "PASS210": {
-        "zh": "巴劳鱵",
+        "zh": "\u5DF4\u52B3\u9C75",
         "en": "Balao",
         "py": "blz",
         "tag": "M10S"
     },
     "PASS510": {
-        "zh": "猫鲨",
+        "zh": "\u732B\u9CA8",
         "en": "Gato",
         "py": "ms",
         "tag": "M10S"
     },
     "PASX001": {
-        "zh": "西马隆",
+        "zh": "\u897F\u9A6C\u9686",
         "en": "Cimarron",
         "py": "xml",
         "tag": "M5A"
@@ -867,136 +867,136 @@
         "tag": "M5A"
     },
     "PASX006": {
-        "zh": "西马隆",
+        "zh": "\u897F\u9A6C\u9686",
         "en": "Cimarron",
         "py": "xml"
     },
     "PASX799": {
-        "zh": "独角鲸",
+        "zh": "\u72EC\u89D2\u9CB8",
         "en": "Narwhal",
         "py": "djj"
     },
     "PASX815": {
-        "zh": "博格",
+        "zh": "\u535A\u683C",
         "en": "Bogue",
         "py": "bg"
     },
     "PASX904": {
-        "zh": "西马隆测试",
+        "zh": "\u897F\u9A6C\u9686\u6D4B\u8BD5",
         "en": "Cimarron Test",
         "py": "xmlcs",
         "tag": "M5A"
     },
     "PBSA106": {
-        "zh": "暴怒",
+        "zh": "\u66B4\u6012",
         "en": "Furious",
         "py": "bn",
         "tag": "Y6A"
     },
     "PBSA108": {
-        "zh": "怨仇",
+        "zh": "\u6028\u4EC7",
         "en": "Implacable",
         "py": "yc",
         "tag": "Y8A"
     },
     "PBSA111": {
-        "zh": "老鹰",
+        "zh": "\u8001\u9E70",
         "en": "Eagle",
         "py": "ly",
         "tag": "Y11A"
     },
     "PBSA204": {
-        "zh": "竞技神",
+        "zh": "\u7ADE\u6280\u795E",
         "en": "Hermes",
         "py": "jjs",
         "tag": "Y4A"
     },
     "PBSA210": {
-        "zh": "大胆",
+        "zh": "\u5927\u80C6",
         "en": "Audacious",
         "py": "dd",
         "tag": "Y10A"
     },
     "PBSA508": {
-        "zh": "不挠",
+        "zh": "\u4E0D\u6320",
         "en": "Indomitable",
         "py": "bn",
         "tag": "Y8A"
     },
     "PBSA510": {
-        "zh": "马耳他",
+        "zh": "\u9A6C\u8033\u4ED6",
         "en": "Malta",
         "py": "met",
         "tag": "Y10A"
     },
     "PBSA518": {
-        "zh": "皇家方舟",
+        "zh": "\u7687\u5BB6\u65B9\u821F",
         "en": "Ark Royal",
         "py": "hjfz",
         "tag": "Y6A"
     },
     "PBSA528": {
-        "zh": "巨像",
+        "zh": "\u5DE8\u50CF",
         "en": "Colossus",
         "py": "jx",
         "tag": "Y8A"
     },
     "PBSA910": {
-        "zh": "[大胆]",
+        "zh": "[\u5927\u80C6]",
         "en": "[Audacious]",
         "py": "dd",
         "tag": "Y10A"
     },
     "PBSB002": {
-        "zh": "厌战",
+        "zh": "\u538C\u6218",
         "en": "Warspite",
         "py": "yz",
         "tag": "Y6B"
     },
     "PBSB103": {
-        "zh": "柏勒罗丰",
+        "zh": "\u67CF\u52D2\u7F57\u4E30",
         "en": "Bellerophon",
         "py": "bllf",
         "tag": "Y3B"
     },
     "PBSB104": {
-        "zh": "猎户座",
+        "zh": "\u730E\u6237\u5EA7",
         "en": "Orion",
         "py": "lhz",
         "tag": "Y4B"
     },
     "PBSB105": {
-        "zh": "铁公爵",
+        "zh": "\u94C1\u516C\u7235",
         "en": "Iron Duke",
         "py": "tgj",
         "tag": "Y5B"
     },
     "PBSB106": {
-        "zh": "伊丽莎白女王",
+        "zh": "\u4F0A\u4E3D\u838E\u767D\u5973\u738B",
         "en": "Queen Elizabeth",
         "py": "ylsbnw",
         "tag": "Y6B"
     },
     "PBSB107": {
-        "zh": "英王乔治五世",
+        "zh": "\u82F1\u738B\u4E54\u6CBB\u4E94\u4E16",
         "en": "King George V",
         "py": "ywqzws",
         "tag": "Y7B"
     },
     "PBSB108": {
-        "zh": "君主",
+        "zh": "\u541B\u4E3B",
         "en": "Monarch",
         "py": "jz",
         "tag": "Y8B"
     },
     "PBSB109": {
-        "zh": "狮",
+        "zh": "\u72EE",
         "en": "Lion",
         "py": "s",
         "tag": "Y9B"
     },
     "PBSB110": {
-        "zh": "征服者",
+        "zh": "\u5F81\u670D\u8005",
         "en": "Conqueror",
         "py": "zfz",
         "tag": "Y10B"
@@ -1008,1192 +1008,1192 @@
         "tag": "Y11B"
     },
     "PBSB203": {
-        "zh": "不倦",
+        "zh": "\u4E0D\u5026",
         "en": "Indefatigable",
         "py": "bj",
         "tag": "Y3B"
     },
     "PBSB204": {
-        "zh": "玛丽女王",
+        "zh": "\u739B\u4E3D\u5973\u738B",
         "en": "Queen Mary",
         "py": "mlnw",
         "tag": "Y4B"
     },
     "PBSB205": {
-        "zh": "虎",
+        "zh": "\u864E",
         "en": "Tiger",
         "py": "h",
         "tag": "Y5B"
     },
     "PBSB206": {
-        "zh": "声望",
+        "zh": "\u58F0\u671B",
         "en": "Renown",
         "py": "sw",
         "tag": "Y6B"
     },
     "PBSB207": {
-        "zh": "鲁克",
+        "zh": "\u9C81\u514B",
         "en": "Rooke",
         "py": "lk",
         "tag": "Y7B"
     },
     "PBSB208": {
-        "zh": "霍克",
+        "zh": "\u970D\u514B",
         "en": "Hawke",
         "py": "hk",
         "tag": "Y8B"
     },
     "PBSB209": {
-        "zh": "邓肯",
+        "zh": "\u9093\u80AF",
         "en": "Duncan",
         "py": "dk",
         "tag": "Y9B"
     },
     "PBSB210": {
-        "zh": "圣文森特",
+        "zh": "\u5723\u6587\u68EE\u7279",
         "en": "St. Vincent",
         "py": "swst",
         "tag": "Y10B"
     },
     "PBSB503": {
-        "zh": "无畏",
+        "zh": "\u65E0\u754F",
         "en": "Dreadnought",
         "py": "ww",
         "tag": "Y3B"
     },
     "PBSB505": {
-        "zh": "阿金库尔",
+        "zh": "\u963F\u91D1\u5E93\u5C14",
         "en": "Agincourt",
         "py": "ajke",
         "tag": "Y5B"
     },
     "PBSB507": {
-        "zh": "胡德",
+        "zh": "\u80E1\u5FB7",
         "en": "Hood",
         "py": "hd",
         "tag": "Y7B"
     },
     "PBSB508": {
-        "zh": "前卫",
+        "zh": "\u524D\u536B",
         "en": "Vanguard",
         "py": "qw",
         "tag": "Y8B"
     },
     "PBSB509": {
-        "zh": "马尔博罗",
+        "zh": "\u9A6C\u5C14\u535A\u7F57",
         "en": "Marlborough",
         "py": "mebl",
         "tag": "Y9B"
     },
     "PBSB510": {
-        "zh": "雷神",
+        "zh": "\u96F7\u795E",
         "en": "Thunderer",
         "py": "ls",
         "tag": "Y10B"
     },
     "PBSB517": {
-        "zh": "纳尔逊",
+        "zh": "\u7EB3\u5C14\u900A",
         "en": "Nelson",
         "py": "nex",
         "tag": "Y7B"
     },
     "PBSB526": {
-        "zh": "反击",
+        "zh": "\u53CD\u51FB",
         "en": "Repulse",
         "py": "fj",
         "tag": "Y6B"
     },
     "PBSB527": {
-        "zh": "约克公爵",
+        "zh": "\u7EA6\u514B\u516C\u7235",
         "en": "Duke of York",
         "py": "ykgj",
         "tag": "Y7B"
     },
     "PBSB537": {
-        "zh": "科林伍德",
+        "zh": "\u79D1\u6797\u4F0D\u5FB7",
         "en": "Collingwood",
         "py": "klwd",
         "tag": "Y7B"
     },
     "PBSB547": {
-        "zh": "声望44",
+        "zh": "\u58F0\u671B44",
         "en": "Renown '44",
         "py": "sw44",
         "tag": "Y7B"
     },
     "PBSB610": {
-        "zh": "无比",
+        "zh": "\u65E0\u6BD4",
         "en": "Incomparable",
         "py": "wb",
         "tag": "Y10B"
     },
     "PBSB810": {
-        "zh": "坎伯兰",
+        "zh": "\u574E\u4F2F\u5170",
         "en": "Cumberland",
         "py": "kbl",
         "tag": "Y10B"
     },
     "PBSB910": {
-        "zh": "[征服者]",
+        "zh": "[\u5F81\u670D\u8005]",
         "en": "[Conqueror]",
         "py": "zfz",
         "tag": "Y10B"
     },
     "PBSB911": {
-        "zh": "征服者",
+        "zh": "\u5F81\u670D\u8005",
         "en": "Conqueror",
         "py": "zfz"
     },
     "PBSB998": {
-        "zh": "圣劳伦斯",
+        "zh": "\u5723\u52B3\u4F26\u65AF",
         "en": "St. Lawrence",
         "py": "slls",
         "tag": "Y10B"
     },
     "PBSC101": {
-        "zh": "黑天鹅",
+        "zh": "\u9ED1\u5929\u9E45",
         "en": "Black Swan",
         "py": "hte",
         "tag": "Y1C"
     },
     "PBSC102": {
-        "zh": "韦茅斯",
+        "zh": "\u97E6\u8305\u65AF",
         "en": "Weymouth",
         "py": "wms",
         "tag": "Y2C"
     },
     "PBSC103": {
-        "zh": "卡利登",
+        "zh": "\u5361\u5229\u767B",
         "en": "Caledon",
         "py": "kld",
         "tag": "Y3C"
     },
     "PBSC104": {
-        "zh": "达娜厄",
+        "zh": "\u8FBE\u5A1C\u5384",
         "en": "Danae",
         "py": "dne",
         "tag": "Y4C"
     },
     "PBSC105": {
-        "zh": "翡翠",
+        "zh": "\u7FE1\u7FE0",
         "en": "Emerald",
         "py": "fc",
         "tag": "Y5C"
     },
     "PBSC106": {
-        "zh": "利安得",
+        "zh": "\u5229\u5B89\u5F97",
         "en": "Leander",
         "py": "lad",
         "tag": "Y6C"
     },
     "PBSC107": {
-        "zh": "斐济",
+        "zh": "\u6590\u6D4E",
         "en": "Fiji",
         "py": "fj",
         "tag": "Y7C"
     },
     "PBSC108": {
-        "zh": "爱丁堡",
+        "zh": "\u7231\u4E01\u5821",
         "en": "Edinburgh",
         "py": "adb",
         "tag": "Y8C"
     },
     "PBSC109": {
-        "zh": "海王星",
+        "zh": "\u6D77\u738B\u661F",
         "en": "Neptune",
         "py": "hwx",
         "tag": "Y9C"
     },
     "PBSC110": {
-        "zh": "米诺陶",
+        "zh": "\u7C73\u8BFA\u9676",
         "en": "Minotaur",
         "py": "mnt",
         "tag": "Y10C"
     },
     "PBSC111": {
-        "zh": "埃德加",
+        "zh": "\u57C3\u5FB7\u52A0",
         "en": "Edgar",
         "py": "adj",
         "tag": "Y11C"
     },
     "PBSC205": {
-        "zh": "霍金斯",
+        "zh": "\u970D\u91D1\u65AF",
         "en": "Hawkins",
         "py": "hjs",
         "tag": "Y5C"
     },
     "PBSC206": {
-        "zh": "德文郡",
+        "zh": "\u5FB7\u6587\u90E1",
         "en": "Devonshire",
         "py": "dwj",
         "tag": "Y6C"
     },
     "PBSC207": {
-        "zh": "萨里",
+        "zh": "\u8428\u91CC",
         "en": "Surrey",
         "py": "sl",
         "tag": "Y7C"
     },
     "PBSC208": {
-        "zh": "阿尔伯马尔",
+        "zh": "\u963F\u5C14\u4F2F\u9A6C\u5C14",
         "en": "Albemarle",
         "py": "aebme",
         "tag": "Y8C"
     },
     "PBSC209": {
-        "zh": "德雷克",
+        "zh": "\u5FB7\u96F7\u514B",
         "en": "Drake",
         "py": "dlk",
         "tag": "Y9C"
     },
     "PBSC210": {
-        "zh": "哥利亚",
+        "zh": "\u54E5\u5229\u4E9A",
         "en": "Goliath",
         "py": "gly",
         "tag": "Y10C"
     },
     "PBSC505": {
-        "zh": "埃克塞特",
+        "zh": "\u57C3\u514B\u585E\u7279",
         "en": "Exeter",
         "py": "akst",
         "tag": "Y5C"
     },
     "PBSC507": {
-        "zh": "贝尔法斯特",
+        "zh": "\u8D1D\u5C14\u6CD5\u65AF\u7279",
         "en": "Belfast",
         "py": "befst",
         "tag": "Y7C"
     },
     "PBSC508": {
-        "zh": "柴郡",
+        "zh": "\u67F4\u90E1",
         "en": "Cheshire",
         "py": "cj",
         "tag": "Y8C"
     },
     "PBSC510": {
-        "zh": "普利茅斯",
+        "zh": "\u666E\u5229\u8305\u65AF",
         "en": "Plymouth",
         "py": "plms",
         "tag": "Y10C"
     },
     "PBSC516": {
-        "zh": "伦敦",
+        "zh": "\u4F26\u6566",
         "en": "London",
         "py": "ld",
         "tag": "Y6C"
     },
     "PBSC518": {
-        "zh": "虎59",
+        "zh": "\u864E59",
         "en": "Tiger '59",
         "py": "h59",
         "tag": "Y8C"
     },
     "PBSC526": {
-        "zh": "黛朵",
+        "zh": "\u9EDB\u6735",
         "en": "Dido",
         "py": "dd",
         "tag": "Y6C"
     },
     "PBSC528": {
-        "zh": "贝尔法斯特43",
+        "zh": "\u8D1D\u5C14\u6CD5\u65AF\u727943",
         "en": "Belfast '43",
         "py": "befst43",
         "tag": "Y8C"
     },
     "PBSC538": {
-        "zh": "汉普郡",
+        "zh": "\u6C49\u666E\u90E1",
         "en": "Hampshire",
         "py": "hpj",
         "tag": "Y8C"
     },
     "PBSC548": {
-        "zh": "诺丁汉",
+        "zh": "\u8BFA\u4E01\u6C49",
         "en": "Nottingham",
         "py": "ndh",
         "tag": "Y8C"
     },
     "PBSC610": {
-        "zh": "直布罗陀",
+        "zh": "\u76F4\u5E03\u7F57\u9640",
         "en": "Gibraltar",
         "py": "zblt",
         "tag": "Y10C"
     },
     "PBSC710": {
-        "zh": "蒙茅斯",
+        "zh": "\u8499\u8305\u65AF",
         "en": "Monmouth",
         "py": "mms",
         "tag": "Y10C"
     },
     "PBSC888": {
-        "zh": "星之爱丁堡",
+        "zh": "\u661F\u4E4B\u7231\u4E01\u5821",
         "en": "STAR Edinburgh",
         "py": "xzadb",
         "tag": "Y8C"
     },
     "PBSC910": {
-        "zh": "独眼巨人",
+        "zh": "\u72EC\u773C\u5DE8\u4EBA",
         "en": "Cyclops",
         "py": "dyjr",
         "tag": "Y10C"
     },
     "PBSD102": {
-        "zh": "美狄亚",
+        "zh": "\u7F8E\u72C4\u4E9A",
         "en": "Medea",
         "py": "mdy",
         "tag": "Y2D"
     },
     "PBSD103": {
-        "zh": "女武神",
+        "zh": "\u5973\u6B66\u795E",
         "en": "Valkyrie",
         "py": "nws",
         "tag": "Y3D"
     },
     "PBSD104": {
-        "zh": "清醒",
+        "zh": "\u6E05\u9192",
         "en": "Wakeful",
         "py": "qx",
         "tag": "Y4D"
     },
     "PBSD105": {
-        "zh": "阿卡斯塔",
+        "zh": "\u963F\u5361\u65AF\u5854",
         "en": "Acasta",
         "py": "akst",
         "tag": "Y5D"
     },
     "PBSD106": {
-        "zh": "伊卡洛斯",
+        "zh": "\u4F0A\u5361\u6D1B\u65AF",
         "en": "Icarus",
         "py": "ykls",
         "tag": "Y6D"
     },
     "PBSD107": {
-        "zh": "杰维斯",
+        "zh": "\u6770\u7EF4\u65AF",
         "en": "Jervis",
         "py": "jws",
         "tag": "Y7D"
     },
     "PBSD108": {
-        "zh": "雷电",
+        "zh": "\u96F7\u7535",
         "en": "Lightning",
         "py": "ld",
         "tag": "Y8D"
     },
     "PBSD109": {
-        "zh": "日德兰",
+        "zh": "\u65E5\u5FB7\u5170",
         "en": "Jutland",
         "py": "rdl",
         "tag": "Y9D"
     },
     "PBSD110": {
-        "zh": "果敢",
+        "zh": "\u679C\u6562",
         "en": "Daring",
         "py": "gg",
         "tag": "Y10D"
     },
     "PBSD503": {
-        "zh": "坎贝尔敦",
+        "zh": "\u574E\u8D1D\u5C14\u6566",
         "en": "Campbeltown",
         "py": "kbed",
         "tag": "Y3D"
     },
     "PBSD506": {
-        "zh": "勇敢",
+        "zh": "\u52C7\u6562",
         "en": "Gallant",
         "py": "yg",
         "tag": "Y6D"
     },
     "PBSD510": {
-        "zh": "德鲁伊",
+        "zh": "\u5FB7\u9C81\u4F0A",
         "en": "Druid",
         "py": "dly",
         "tag": "Y10D"
     },
     "PBSD517": {
-        "zh": "哥萨克人",
+        "zh": "\u54E5\u8428\u514B\u4EBA",
         "en": "Cossack",
         "py": "gskr",
         "tag": "Y8D"
     },
     "PBSD598": {
-        "zh": "哥萨克人B",
+        "zh": "\u54E5\u8428\u514B\u4EBAB",
         "en": "Cossack B",
         "py": "gskrB",
         "tag": "Y8D"
     },
     "PBSD605": {
-        "zh": "安东尼",
+        "zh": "\u5B89\u4E1C\u5C3C",
         "en": "Anthony",
         "py": "adn",
         "tag": "Y5D"
     },
     "PBSS106": {
-        "zh": "温蒂妮",
+        "zh": "\u6E29\u8482\u59AE",
         "en": "Undine",
         "py": "wdn",
         "tag": "Y6S"
     },
     "PBSS108": {
-        "zh": "强健",
+        "zh": "\u5F3A\u5065",
         "en": "Sturdy",
         "py": "qj",
         "tag": "Y8S"
     },
     "PBSS110": {
-        "zh": "长尾鲨",
+        "zh": "\u957F\u5C3E\u9CA8",
         "en": "Thrasher",
         "py": "cws",
         "tag": "Y10S"
     },
     "PBSS508": {
-        "zh": "联盟",
+        "zh": "\u8054\u76DF",
         "en": "Alliance",
         "py": "lm",
         "tag": "Y8S"
     },
     "PFSA506": {
-        "zh": "贝阿恩",
-        "en": "Béarn",
+        "zh": "\u8D1D\u963F\u6069",
+        "en": "B\u00E9arn",
         "py": "bae",
         "tag": "F6A"
     },
     "PFSB103": {
-        "zh": "杜伦尼",
+        "zh": "\u675C\u4F26\u5C3C",
         "en": "Turenne",
         "py": "dln",
         "tag": "F3B"
     },
     "PFSB104": {
-        "zh": "孤拔",
+        "zh": "\u5B64\u62D4",
         "en": "Courbet",
         "py": "gb",
         "tag": "F4B"
     },
     "PFSB105": {
-        "zh": "布列塔尼",
+        "zh": "\u5E03\u5217\u5854\u5C3C",
         "en": "Bretagne",
         "py": "bltn",
         "tag": "F5B"
     },
     "PFSB106": {
-        "zh": "诺曼底",
+        "zh": "\u8BFA\u66FC\u5E95",
         "en": "Normandie",
         "py": "nmd",
         "tag": "F6B"
     },
     "PFSB107": {
-        "zh": "里昂",
+        "zh": "\u91CC\u6602",
         "en": "Lyon",
         "py": "la",
         "tag": "F7B"
     },
     "PFSB108": {
-        "zh": "黎塞留",
+        "zh": "\u9ECE\u585E\u7559",
         "en": "Richelieu",
         "py": "lsl",
         "tag": "F8B"
     },
     "PFSB109": {
-        "zh": "阿尔萨斯",
+        "zh": "\u963F\u5C14\u8428\u65AF",
         "en": "Alsace",
         "py": "aess",
         "tag": "F9B"
     },
     "PFSB110": {
-        "zh": "共和国",
-        "en": "République",
+        "zh": "\u5171\u548C\u56FD",
+        "en": "R\u00E9publique",
         "py": "ghg",
         "tag": "F10B"
     },
     "PFSB111": {
-        "zh": "祖国",
+        "zh": "\u7956\u56FD",
         "en": "Patrie",
         "py": "zg",
         "tag": "F11B"
     },
     "PFSB506": {
-        "zh": "敦刻尔克",
+        "zh": "\u6566\u523B\u5C14\u514B",
         "en": "Dunkerque",
         "py": "dkek",
         "tag": "F6B"
     },
     "PFSB507": {
-        "zh": "斯特拉斯堡",
+        "zh": "\u65AF\u7279\u62C9\u65AF\u5821",
         "en": "Strasbourg",
         "py": "stlsb",
         "tag": "F7B"
     },
     "PFSB508": {
-        "zh": "加斯科涅",
+        "zh": "\u52A0\u65AF\u79D1\u6D85",
         "en": "Gascogne",
         "py": "jskn",
         "tag": "F8B"
     },
     "PFSB510": {
-        "zh": "勃艮第",
+        "zh": "\u52C3\u826E\u7B2C",
         "en": "Bourgogne",
         "py": "bgd",
         "tag": "F10B"
     },
     "PFSB518": {
-        "zh": "让·巴尔",
+        "zh": "\u8BA9\u00B7\u5DF4\u5C14",
         "en": "Jean Bart",
         "py": "rbe",
         "tag": "F9B"
     },
     "PFSB528": {
-        "zh": "香槟",
+        "zh": "\u9999\u69DF",
         "en": "Champagne",
         "py": "xb",
         "tag": "F8B"
     },
     "PFSB538": {
-        "zh": "弗兰德尔",
+        "zh": "\u5F17\u5170\u5FB7\u5C14",
         "en": "Flandre",
         "py": "flde",
         "tag": "F8B"
     },
     "PFSB596": {
-        "zh": "敦刻尔克B",
+        "zh": "\u6566\u523B\u5C14\u514BB",
         "en": "Dunkerque B",
         "py": "dkekB",
         "tag": "F6B"
     },
     "PFSB599": {
-        "zh": "让·巴尔B",
+        "zh": "\u8BA9\u00B7\u5DF4\u5C14B",
         "en": "Jean Bart B",
         "py": "rbeB",
         "tag": "F9B"
     },
     "PFSB898": {
-        "zh": "[黎塞留]",
+        "zh": "[\u9ECE\u585E\u7559]",
         "en": "[Richelieu]",
         "py": "lsl",
         "tag": "F8B"
     },
     "PFSC101": {
-        "zh": "布甘维尔",
+        "zh": "\u5E03\u7518\u7EF4\u5C14",
         "en": "Bougainville",
         "py": "bgwe",
         "tag": "F1C"
     },
     "PFSC102": {
-        "zh": "尤里安-格拉维",
+        "zh": "\u5C24\u91CC\u5B89-\u683C\u62C9\u7EF4",
         "en": "Jurien",
         "py": "ylaglw",
         "tag": "F2C"
     },
     "PFSC103": {
-        "zh": "弗利昂",
+        "zh": "\u5F17\u5229\u6602",
         "en": "Friant",
         "py": "fla",
         "tag": "F3C"
     },
     "PFSC104": {
-        "zh": "迪盖-特鲁安",
+        "zh": "\u8FEA\u76D6-\u7279\u9C81\u5B89",
         "en": "Duguay-Trouin",
         "py": "dgtla",
         "tag": "F4C"
     },
     "PFSC105": {
-        "zh": "白劳易",
-        "en": "Émile Bertin",
+        "zh": "\u767D\u52B3\u6613",
+        "en": "\u00C9mile Bertin",
         "py": "bly",
         "tag": "F5C"
     },
     "PFSC106": {
-        "zh": "拉加利索尼埃",
-        "en": "La Galissonnière",
+        "zh": "\u62C9\u52A0\u5229\u7D22\u5C3C\u57C3",
+        "en": "La Galissonni\u00E8re",
         "py": "ljlsna",
         "tag": "F6C"
     },
     "PFSC107": {
-        "zh": "阿尔及利亚",
-        "en": "Algérie",
+        "zh": "\u963F\u5C14\u53CA\u5229\u4E9A",
+        "en": "Alg\u00E9rie",
         "py": "aejly",
         "tag": "F7C"
     },
     "PFSC108": {
-        "zh": "查理-马特",
+        "zh": "\u67E5\u7406-\u9A6C\u7279",
         "en": "Charles Martel",
         "py": "clmt",
         "tag": "F8C"
     },
     "PFSC109": {
-        "zh": "路易九世",
+        "zh": "\u8DEF\u6613\u4E5D\u4E16",
         "en": "Saint-Louis",
         "py": "lyjs",
         "tag": "F9C"
     },
     "PFSC110": {
-        "zh": "亨利四世",
+        "zh": "\u4EA8\u5229\u56DB\u4E16",
         "en": "Henri IV",
         "py": "hlss",
         "tag": "F10C"
     },
     "PFSC111": {
-        "zh": "孔代",
-        "en": "Condé",
+        "zh": "\u5B54\u4EE3",
+        "en": "Cond\u00E9",
         "py": "kd",
         "tag": "F11C"
     },
     "PFSC208": {
-        "zh": "瑟堡",
+        "zh": "\u745F\u5821",
         "en": "Cherbourg",
         "py": "sb",
         "tag": "F8C"
     },
     "PFSC209": {
-        "zh": "布雷斯特",
+        "zh": "\u5E03\u96F7\u65AF\u7279",
         "en": "Brest",
         "py": "blst",
         "tag": "F9C"
     },
     "PFSC210": {
-        "zh": "马赛",
+        "zh": "\u9A6C\u8D5B",
         "en": "Marseille",
         "py": "ms",
         "tag": "F10C"
     },
     "PFSC506": {
-        "zh": "格拉斯",
+        "zh": "\u683C\u62C9\u65AF",
         "en": "De Grasse",
         "py": "gls",
         "tag": "F6C"
     },
     "PFSC507": {
-        "zh": "土伦",
+        "zh": "\u571F\u4F26",
         "en": "Toulon",
         "py": "tl",
         "tag": "F7C"
     },
     "PFSC508": {
-        "zh": "贝亚德",
+        "zh": "\u8D1D\u4E9A\u5FB7",
         "en": "Bayard",
         "py": "byd",
         "tag": "F8C"
     },
     "PFSC509": {
-        "zh": "卡诺",
+        "zh": "\u5361\u8BFA",
         "en": "Carnot",
         "py": "kn",
         "tag": "F9C"
     },
     "PFSC510": {
-        "zh": "科尔伯特",
+        "zh": "\u79D1\u5C14\u4F2F\u7279",
         "en": "Colbert",
         "py": "kebt",
         "tag": "F10C"
     },
     "PFSC516": {
-        "zh": "杜布雷",
+        "zh": "\u675C\u5E03\u96F7",
         "en": "Dupleix",
         "py": "dbl",
         "tag": "F6C"
     },
     "PFSC518": {
-        "zh": "让·巴尔",
+        "zh": "\u8BA9\u00B7\u5DF4\u5C14",
         "en": "Jean Bart",
         "py": "rbe"
     },
     "PFSC810": {
-        "zh": "布伦努斯",
+        "zh": "\u5E03\u4F26\u52AA\u65AF",
         "en": "Brennus",
         "py": "blns",
         "tag": "F10C"
     },
     "PFSC896": {
-        "zh": "[拉加利索尼埃]",
-        "en": "[La Galissonnière]",
+        "zh": "[\u62C9\u52A0\u5229\u7D22\u5C3C\u57C3]",
+        "en": "[La Galissonni\u00E8re]",
         "py": "ljlsna",
         "tag": "F6C"
     },
     "PFSD102": {
-        "zh": "加博尔德海军少尉",
+        "zh": "\u52A0\u535A\u5C14\u5FB7\u6D77\u519B\u5C11\u5C09",
         "en": "En. Gabolde",
         "py": "jbedhjsw",
         "tag": "F2D"
     },
     "PFSD103": {
-        "zh": "燧发枪兵",
+        "zh": "\u71E7\u53D1\u67AA\u5175",
         "en": "Fusilier",
         "py": "sfqb",
         "tag": "F3D"
     },
     "PFSD104": {
-        "zh": "狂风",
+        "zh": "\u72C2\u98CE",
         "en": "Bourrasque",
         "py": "kf",
         "tag": "F4D"
     },
     "PFSD105": {
-        "zh": "美洲豹",
+        "zh": "\u7F8E\u6D32\u8C79",
         "en": "Jaguar",
         "py": "mzb",
         "tag": "F5D"
     },
     "PFSD106": {
-        "zh": "猎豹",
-        "en": "Guépard",
+        "zh": "\u730E\u8C79",
+        "en": "Gu\u00E9pard",
         "py": "lb",
         "tag": "F6D"
     },
     "PFSD107": {
-        "zh": "沃克兰",
+        "zh": "\u6C83\u514B\u5170",
         "en": "Vauquelin",
         "py": "wkl",
         "tag": "F7D"
     },
     "PFSD108": {
-        "zh": "空想",
+        "zh": "\u7A7A\u60F3",
         "en": "Le Fantasque",
         "py": "kx",
         "tag": "F8D"
     },
     "PFSD109": {
-        "zh": "莫加多尔",
+        "zh": "\u83AB\u52A0\u591A\u5C14",
         "en": "Mogador",
         "py": "mjde",
         "tag": "F9D"
     },
     "PFSD110": {
-        "zh": "克莱贝尔",
-        "en": "Kléber",
+        "zh": "\u514B\u83B1\u8D1D\u5C14",
+        "en": "Kl\u00E9ber",
         "py": "klbe",
         "tag": "F10D"
     },
     "PFSD210": {
-        "zh": "玛索",
+        "zh": "\u739B\u7D22",
         "en": "Marceau",
         "py": "ms",
         "tag": "F10D"
     },
     "PFSD504": {
-        "zh": "热风",
+        "zh": "\u70ED\u98CE",
         "en": "Siroco",
         "py": "rf",
         "tag": "F5D"
     },
     "PFSD506": {
-        "zh": "鹰",
+        "zh": "\u9E70",
         "en": "Aigle",
         "py": "y",
         "tag": "F6D"
     },
     "PFSD508": {
-        "zh": "可怖",
+        "zh": "\u53EF\u6016",
         "en": "Le Terrible",
         "py": "kb",
         "tag": "F8D"
     },
     "PFSD605": {
-        "zh": "旋风",
+        "zh": "\u65CB\u98CE",
         "en": "Cyclone",
         "py": "xf",
         "tag": "F5D"
     },
     "PFSD808": {
-        "zh": "无礼",
-        "en": "L'Effronté",
+        "zh": "\u65E0\u793C",
+        "en": "L'Effront\u00E9",
         "py": "wl",
         "tag": "F8D"
     },
     "PGSA104": {
-        "zh": "莱茵河",
+        "zh": "\u83B1\u8335\u6CB3",
         "en": "Rhein",
         "py": "lyh",
         "tag": "D4A"
     },
     "PGSA106": {
-        "zh": "威悉河",
+        "zh": "\u5A01\u6089\u6CB3",
         "en": "Weser",
         "py": "wxh",
         "tag": "D6A"
     },
     "PGSA108": {
-        "zh": "奥古斯特·冯·帕塞瓦尔",
+        "zh": "\u5965\u53E4\u65AF\u7279\u00B7\u51AF\u00B7\u5E15\u585E\u74E6\u5C14",
         "en": "A. Parseval",
         "py": "agstfpswe",
         "tag": "D8A"
     },
     "PGSA110": {
-        "zh": "M.里希特霍芬",
+        "zh": "M.\u91CC\u5E0C\u7279\u970D\u82AC",
         "en": "M. Richthofen",
         "py": "Mlxthf",
         "tag": "D10A"
     },
     "PGSA506": {
-        "zh": "埃里希·勒文哈尔特",
+        "zh": "\u57C3\u91CC\u5E0C\u00B7\u52D2\u6587\u54C8\u5C14\u7279",
         "en": "E. Loewenhardt",
         "py": "alxlwhet",
         "tag": "D6A"
     },
     "PGSA508": {
-        "zh": "齐柏林伯爵（旧）",
+        "zh": "\u9F50\u67CF\u6797\u4F2F\u7235\uFF08\u65E7\uFF09",
         "en": "Graf Zeppelin (old)",
         "py": "qblbjj",
         "tag": "D8A"
     },
     "PGSA510": {
-        "zh": "沃纳·沃斯",
+        "zh": "\u6C83\u7EB3\u00B7\u6C83\u65AF",
         "en": "W. Voss",
         "py": "wnws",
         "tag": "D10A"
     },
     "PGSA518": {
-        "zh": "齐柏林伯爵",
+        "zh": "\u9F50\u67CF\u6797\u4F2F\u7235",
         "en": "Graf Zeppelin",
         "py": "qblbj",
         "tag": "D8A"
     },
     "PGSA598": {
-        "zh": "齐柏林伯爵B",
+        "zh": "\u9F50\u67CF\u6797\u4F2F\u7235B",
         "en": "Graf Zeppelin B",
         "py": "qblbjB",
         "tag": "D8A"
     },
     "PGSA610": {
-        "zh": "马克斯·殷麦曼",
+        "zh": "\u9A6C\u514B\u65AF\u00B7\u6BB7\u9EA6\u66FC",
         "en": "M. Immelmann",
         "py": "mksymm",
         "tag": "D10A"
     },
     "PGSA990": {
-        "zh": "奥托·李林塔尔",
+        "zh": "\u5965\u6258\u00B7\u674E\u6797\u5854\u5C14",
         "en": "O. Lilienthal",
         "py": "atllte",
         "tag": "D10A"
     },
     "PGSB001": {
-        "zh": "俾斯麦",
+        "zh": "\u4FFE\u65AF\u9EA6",
         "en": "Bismarck",
         "py": "bsm"
     },
     "PGSB002": {
-        "zh": "提尔皮茨",
+        "zh": "\u63D0\u5C14\u76AE\u8328",
         "en": "Tirpitz",
         "py": "tepc",
         "tag": "D8B"
     },
     "PGSB103": {
-        "zh": "拿骚",
+        "zh": "\u62FF\u9A9A",
         "en": "Nassau",
         "py": "ns",
         "tag": "D3B"
     },
     "PGSB104": {
-        "zh": "凯撒",
+        "zh": "\u51EF\u6492",
         "en": "Kaiser",
         "py": "ks",
         "tag": "D4B"
     },
     "PGSB105": {
-        "zh": "国王",
-        "en": "König",
+        "zh": "\u56FD\u738B",
+        "en": "K\u00F6nig",
         "py": "gw",
         "tag": "D5B"
     },
     "PGSB106": {
-        "zh": "巴伐利亚",
+        "zh": "\u5DF4\u4F10\u5229\u4E9A",
         "en": "Bayern",
         "py": "bfly",
         "tag": "D6B"
     },
     "PGSB107": {
-        "zh": "格奈森瑙",
+        "zh": "\u683C\u5948\u68EE\u7459",
         "en": "Gneisenau",
         "py": "gnsn",
         "tag": "D7B"
     },
     "PGSB108": {
-        "zh": "俾斯麦",
+        "zh": "\u4FFE\u65AF\u9EA6",
         "en": "Bismarck",
         "py": "bsm",
         "tag": "D8B"
     },
     "PGSB109": {
-        "zh": "腓特烈大帝",
+        "zh": "\u8153\u7279\u70C8\u5927\u5E1D",
         "en": "F. der Grosse",
         "py": "ftldd",
         "tag": "D9B"
     },
     "PGSB110": {
-        "zh": "大选帝侯",
-        "en": "G. Kurfürst",
+        "zh": "\u5927\u9009\u5E1D\u4FAF",
+        "en": "G. Kurf\u00FCrst",
         "py": "dxdh",
         "tag": "D10B"
     },
     "PGSB111": {
-        "zh": "汉诺威",
+        "zh": "\u6C49\u8BFA\u5A01",
         "en": "Hannover",
         "py": "hnw",
         "tag": "D11B"
     },
     "PGSB203": {
-        "zh": "冯·德·坦恩",
+        "zh": "\u51AF\u00B7\u5FB7\u00B7\u5766\u6069",
         "en": "Von der Tann",
         "py": "fdte",
         "tag": "D3B"
     },
     "PGSB204": {
-        "zh": "毛奇",
+        "zh": "\u6BDB\u5947",
         "en": "Moltke",
         "py": "mq",
         "tag": "D4B"
     },
     "PGSB205": {
-        "zh": "德弗林格尔",
+        "zh": "\u5FB7\u5F17\u6797\u683C\u5C14",
         "en": "Derfflinger",
         "py": "dflge",
         "tag": "D5B"
     },
     "PGSB206": {
-        "zh": "马肯森",
+        "zh": "\u9A6C\u80AF\u68EE",
         "en": "Mackensen",
         "py": "mks",
         "tag": "D6B"
     },
     "PGSB207": {
-        "zh": "海因里希亲王",
+        "zh": "\u6D77\u56E0\u91CC\u5E0C\u4EB2\u738B",
         "en": "P. Heinrich",
         "py": "hylxqw",
         "tag": "D7B"
     },
     "PGSB208": {
-        "zh": "齐滕",
+        "zh": "\u9F50\u6ED5",
         "en": "Zieten",
         "py": "qt",
         "tag": "D8B"
     },
     "PGSB209": {
-        "zh": "鲁普雷希特亲王",
+        "zh": "\u9C81\u666E\u96F7\u5E0C\u7279\u4EB2\u738B",
         "en": "P. Rupprecht",
         "py": "lplxtqw",
         "tag": "D9B"
     },
     "PGSB210": {
-        "zh": "施里芬",
+        "zh": "\u65BD\u91CC\u82AC",
         "en": "Schlieffen",
         "py": "slf",
         "tag": "D10B"
     },
     "PGSB310": {
-        "zh": "普鲁士",
+        "zh": "\u666E\u9C81\u58EB",
         "en": "Preussen",
         "py": "pls",
         "tag": "D10B"
     },
     "PGSB503": {
-        "zh": "阿尔伯特国王",
+        "zh": "\u963F\u5C14\u4F2F\u7279\u56FD\u738B",
         "en": "K. Albert",
         "py": "aebtgw",
         "tag": "D3B"
     },
     "PGSB506": {
-        "zh": "艾特尔·弗里德里希亲王",
+        "zh": "\u827E\u7279\u5C14\u00B7\u5F17\u91CC\u5FB7\u91CC\u5E0C\u4EB2\u738B",
         "en": "P. E. Friedrich",
         "py": "atefldlxqw",
         "tag": "D6B"
     },
     "PGSB507": {
-        "zh": "沙恩霍斯特",
+        "zh": "\u6C99\u6069\u970D\u65AF\u7279",
         "en": "Scharnhorst",
         "py": "sehst",
         "tag": "D7B"
     },
     "PGSB508": {
-        "zh": "奥丁",
+        "zh": "\u5965\u4E01",
         "en": "Odin",
         "py": "ad",
         "tag": "D8B"
     },
     "PGSB509": {
-        "zh": "波美拉尼亚",
+        "zh": "\u6CE2\u7F8E\u62C9\u5C3C\u4E9A",
         "en": "Pommern",
         "py": "bmlny",
         "tag": "D9B"
     },
     "PGSB518": {
-        "zh": "勃兰登堡",
+        "zh": "\u52C3\u5170\u767B\u5821",
         "en": "Brandenburg",
         "py": "bldb",
         "tag": "D8B"
     },
     "PGSB528": {
-        "zh": "安哈尔特",
+        "zh": "\u5B89\u54C8\u5C14\u7279",
         "en": "Anhalt",
         "py": "ahet",
         "tag": "D8B"
     },
     "PGSB597": {
-        "zh": "沙恩霍斯特B",
+        "zh": "\u6C99\u6069\u970D\u65AF\u7279B",
         "en": "Scharnhorst B",
         "py": "sehstB",
         "tag": "D7B"
     },
     "PGSB598": {
-        "zh": "提尔皮茨B",
+        "zh": "\u63D0\u5C14\u76AE\u8328B",
         "en": "Tirpitz B",
         "py": "tepcB",
         "tag": "D8B"
     },
     "PGSB599": {
-        "zh": "波美拉尼亚B",
+        "zh": "\u6CE2\u7F8E\u62C9\u5C3C\u4E9AB",
         "en": "Pommern B",
         "py": "bmlnyB",
         "tag": "D9B"
     },
     "PGSB610": {
-        "zh": "梅克伦堡",
+        "zh": "\u6885\u514B\u4F26\u5821",
         "en": "Mecklenburg",
         "py": "mklb",
         "tag": "D10B"
     },
     "PGSB910": {
-        "zh": "[大选帝侯]",
-        "en": "[G. Kurfürst]",
+        "zh": "[\u5927\u9009\u5E1D\u4FAF]",
+        "en": "[G. Kurf\u00FCrst]",
         "py": "dxdh",
         "tag": "D10B"
     },
     "PGSB999": {
-        "zh": "汉诺威（旧）",
+        "zh": "\u6C49\u8BFA\u5A01\uFF08\u65E7\uFF09",
         "en": "Hannover (old)",
         "py": "hnwj",
         "tag": "D11B"
     },
     "PGSC001": {
-        "zh": "鼬",
+        "zh": "\u9F2C",
         "en": "Hermelin",
         "py": "y",
         "tag": "D1C"
     },
     "PGSC002": {
-        "zh": "德累斯顿",
+        "zh": "\u5FB7\u7D2F\u65AF\u987F",
         "en": "Dresden",
         "py": "dlsd",
         "tag": "D2C"
     },
     "PGSC103": {
-        "zh": "科尔贝格",
+        "zh": "\u79D1\u5C14\u8D1D\u683C",
         "en": "Kolberg",
         "py": "kebg",
         "tag": "D3C"
     },
     "PGSC104": {
-        "zh": "卡尔斯鲁厄",
+        "zh": "\u5361\u5C14\u65AF\u9C81\u5384",
         "en": "Karlsruhe",
         "py": "kesle",
         "tag": "D4C"
     },
     "PGSC105": {
-        "zh": "柯尼斯堡",
-        "en": "Königsberg",
+        "zh": "\u67EF\u5C3C\u65AF\u5821",
+        "en": "K\u00F6nigsberg",
         "py": "knsb",
         "tag": "D5C"
     },
     "PGSC106": {
-        "zh": "纽伦堡",
-        "en": "Nürnberg",
+        "zh": "\u7EBD\u4F26\u5821",
+        "en": "N\u00FCrnberg",
         "py": "nlb",
         "tag": "D6C"
     },
     "PGSC107": {
-        "zh": "约克",
+        "zh": "\u7EA6\u514B",
         "en": "Yorck",
         "py": "yk",
         "tag": "D7C"
     },
     "PGSC108": {
-        "zh": "希佩尔上将",
+        "zh": "\u5E0C\u4F69\u5C14\u4E0A\u5C06",
         "en": "Hipper",
         "py": "xpesj",
         "tag": "D8C"
     },
     "PGSC109": {
-        "zh": "罗恩",
+        "zh": "\u7F57\u6069",
         "en": "Roon",
         "py": "le",
         "tag": "D9C"
     },
     "PGSC110": {
-        "zh": "兴登堡",
+        "zh": "\u5174\u767B\u5821",
         "en": "Hindenburg",
         "py": "xdb",
         "tag": "D10C"
     },
     "PGSC111": {
-        "zh": "克劳塞维茨",
+        "zh": "\u514B\u52B3\u585E\u7EF4\u8328",
         "en": "Clausewitz",
         "py": "klswc",
         "tag": "D11C"
     },
     "PGSC502": {
-        "zh": "埃姆登",
+        "zh": "\u57C3\u59C6\u767B",
         "en": "Emden",
         "py": "amd",
         "tag": "D2C"
     },
     "PGSC506": {
-        "zh": "海军上将施佩伯爵",
+        "zh": "\u6D77\u519B\u4E0A\u5C06\u65BD\u4F69\u4F2F\u7235",
         "en": "Graf Spee",
         "py": "hjsjspbj",
         "tag": "D6C"
     },
     "PGSC507": {
-        "zh": "慕尼黑",
-        "en": "München",
+        "zh": "\u6155\u5C3C\u9ED1",
+        "en": "M\u00FCnchen",
         "py": "mnh",
         "tag": "D7C"
     },
     "PGSC508": {
-        "zh": "欧根亲王",
+        "zh": "\u6B27\u6839\u4EB2\u738B",
         "en": "Prinz Eugen",
         "py": "ogqw",
         "tag": "D8C"
     },
     "PGSC509": {
-        "zh": "齐格菲",
+        "zh": "\u9F50\u683C\u83F2",
         "en": "Siegfried",
         "py": "qgf",
         "tag": "D9C"
     },
     "PGSC516": {
-        "zh": "莱比锡",
+        "zh": "\u83B1\u6BD4\u9521",
         "en": "Leipzig",
         "py": "lbx",
         "tag": "D6C"
     },
     "PGSC517": {
-        "zh": "魏玛",
+        "zh": "\u9B4F\u739B",
         "en": "Weimar",
         "py": "wm",
         "tag": "D7C"
     },
     "PGSC518": {
-        "zh": "美因茨",
+        "zh": "\u7F8E\u56E0\u8328",
         "en": "Mainz",
         "py": "myc",
         "tag": "D8C"
     },
     "PGSC519": {
-        "zh": "埃吉尔",
-        "en": "Ägir",
+        "zh": "\u57C3\u5409\u5C14",
+        "en": "\u00C4gir",
         "py": "aje",
         "tag": "D9C"
     },
     "PGSC529": {
-        "zh": "施罗德",
-        "en": "Schröder",
+        "zh": "\u65BD\u7F57\u5FB7",
+        "en": "Schr\u00F6der",
         "py": "sld",
         "tag": "D9C"
     },
     "PGSC598": {
-        "zh": "美因茨B",
+        "zh": "\u7F8E\u56E0\u8328B",
         "en": "Mainz B",
         "py": "mycB",
         "tag": "D8C"
     },
     "PGSC706": {
-        "zh": "HSF海军上将施佩伯爵",
+        "zh": "HSF\u6D77\u519B\u4E0A\u5C06\u65BD\u4F69\u4F2F\u7235",
         "en": "HSF Graf Spee",
         "py": "HSFhjsjspbj",
         "tag": "D6C"
@@ -2211,7 +2211,7 @@
         "tag": "D9C"
     },
     "PGSC910": {
-        "zh": "[兴登堡]",
+        "zh": "[\u5174\u767B\u5821]",
         "en": "[Hindenburg]",
         "py": "xdb",
         "tag": "D10C"
@@ -2241,13 +2241,13 @@
         "tag": "D5D"
     },
     "PGSD106": {
-        "zh": "恩斯特-盖德",
+        "zh": "\u6069\u65AF\u7279-\u76D6\u5FB7",
         "en": "Gaede",
         "py": "estgd",
         "tag": "D6D"
     },
     "PGSD107": {
-        "zh": "莱伯勒希特-马斯",
+        "zh": "\u83B1\u4F2F\u52D2\u5E0C\u7279-\u9A6C\u65AF",
         "en": "Maass",
         "py": "lblxtms",
         "tag": "D7D"
@@ -2277,19 +2277,19 @@
         "tag": "D7D"
     },
     "PGSD208": {
-        "zh": "G.J.梅克尔",
+        "zh": "G.J.\u6885\u514B\u5C14",
         "en": "G. J. Maerker",
         "py": "GJmke",
         "tag": "D8D"
     },
     "PGSD209": {
-        "zh": "菲利克斯·舒尔茨",
+        "zh": "\u83F2\u5229\u514B\u65AF\u00B7\u8212\u5C14\u8328",
         "en": "F. Schultz",
         "py": "flkssec",
         "tag": "D9D"
     },
     "PGSD210": {
-        "zh": "埃尔宾",
+        "zh": "\u57C3\u5C14\u5BBE",
         "en": "Elbing",
         "py": "aeb",
         "tag": "D10D"
@@ -2307,8 +2307,8 @@
         "tag": "D7D"
     },
     "PGSD516": {
-        "zh": "卡尔·冯·勋伯格",
-        "en": "K. Schönberg",
+        "zh": "\u5361\u5C14\u00B7\u51AF\u00B7\u52CB\u4F2F\u683C",
+        "en": "K. Sch\u00F6nberg",
         "py": "kefxbg",
         "tag": "D6D"
     },
@@ -2337,8 +2337,8 @@
         "tag": "D10D"
     },
     "PGSD990": {
-        "zh": "吕贝克",
-        "en": "Lübeck",
+        "zh": "\u5415\u8D1D\u514B",
+        "en": "L\u00FCbeck",
         "py": "lbk",
         "tag": "D10D"
     },
@@ -2390,337 +2390,337 @@
         "py": "U96"
     },
     "PHSC101": {
-        "zh": "范·金斯伯根",
+        "zh": "\u8303\u00B7\u91D1\u65AF\u4F2F\u6839",
         "en": "Van Kinsbergen",
         "py": "fjsbg",
         "tag": "H1C"
     },
     "PHSC102": {
-        "zh": "海尔德兰",
+        "zh": "\u6D77\u5C14\u5FB7\u5170",
         "en": "Gelderland",
         "py": "hedl",
         "tag": "H2C"
     },
     "PHSC103": {
-        "zh": "爪哇",
+        "zh": "\u722A\u54C7",
         "en": "Java",
         "py": "zw",
         "tag": "H3C"
     },
     "PHSC104": {
-        "zh": "德·鲁伊特",
+        "zh": "\u5FB7\u00B7\u9C81\u4F0A\u7279",
         "en": "De Ruyter",
         "py": "dlyt",
         "tag": "H4C"
     },
     "PHSC105": {
-        "zh": "西里伯斯",
+        "zh": "\u897F\u91CC\u4F2F\u65AF",
         "en": "Celebes",
         "py": "xlbs",
         "tag": "H5C"
     },
     "PHSC106": {
-        "zh": "凯敦",
+        "zh": "\u51EF\u6566",
         "en": "Kijkduin",
         "py": "kd",
         "tag": "H6C"
     },
     "PHSC107": {
-        "zh": "团结",
+        "zh": "\u56E2\u7ED3",
         "en": "Eendracht",
         "py": "tj",
         "tag": "H7C"
     },
     "PHSC108": {
-        "zh": "哈勒姆",
+        "zh": "\u54C8\u52D2\u59C6",
         "en": "Haarlem",
         "py": "hlm",
         "tag": "H8C"
     },
     "PHSC109": {
-        "zh": "约翰·德·维特",
+        "zh": "\u7EA6\u7FF0\u00B7\u5FB7\u00B7\u7EF4\u7279",
         "en": "Johan de Witt",
         "py": "yhdwt",
         "tag": "H9C"
     },
     "PHSC110": {
-        "zh": "金狮",
+        "zh": "\u91D1\u72EE",
         "en": "Gouden Leeuw",
         "py": "js",
         "tag": "H10C"
     },
     "PHSC508": {
-        "zh": "七省",
-        "en": "De 7 Provinciën",
+        "zh": "\u4E03\u7701",
+        "en": "De 7 Provinci\u00EBn",
         "py": "qs",
         "tag": "H8C"
     },
     "PHSC990": {
-        "zh": "弗赖海特",
+        "zh": "\u5F17\u8D56\u6D77\u7279",
         "en": "Vrijheid",
         "py": "flht",
         "tag": "H10C"
     },
     "PHSD509": {
-        "zh": "格罗宁根",
+        "zh": "\u683C\u7F57\u5B81\u6839",
         "en": "Groningen",
         "py": "glng",
         "tag": "H9D"
     },
     "PHSD610": {
-        "zh": "特龙普",
+        "zh": "\u7279\u9F99\u666E",
         "en": "Tromp",
         "py": "tlp",
         "tag": "H10D"
     },
     "PISA508": {
-        "zh": "天鹰",
+        "zh": "\u5929\u9E70",
         "en": "Aquila",
         "py": "ty",
         "tag": "I8A"
     },
     "PISB104": {
-        "zh": "但丁·阿利格伊切里",
+        "zh": "\u4F46\u4E01\u00B7\u963F\u5229\u683C\u4F0A\u5207\u91CC",
         "en": "D. Alighieri",
         "py": "ddalgyql",
         "tag": "I4B"
     },
     "PISB105": {
-        "zh": "加富尔伯爵",
+        "zh": "\u52A0\u5BCC\u5C14\u4F2F\u7235",
         "en": "Cavour",
         "py": "jfebj",
         "tag": "I5B"
     },
     "PISB106": {
-        "zh": "安德烈亚·多里亚",
+        "zh": "\u5B89\u5FB7\u70C8\u4E9A\u00B7\u591A\u91CC\u4E9A",
         "en": "Andrea Doria",
         "py": "adlydly",
         "tag": "I6B"
     },
     "PISB107": {
-        "zh": "弗朗切斯科·卡拉乔洛",
+        "zh": "\u5F17\u6717\u5207\u65AF\u79D1\u00B7\u5361\u62C9\u4E54\u6D1B",
         "en": "F. Caracciolo",
         "py": "flqskklql",
         "tag": "I7B"
     },
     "PISB108": {
-        "zh": "维托里奥·维内托",
+        "zh": "\u7EF4\u6258\u91CC\u5965\u00B7\u7EF4\u5185\u6258",
         "en": "V. Veneto",
         "py": "wtlawnt",
         "tag": "I8B"
     },
     "PISB109": {
-        "zh": "勒班陀",
+        "zh": "\u52D2\u73ED\u9640",
         "en": "Lepanto",
         "py": "lbt",
         "tag": "I9B"
     },
     "PISB110": {
-        "zh": "克里斯托弗·哥伦布",
+        "zh": "\u514B\u91CC\u65AF\u6258\u5F17\u00B7\u54E5\u4F26\u5E03",
         "en": "C. Colombo",
         "py": "klstfglb",
         "tag": "I10B"
     },
     "PISB505": {
-        "zh": "尤里乌斯-恺撒",
+        "zh": "\u5C24\u91CC\u4E4C\u65AF-\u607A\u6492",
         "en": "Giulio Cesare",
         "py": "ylwsks",
         "tag": "I5B"
     },
     "PISB508": {
-        "zh": "罗马",
+        "zh": "\u7F57\u9A6C",
         "en": "Roma",
         "py": "lm",
         "tag": "I8B"
     },
     "PISB509": {
-        "zh": "马可波罗",
+        "zh": "\u9A6C\u53EF\u6CE2\u7F57",
         "en": "Marco Polo",
         "py": "mkbl",
         "tag": "I9B"
     },
     "PISB519": {
-        "zh": "朱塞佩·威尔第",
+        "zh": "\u6731\u585E\u4F69\u00B7\u5A01\u5C14\u7B2C",
         "en": "Giuseppe Verdi",
         "py": "zspwed",
         "tag": "I9B"
     },
     "PISB708": {
-        "zh": "AL利托里奥",
+        "zh": "AL\u5229\u6258\u91CC\u5965",
         "en": "AL Littorio",
         "py": "ALltla",
         "tag": "I8B"
     },
     "PISB805": {
-        "zh": "尤尼乌斯·布鲁图斯",
+        "zh": "\u5C24\u5C3C\u4E4C\u65AF\u00B7\u5E03\u9C81\u56FE\u65AF",
         "en": "Giunio Bruto",
         "py": "ynwsblts",
         "tag": "I6B"
     },
     "PISB990": {
-        "zh": "亚美瑞格·韦斯普奇",
+        "zh": "\u4E9A\u7F8E\u745E\u683C\u00B7\u97E6\u65AF\u666E\u5947",
         "en": "A. Vespucci",
         "py": "ymrgwspq",
         "tag": "I10B"
     },
     "PISC101": {
-        "zh": "厄立特里亚",
+        "zh": "\u5384\u7ACB\u7279\u91CC\u4E9A",
         "en": "Eritrea",
         "py": "eltly",
         "tag": "I1C"
     },
     "PISC102": {
-        "zh": "尼诺·比西奥",
+        "zh": "\u5C3C\u8BFA\u00B7\u6BD4\u897F\u5965",
         "en": "Nino Bixio",
         "py": "nnbxa",
         "tag": "I2C"
     },
     "PISC103": {
-        "zh": "塔兰托",
+        "zh": "\u5854\u5170\u6258",
         "en": "Taranto",
         "py": "tlt",
         "tag": "I3C"
     },
     "PISC104": {
-        "zh": "阿尔贝托·迪·朱桑诺",
+        "zh": "\u963F\u5C14\u8D1D\u6258\u00B7\u8FEA\u00B7\u6731\u6851\u8BFA",
         "en": "Giussano",
         "py": "aebtdzsn",
         "tag": "I4C"
     },
     "PISC105": {
-        "zh": "莱蒙多•蒙德库克利",
+        "zh": "\u83B1\u8499\u591A\u2022\u8499\u5FB7\u5E93\u514B\u5229",
         "en": "Montecuccoli",
         "py": "lmdmdkkl",
         "tag": "I5C"
     },
     "PISC106": {
-        "zh": "特伦托",
+        "zh": "\u7279\u4F26\u6258",
         "en": "Trento",
         "py": "tlt",
         "tag": "I6C"
     },
     "PISC107": {
-        "zh": "扎拉",
+        "zh": "\u624E\u62C9",
         "en": "Zara",
         "py": "zl",
         "tag": "I7C"
     },
     "PISC108": {
-        "zh": "阿马尔菲",
+        "zh": "\u963F\u9A6C\u5C14\u83F2",
         "en": "Amalfi",
         "py": "amef",
         "tag": "I8C"
     },
     "PISC109": {
-        "zh": "布林迪西",
+        "zh": "\u5E03\u6797\u8FEA\u897F",
         "en": "Brindisi",
         "py": "bldx",
         "tag": "I9C"
     },
     "PISC110": {
-        "zh": "威尼斯",
+        "zh": "\u5A01\u5C3C\u65AF",
         "en": "Venezia",
         "py": "wns",
         "tag": "I10C"
     },
     "PISC505": {
-        "zh": "热那亚",
+        "zh": "\u70ED\u90A3\u4E9A",
         "en": "Genova",
         "py": "rny",
         "tag": "I5C"
     },
     "PISC506": {
-        "zh": "奥斯塔公爵",
+        "zh": "\u5965\u65AF\u5854\u516C\u7235",
         "en": "Duca d'Aosta",
         "py": "astgj",
         "tag": "I6C"
     },
     "PISC507": {
-        "zh": "阿布鲁齐公爵",
+        "zh": "\u963F\u5E03\u9C81\u9F50\u516C\u7235",
         "en": "Abruzzi",
         "py": "ablqgj",
         "tag": "I7C"
     },
     "PISC510": {
-        "zh": "那不勒斯",
+        "zh": "\u90A3\u4E0D\u52D2\u65AF",
         "en": "Napoli",
         "py": "nbls",
         "tag": "I10C"
     },
     "PISC590": {
-        "zh": "那不勒斯B",
+        "zh": "\u90A3\u4E0D\u52D2\u65AFB",
         "en": "Napoli B",
         "py": "nblsB",
         "tag": "I10C"
     },
     "PISC607": {
-        "zh": "戈里齐亚",
+        "zh": "\u6208\u91CC\u9F50\u4E9A",
         "en": "Gorizia",
         "py": "glqy",
         "tag": "I7C"
     },
     "PISC990": {
-        "zh": "拉韦纳",
+        "zh": "\u62C9\u97E6\u7EB3",
         "en": "Ravenna",
         "py": "lwn",
         "tag": "I10C"
     },
     "PISD102": {
-        "zh": "库尔塔托内",
+        "zh": "\u5E93\u5C14\u5854\u6258\u5185",
         "en": "Curtatone",
         "py": "kettn",
         "tag": "I2D"
     },
     "PISD103": {
-        "zh": "纳扎里奥·萨乌罗",
+        "zh": "\u7EB3\u624E\u91CC\u5965\u00B7\u8428\u4E4C\u7F57",
         "en": "N. Sauro",
         "py": "nzlaswl",
         "tag": "I3D"
     },
     "PISD104": {
-        "zh": "图尔比内",
+        "zh": "\u56FE\u5C14\u6BD4\u5185",
         "en": "Turbine",
         "py": "tebn",
         "tag": "I4D"
     },
     "PISD105": {
-        "zh": "西北风",
+        "zh": "\u897F\u5317\u98CE",
         "en": "Maestrale",
         "py": "xbf",
         "tag": "I5D"
     },
     "PISD106": {
-        "zh": "阿维埃尔",
+        "zh": "\u963F\u7EF4\u57C3\u5C14",
         "en": "Aviere",
         "py": "awae",
         "tag": "I6D"
     },
     "PISD107": {
-        "zh": "卢卡·塔里戈",
+        "zh": "\u5362\u5361\u00B7\u5854\u91CC\u6208",
         "en": "L. Tarigo",
         "py": "lktlg",
         "tag": "I7D"
     },
     "PISD108": {
-        "zh": "维托里奥·库尼贝尔蒂",
+        "zh": "\u7EF4\u6258\u91CC\u5965\u00B7\u5E93\u5C3C\u8D1D\u5C14\u8482",
         "en": "V. Cuniberti",
         "py": "wtlaknbed",
         "tag": "I8D"
     },
     "PISD109": {
-        "zh": "亚得里亚",
+        "zh": "\u4E9A\u5F97\u91CC\u4E9A",
         "en": "Adriatico",
         "py": "ydly",
         "tag": "I9D"
     },
     "PISD110": {
-        "zh": "阿蒂略·莱戈洛",
+        "zh": "\u963F\u8482\u7565\u00B7\u83B1\u6208\u6D1B",
         "en": "A. Regolo",
         "py": "adllgl",
         "tag": "I10D"
     },
     "PISD506": {
-        "zh": "狮子",
+        "zh": "\u72EE\u5B50",
         "en": "Leone",
         "py": "sz",
         "tag": "I6D"
@@ -2732,229 +2732,229 @@
         "tag": "I7D"
     },
     "PISD509": {
-        "zh": "保罗·埃米利奥",
+        "zh": "\u4FDD\u7F57\u00B7\u57C3\u7C73\u5229\u5965",
         "en": "Paolo Emilio",
         "py": "blamla",
         "tag": "I9D"
     },
     "PJSA002": {
-        "zh": "凤翔（旧）",
-        "en": "Hōshō (old)",
+        "zh": "\u51E4\u7FD4\uFF08\u65E7\uFF09",
+        "en": "H\u014Dsh\u014D (old)",
         "py": "fxj",
         "tag": "R4A"
     },
     "PJSA006": {
-        "zh": "瑞凤（旧）",
-        "en": "Zuihō (old)",
+        "zh": "\u745E\u51E4\uFF08\u65E7\uFF09",
+        "en": "Zuih\u014D (old)",
         "py": "rfj",
         "tag": "R5A"
     },
     "PJSA009": {
-        "zh": "龙骧（旧）",
-        "en": "Ryūjō (old)",
+        "zh": "\u9F99\u9AA7\uFF08\u65E7\uFF09",
+        "en": "Ry\u016Bj\u014D (old)",
         "py": "lxj",
         "tag": "R6A"
     },
     "PJSA011": {
-        "zh": "飞龙（旧）",
-        "en": "Hiryū (old)",
+        "zh": "\u98DE\u9F99\uFF08\u65E7\uFF09",
+        "en": "Hiry\u016B (old)",
         "py": "flj",
         "tag": "R7A"
     },
     "PJSA012": {
-        "zh": "翔鹤（旧）",
-        "en": "Shōkaku (old)",
+        "zh": "\u7FD4\u9E64\uFF08\u65E7\uFF09",
+        "en": "Sh\u014Dkaku (old)",
         "py": "xhj",
         "tag": "R8A"
     },
     "PJSA015": {
-        "zh": "大凤（旧）",
-        "en": "Taihō (old)",
+        "zh": "\u5927\u51E4\uFF08\u65E7\uFF09",
+        "en": "Taih\u014D (old)",
         "py": "dfj",
         "tag": "R9A"
     },
     "PJSA017": {
-        "zh": "白龙（旧）",
-        "en": "Hakuryū (old)",
+        "zh": "\u767D\u9F99\uFF08\u65E7\uFF09",
+        "en": "Hakury\u016B (old)",
         "py": "blj",
         "tag": "R10A"
     },
     "PJSA104": {
-        "zh": "凤翔",
-        "en": "Hōshō",
+        "zh": "\u51E4\u7FD4",
+        "en": "H\u014Dsh\u014D",
         "py": "fx",
         "tag": "R4A"
     },
     "PJSA106": {
-        "zh": "龙骧",
-        "en": "Ryūjō",
+        "zh": "\u9F99\u9AA7",
+        "en": "Ry\u016Bj\u014D",
         "py": "lx",
         "tag": "R6A"
     },
     "PJSA108": {
-        "zh": "翔鹤",
-        "en": "Shōkaku",
+        "zh": "\u7FD4\u9E64",
+        "en": "Sh\u014Dkaku",
         "py": "xh",
         "tag": "R8A"
     },
     "PJSA110": {
-        "zh": "白龙",
-        "en": "Hakuryū",
+        "zh": "\u767D\u9F99",
+        "en": "Hakury\u016B",
         "py": "bl",
         "tag": "R10A"
     },
     "PJSA111": {
-        "zh": "赤龙",
+        "zh": "\u8D64\u9F99",
         "en": "Sekiryu",
         "py": "cl",
         "tag": "R11A"
     },
     "PJSA507": {
-        "zh": "加贺（旧）",
+        "zh": "\u52A0\u8D3A\uFF08\u65E7\uFF09",
         "en": "Kaga (old)",
         "py": "jhj",
         "tag": "R7A"
     },
     "PJSA518": {
-        "zh": "加贺",
+        "zh": "\u52A0\u8D3A",
         "en": "Kaga",
         "py": "jh",
         "tag": "R8A"
     },
     "PJSA598": {
-        "zh": "加贺B",
+        "zh": "\u52A0\u8D3AB",
         "en": "Kaga B",
         "py": "jhB",
         "tag": "R8A"
     },
     "PJSA917": {
-        "zh": "[白龙]",
-        "en": "[Hakuryū]",
+        "zh": "[\u767D\u9F99]",
+        "en": "[Hakury\u016B]",
         "py": "bl",
         "tag": "R10A"
     },
     "PJSB001": {
-        "zh": "河内",
+        "zh": "\u6CB3\u5185",
         "en": "Kawachi",
         "py": "hn",
         "tag": "R3B"
     },
     "PJSB003": {
-        "zh": "妙义",
-        "en": "Myōgi",
+        "zh": "\u5999\u4E49",
+        "en": "My\u014Dgi",
         "py": "my",
         "tag": "R4B"
     },
     "PJSB006": {
-        "zh": "扶桑",
-        "en": "Fusō",
+        "zh": "\u6276\u6851",
+        "en": "Fus\u014D",
         "py": "fs",
         "tag": "R6B"
     },
     "PJSB007": {
-        "zh": "金刚",
-        "en": "Kongō",
+        "zh": "\u91D1\u521A",
+        "en": "Kong\u014D",
         "py": "jg",
         "tag": "R5B"
     },
     "PJSB008": {
-        "zh": "石锤",
+        "zh": "\u77F3\u9524",
         "en": "Ishizuchi",
         "py": "sc",
         "tag": "R4B"
     },
     "PJSB010": {
-        "zh": "长门",
+        "zh": "\u957F\u95E8",
         "en": "Nagato",
         "py": "cm",
         "tag": "R7B"
     },
     "PJSB011": {
-        "zh": "三笠",
+        "zh": "\u4E09\u7B20",
         "en": "Mikasa",
         "py": "sl",
         "tag": "R2B"
     },
     "PJSB013": {
-        "zh": "天城",
+        "zh": "\u5929\u57CE",
         "en": "Amagi",
         "py": "tc",
         "tag": "R8B"
     },
     "PJSB018": {
-        "zh": "大和",
+        "zh": "\u5927\u548C",
         "en": "Yamato",
         "py": "dh",
         "tag": "R10B"
     },
     "PJSB021": {
-        "zh": "出云",
+        "zh": "\u51FA\u4E91",
         "en": "Izumo",
         "py": "cy",
         "tag": "R9B"
     },
     "PJSB111": {
-        "zh": "萨摩",
+        "zh": "\u8428\u6469",
         "en": "Satsuma",
         "py": "sm",
         "tag": "R11B"
     },
     "PJSB506": {
-        "zh": "陆奥",
+        "zh": "\u9646\u5965",
         "en": "Mutsu",
         "py": "la",
         "tag": "R6B"
     },
     "PJSB507": {
-        "zh": "爱鹰",
+        "zh": "\u7231\u9E70",
         "en": "Ashitaka",
         "py": "ay",
         "tag": "R7B"
     },
     "PJSB508": {
-        "zh": "纪伊",
+        "zh": "\u7EAA\u4F0A",
         "en": "Kii",
         "py": "jy",
         "tag": "R8B"
     },
     "PJSB509": {
-        "zh": "武藏",
+        "zh": "\u6B66\u85CF",
         "en": "Musashi",
         "py": "wc",
         "tag": "R9B"
     },
     "PJSB510": {
-        "zh": "敷岛",
+        "zh": "\u6577\u5C9B",
         "en": "Shikishima",
         "py": "fd",
         "tag": "R10B"
     },
     "PJSB517": {
-        "zh": "日向",
-        "en": "Hyūga",
+        "zh": "\u65E5\u5411",
+        "en": "Hy\u016Bga",
         "py": "rx",
         "tag": "R7B"
     },
     "PJSB519": {
-        "zh": "肥前",
+        "zh": "\u80A5\u524D",
         "en": "Hizen",
         "py": "fq",
         "tag": "R9B"
     },
     "PJSB526": {
-        "zh": "伊势",
+        "zh": "\u4F0A\u52BF",
         "en": "Ise",
         "py": "ys",
         "tag": "R6B"
     },
     "PJSB529": {
-        "zh": "石见",
+        "zh": "\u77F3\u89C1",
         "en": "Iwami",
         "py": "sj",
         "tag": "R9B"
     },
     "PJSB539": {
-        "zh": "大山",
+        "zh": "\u5927\u5C71",
         "en": "Daisen",
         "py": "ds",
         "tag": "R9B"
@@ -2966,8 +2966,8 @@
         "tag": "R10B"
     },
     "PJSB705": {
-        "zh": "ARP Kongō",
-        "en": "ARP Kongō",
+        "zh": "ARP Kong\u014D",
+        "en": "ARP Kong\u014D",
         "py": "ARP Kong",
         "tag": "R5B"
     },
@@ -2990,7 +2990,7 @@
         "tag": "R5B"
     },
     "PJSB715": {
-        "zh": "HSF 比叡",
+        "zh": "HSF \u6BD4\u53E1",
         "en": "HSF Hiei",
         "py": "HSF br",
         "tag": "R5B"
@@ -3002,12 +3002,12 @@
         "tag": "R5B"
     },
     "PJSB801": {
-        "zh": "河内",
+        "zh": "\u6CB3\u5185",
         "en": "Kawachi",
         "py": "hn"
     },
     "PJSB802": {
-        "zh": "河内",
+        "zh": "\u6CB3\u5185",
         "en": "Kawachi",
         "py": "hn"
     },
@@ -3024,223 +3024,223 @@
         "tag": "R8B"
     },
     "PJSB906": {
-        "zh": "伊势2",
+        "zh": "\u4F0A\u52BF2",
         "en": "Ise 2",
         "py": "ys2",
         "tag": "R6B"
     },
     "PJSB916": {
-        "zh": "伊势3",
+        "zh": "\u4F0A\u52BF3",
         "en": "Ise 3",
         "py": "ys3",
         "tag": "R6B"
     },
     "PJSB918": {
-        "zh": "[大和]",
+        "zh": "[\u5927\u548C]",
         "en": "[Yamato]",
         "py": "dh",
         "tag": "R10B"
     },
     "PJSB999": {
-        "zh": "萨摩（旧）",
+        "zh": "\u8428\u6469\uFF08\u65E7\uFF09",
         "en": "Satsuma (old)",
         "py": "smj",
         "tag": "R11B"
     },
     "PJSC004": {
-        "zh": "夕张",
-        "en": "Yūbari",
+        "zh": "\u5915\u5F20",
+        "en": "Y\u016Bbari",
         "py": "xz",
         "tag": "R4C"
     },
     "PJSC005": {
-        "zh": "古鹰",
+        "zh": "\u53E4\u9E70",
         "en": "Furutaka",
         "py": "gy",
         "tag": "R5C"
     },
     "PJSC006": {
-        "zh": "古鹰",
+        "zh": "\u53E4\u9E70",
         "en": "Furutaka",
         "py": "gy"
     },
     "PJSC007": {
-        "zh": "青叶",
+        "zh": "\u9752\u53F6",
         "en": "Aoba",
         "py": "qy",
         "tag": "R6C"
     },
     "PJSC008": {
-        "zh": "妙高",
-        "en": "Myōkō",
+        "zh": "\u5999\u9AD8",
+        "en": "My\u014Dk\u014D",
         "py": "mg",
         "tag": "R7C"
     },
     "PJSC009": {
-        "zh": "最上",
+        "zh": "\u6700\u4E0A",
         "en": "Mogami",
         "py": "zs",
         "tag": "R8C"
     },
     "PJSC012": {
-        "zh": "伊吹",
+        "zh": "\u4F0A\u5439",
         "en": "Ibuki",
         "py": "yc",
         "tag": "R9C"
     },
     "PJSC013": {
-        "zh": "球磨",
+        "zh": "\u7403\u78E8",
         "en": "Kuma",
         "py": "qm",
         "tag": "R4C"
     },
     "PJSC014": {
-        "zh": "北上",
+        "zh": "\u5317\u4E0A",
         "en": "Kitakami",
         "py": "bs",
         "tag": "R10C"
     },
     "PJSC015": {
-        "zh": "天龙",
-        "en": "Tenryū",
+        "zh": "\u5929\u9F99",
+        "en": "Tenry\u016B",
         "py": "tl",
         "tag": "R3C"
     },
     "PJSC018": {
-        "zh": "利根",
+        "zh": "\u5229\u6839",
         "en": "Tone",
         "py": "lg",
         "tag": "R8C"
     },
     "PJSC026": {
-        "zh": "岩城Alpha",
+        "zh": "\u5CA9\u57CEAlpha",
         "en": "Iwaki A",
         "py": "ycAlpha",
         "tag": "R4C"
     },
     "PJSC034": {
-        "zh": "藏王",
-        "en": "Zaō",
+        "zh": "\u85CF\u738B",
+        "en": "Za\u014D",
         "py": "cw",
         "tag": "R10C"
     },
     "PJSC035": {
-        "zh": "筑摩",
+        "zh": "\u7B51\u6469",
         "en": "Chikuma",
         "py": "zm",
         "tag": "R2C"
     },
     "PJSC037": {
-        "zh": "桥立",
+        "zh": "\u6865\u7ACB",
         "en": "Hashidate",
         "py": "ql",
         "tag": "R1C"
     },
     "PJSC038": {
-        "zh": "爱宕",
+        "zh": "\u7231\u5B95",
         "en": "Atago",
         "py": "ad",
         "tag": "R8C"
     },
     "PJSC205": {
-        "zh": "阿贺野",
+        "zh": "\u963F\u8D3A\u91CE",
         "en": "Agano",
         "py": "ahy",
         "tag": "R5C"
     },
     "PJSC206": {
-        "zh": "五濑",
+        "zh": "\u4E94\u6FD1",
         "en": "Gokase",
         "py": "wl",
         "tag": "R6C"
     },
     "PJSC207": {
-        "zh": "雄物",
+        "zh": "\u96C4\u7269",
         "en": "Omono",
         "py": "xw",
         "tag": "R7C"
     },
     "PJSC208": {
-        "zh": "四万十",
+        "zh": "\u56DB\u4E07\u5341",
         "en": "Shimanto",
         "py": "sws",
         "tag": "R8C"
     },
     "PJSC209": {
-        "zh": "高梁",
+        "zh": "\u9AD8\u6881",
         "en": "Takahashi",
         "py": "gl",
         "tag": "R9C"
     },
     "PJSC210": {
-        "zh": "淀",
+        "zh": "\u6DC0",
         "en": "Yodo",
         "py": "d",
         "tag": "R10C"
     },
     "PJSC503": {
-        "zh": "香取",
+        "zh": "\u9999\u53D6",
         "en": "Katori",
         "py": "xq",
         "tag": "R3C"
     },
     "PJSC505": {
-        "zh": "矢矧",
+        "zh": "\u77E2\u77E7",
         "en": "Yahagi",
         "py": "ss",
         "tag": "R5C"
     },
     "PJSC507": {
-        "zh": "十胜",
+        "zh": "\u5341\u80DC",
         "en": "Tokachi",
         "py": "ss",
         "tag": "R7C"
     },
     "PJSC510": {
-        "zh": "吾妻",
+        "zh": "\u543E\u59BB",
         "en": "Azuma",
         "py": "wq",
         "tag": "R9C"
     },
     "PJSC517": {
-        "zh": "摩耶",
+        "zh": "\u6469\u8036",
         "en": "Maya",
         "py": "my",
         "tag": "R7C"
     },
     "PJSC519": {
-        "zh": "AL吾妻",
+        "zh": "AL\u543E\u59BB",
         "en": "AL Azuma",
         "py": "ALwq",
         "tag": "R9C"
     },
     "PJSC520": {
-        "zh": "吉野",
+        "zh": "\u5409\u91CE",
         "en": "Yoshino",
         "py": "jy",
         "tag": "R10C"
     },
     "PJSC590": {
-        "zh": "吉野B",
+        "zh": "\u5409\u91CEB",
         "en": "Yoshino B",
         "py": "jyB",
         "tag": "R10C"
     },
     "PJSC598": {
-        "zh": "爱宕B",
+        "zh": "\u7231\u5B95B",
         "en": "Atago B",
         "py": "adB",
         "tag": "R8C"
     },
     "PJSC610": {
-        "zh": "北上",
+        "zh": "\u5317\u4E0A",
         "en": "Kitakami",
         "py": "bs",
         "tag": "R10C"
     },
     "PJSC705": {
-        "zh": "ARP Myōkō",
-        "en": "ARP Myōkō",
+        "zh": "ARP My\u014Dk\u014D",
+        "en": "ARP My\u014Dk\u014D",
         "py": "ARP Myk",
         "tag": "R7C"
     },
@@ -3263,7 +3263,7 @@
         "tag": "R7C"
     },
     "PJSC717": {
-        "zh": "南方神龙",
+        "zh": "\u5357\u65B9\u795E\u9F99",
         "en": "S. Dragon",
         "py": "nfsl",
         "tag": "R7C"
@@ -3275,7 +3275,7 @@
         "tag": "R8C"
     },
     "PJSC727": {
-        "zh": "东方神龙",
+        "zh": "\u4E1C\u65B9\u795E\u9F99",
         "en": "E. Dragon",
         "py": "dfsl",
         "tag": "R7C"
@@ -3292,266 +3292,266 @@
         "py": "ARP Takao"
     },
     "PJSC810": {
-        "zh": "藏王P",
-        "en": "Zaō P",
+        "zh": "\u85CF\u738BP",
+        "en": "Za\u014D P",
         "py": "cwP",
         "tag": "R10C"
     },
     "PJSC837": {
-        "zh": "桥立",
+        "zh": "\u6865\u7ACB",
         "en": "Hashidate",
         "py": "ql"
     },
     "PJSC838": {
-        "zh": "桥立",
+        "zh": "\u6865\u7ACB",
         "en": "Hashidate",
         "py": "ql"
     },
     "PJSC918": {
-        "zh": "利根2",
+        "zh": "\u5229\u68392",
         "en": "Tone 2",
         "py": "lg2",
         "tag": "R8C"
     },
     "PJSC919": {
-        "zh": "利根3",
+        "zh": "\u5229\u68393",
         "en": "Tone 3",
         "py": "lg3",
         "tag": "R8C"
     },
     "PJSC934": {
-        "zh": "[藏王]",
-        "en": "[Zaō]",
+        "zh": "[\u85CF\u738B]",
+        "en": "[Za\u014D]",
         "py": "cw",
         "tag": "R10C"
     },
     "PJSD001": {
-        "zh": "橘",
+        "zh": "\u6A58",
         "en": "Tachibana",
         "py": "j",
         "tag": "R2D"
     },
     "PJSD002": {
-        "zh": "海风",
+        "zh": "\u6D77\u98CE",
         "en": "Umikaze",
         "py": "hf",
         "tag": "R2D"
     },
     "PJSD003": {
-        "zh": "矶风",
+        "zh": "\u77F6\u98CE",
         "en": "Isokaze",
         "py": "jf",
         "tag": "R4D"
     },
     "PJSD004": {
-        "zh": "峰风",
+        "zh": "\u5CF0\u98CE",
         "en": "Minekaze",
         "py": "ff",
         "tag": "R5D"
     },
     "PJSD005": {
-        "zh": "睦月 (旧)",
+        "zh": "\u7766\u6708 (\u65E7)",
         "en": "Mutsuki (old)",
         "py": "my j",
         "tag": "R6D"
     },
     "PJSD006": {
-        "zh": "初春 (old)",
+        "zh": "\u521D\u6625 (old)",
         "en": "Hatsuharu (old)",
         "py": "cc old",
         "tag": "R7D"
     },
     "PJSD007": {
-        "zh": "吹雪 (old)",
+        "zh": "\u5439\u96EA (old)",
         "en": "Fubuki (old)",
         "py": "cx old",
         "tag": "R8D"
     },
     "PJSD010": {
-        "zh": "阳炎 (old)",
-        "en": "Kagerō (old)",
+        "zh": "\u9633\u708E (old)",
+        "en": "Kager\u014D (old)",
         "py": "yy old",
         "tag": "R9D"
     },
     "PJSD012": {
-        "zh": "岛风",
+        "zh": "\u5C9B\u98CE",
         "en": "Shimakaze",
         "py": "df",
         "tag": "R10D"
     },
     "PJSD014": {
-        "zh": "橘Lima",
+        "zh": "\u6A58Lima",
         "en": "Tachibana L",
         "py": "jLima",
         "tag": "R2D"
     },
     "PJSD017": {
-        "zh": "风神",
-        "en": "Fūjin",
+        "zh": "\u98CE\u795E",
+        "en": "F\u016Bjin",
         "py": "fs",
         "tag": "R5D"
     },
     "PJSD024": {
-        "zh": "若竹",
+        "zh": "\u82E5\u7AF9",
         "en": "Wakatake",
         "py": "rz",
         "tag": "R3D"
     },
     "PJSD025": {
-        "zh": "神风",
+        "zh": "\u795E\u98CE",
         "en": "Kamikaze",
         "py": "sf",
         "tag": "R5D"
     },
     "PJSD026": {
-        "zh": "神风R",
+        "zh": "\u795E\u98CER",
         "en": "Kamikaze R",
         "py": "sfR",
         "tag": "R5D"
     },
     "PJSD105": {
-        "zh": "睦月",
+        "zh": "\u7766\u6708",
         "en": "Mutsuki",
         "py": "my",
         "tag": "R5D"
     },
     "PJSD106": {
-        "zh": "吹雪",
+        "zh": "\u5439\u96EA",
         "en": "Fubuki",
         "py": "cx",
         "tag": "R6D"
     },
     "PJSD107": {
-        "zh": "晓",
+        "zh": "\u6653",
         "en": "Akatsuki",
         "py": "x",
         "tag": "R7D"
     },
     "PJSD108": {
-        "zh": "秋月",
+        "zh": "\u79CB\u6708",
         "en": "Akizuki",
         "py": "qy",
         "tag": "R8D"
     },
     "PJSD111": {
-        "zh": "山雾",
+        "zh": "\u5C71\u96FE",
         "en": "Yamagiri",
         "py": "sw",
         "tag": "R11D"
     },
     "PJSD206": {
-        "zh": "初春",
+        "zh": "\u521D\u6625",
         "en": "Hatsuharu",
         "py": "cc",
         "tag": "R6D"
     },
     "PJSD207": {
-        "zh": "白露",
+        "zh": "\u767D\u9732",
         "en": "Shiratsuyu",
         "py": "bl",
         "tag": "R7D"
     },
     "PJSD208": {
-        "zh": "阳炎",
-        "en": "Kagerō",
+        "zh": "\u9633\u708E",
+        "en": "Kager\u014D",
         "py": "yy",
         "tag": "R8D"
     },
     "PJSD209": {
-        "zh": "夕云",
-        "en": "Yūgumo",
+        "zh": "\u5915\u4E91",
+        "en": "Y\u016Bgumo",
         "py": "xy",
         "tag": "R9D"
     },
     "PJSD210": {
-        "zh": "春云",
+        "zh": "\u6625\u4E91",
         "en": "Harugumo",
         "py": "cy",
         "tag": "R10D"
     },
     "PJSD219": {
-        "zh": "北风",
+        "zh": "\u5317\u98CE",
         "en": "Kitakaze",
         "py": "bf",
         "tag": "R9D"
     },
     "PJSD503": {
-        "zh": "Disabled: 矶风",
+        "zh": "Disabled: \u77F6\u98CE",
         "en": "Disabled: Isokaze",
         "py": "Disabled jf"
     },
     "PJSD504": {
-        "zh": "Disabled: 峰风",
+        "zh": "Disabled: \u5CF0\u98CE",
         "en": "Disabled: Minekaze",
         "py": "Disabled ff"
     },
     "PJSD507": {
-        "zh": "夕立",
-        "en": "Yūdachi",
+        "zh": "\u5915\u7ACB",
+        "en": "Y\u016Bdachi",
         "py": "xl",
         "tag": "R7D"
     },
     "PJSD510": {
-        "zh": "疾风",
+        "zh": "\u75BE\u98CE",
         "en": "Hayate",
         "py": "jf",
         "tag": "R10D"
     },
     "PJSD518": {
-        "zh": "朝潮",
+        "zh": "\u671D\u6F6E",
         "en": "Asashio",
         "py": "cc",
         "tag": "R8D"
     },
     "PJSD528": {
-        "zh": "HSF 晴风 II",
+        "zh": "HSF \u6674\u98CE II",
         "en": "HSF Harekaze II",
         "py": "HSF qf II",
         "tag": "R8D"
     },
     "PJSD596": {
-        "zh": "东云B",
+        "zh": "\u4E1C\u4E91B",
         "en": "Shinonome B",
         "py": "dyB",
         "tag": "R6D"
     },
     "PJSD598": {
-        "zh": "朝潮B",
+        "zh": "\u671D\u6F6EB",
         "en": "Asashio B",
         "py": "ccB",
         "tag": "R8D"
     },
     "PJSD706": {
-        "zh": "东云",
+        "zh": "\u4E1C\u4E91",
         "en": "Shinonome",
         "py": "dy",
         "tag": "R6D"
     },
     "PJSD708": {
-        "zh": "HSF 晴风",
+        "zh": "HSF \u6674\u98CE",
         "en": "HSF Harekaze",
         "py": "HSF qf",
         "tag": "R8D"
     },
     "PJSD718": {
-        "zh": "AL雪风",
+        "zh": "AL\u96EA\u98CE",
         "en": "AL Yukikaze",
         "py": "ALxf",
         "tag": "R8D"
     },
     "PJSD803": {
-        "zh": "矶风",
+        "zh": "\u77F6\u98CE",
         "en": "Isokaze",
         "py": "jf"
     },
     "PJSD889": {
-        "zh": "星之北风",
+        "zh": "\u661F\u4E4B\u5317\u98CE",
         "en": "STAR Kitakaze",
         "py": "xzbf",
         "tag": "R9D"
     },
     "PJSD912": {
-        "zh": "[岛风]",
+        "zh": "[\u5C9B\u98CE]",
         "en": "[Shimakaze]",
         "py": "df",
         "tag": "R10D"
@@ -3586,235 +3586,235 @@
         "py": "707R"
     },
     "PRSA104": {
-        "zh": "共青团员",
+        "zh": "\u5171\u9752\u56E2\u5458",
         "en": "Komsomolets",
         "py": "gqty",
         "tag": "S4A"
     },
     "PRSA106": {
-        "zh": "谢罗夫",
+        "zh": "\u8C22\u7F57\u592B",
         "en": "Serov",
         "py": "xlf",
         "tag": "S6A"
     },
     "PRSA108": {
-        "zh": "胜利",
+        "zh": "\u80DC\u5229",
         "en": "Pobeda",
         "py": "sl",
         "tag": "S8A"
     },
     "PRSA110": {
-        "zh": "纳希莫夫",
+        "zh": "\u7EB3\u5E0C\u83AB\u592B",
         "en": "Nakhimov",
         "py": "nxmf",
         "tag": "S10A"
     },
     "PRSA508": {
-        "zh": "契卡洛夫",
+        "zh": "\u5951\u5361\u6D1B\u592B",
         "en": "Chkalov",
         "py": "qklf",
         "tag": "S8A"
     },
     "PRSA598": {
-        "zh": "契卡洛夫B",
+        "zh": "\u5951\u5361\u6D1B\u592BB",
         "en": "Chkalov B",
         "py": "qklfB",
         "tag": "S8A"
     },
     "PRSA990": {
-        "zh": "奥尔洛夫",
+        "zh": "\u5965\u5C14\u6D1B\u592B",
         "en": "Orlov",
         "py": "aelf",
         "tag": "S10A"
     },
     "PRSB001": {
-        "zh": "沙皇尼古拉一世",
+        "zh": "\u6C99\u7687\u5C3C\u53E4\u62C9\u4E00\u4E16",
         "en": "Nikolai I",
         "py": "shnglys",
         "tag": "S4B"
     },
     "PRSB103": {
-        "zh": "苏沃洛夫公爵",
+        "zh": "\u82CF\u6C83\u6D1B\u592B\u516C\u7235",
         "en": "Knyaz Suvorov",
         "py": "swlfgj",
         "tag": "S3B"
     },
     "PRSB104": {
-        "zh": "甘古特",
+        "zh": "\u7518\u53E4\u7279",
         "en": "Gangut",
         "py": "ggt",
         "tag": "S4B"
     },
     "PRSB105": {
-        "zh": "彼得大帝",
+        "zh": "\u5F7C\u5F97\u5927\u5E1D",
         "en": "Pyotr Velikiy",
         "py": "bddd",
         "tag": "S5B"
     },
     "PRSB106": {
-        "zh": "伊兹梅尔",
+        "zh": "\u4F0A\u5179\u6885\u5C14",
         "en": "Izmail",
         "py": "yzme",
         "tag": "S6B"
     },
     "PRSB107": {
-        "zh": "锡诺普",
+        "zh": "\u9521\u8BFA\u666E",
         "en": "Sinop",
         "py": "xnp",
         "tag": "S7B"
     },
     "PRSB108": {
-        "zh": "符拉迪沃斯托克",
+        "zh": "\u7B26\u62C9\u8FEA\u6C83\u65AF\u6258\u514B",
         "en": "Vladivostok",
         "py": "fldwstk",
         "tag": "S8B"
     },
     "PRSB109": {
-        "zh": "苏联",
+        "zh": "\u82CF\u8054",
         "en": "Sov. Soyuz",
         "py": "sl",
         "tag": "S9B"
     },
     "PRSB110": {
-        "zh": "克里姆林",
+        "zh": "\u514B\u91CC\u59C6\u6797",
         "en": "Kremlin",
         "py": "klml",
         "tag": "S10B"
     },
     "PRSB111": {
-        "zh": "乌沙科夫",
+        "zh": "\u4E4C\u6C99\u79D1\u592B",
         "en": "Ushakov",
         "py": "wskf",
         "tag": "S11B"
     },
     "PRSB505": {
-        "zh": "十月革命",
+        "zh": "\u5341\u6708\u9769\u547D",
         "en": "Okt. Revolutsiya",
         "py": "sygm",
         "tag": "S5B"
     },
     "PRSB508": {
-        "zh": "波尔塔瓦",
+        "zh": "\u6CE2\u5C14\u5854\u74E6",
         "en": "Poltava",
         "py": "betw",
         "tag": "S7B"
     },
     "PRSB510": {
-        "zh": "光荣",
+        "zh": "\u5149\u8363",
         "en": "Slava",
         "py": "gr",
         "tag": "S10B"
     },
     "PRSB516": {
-        "zh": "新罗西斯克",
+        "zh": "\u65B0\u7F57\u897F\u65AF\u514B",
         "en": "Novorossiysk",
         "py": "xlxsk",
         "tag": "S6B"
     },
     "PRSB518": {
-        "zh": "列宁",
+        "zh": "\u5217\u5B81",
         "en": "Lenin",
         "py": "ln",
         "tag": "S8B"
     },
     "PRSB528": {
-        "zh": "博罗季诺",
+        "zh": "\u535A\u7F57\u5B63\u8BFA",
         "en": "Borodino",
         "py": "bljn",
         "tag": "S8B"
     },
     "PRSB538": {
-        "zh": "弗拉基米尔·伊里奇·列宁",
+        "zh": "\u5F17\u62C9\u57FA\u7C73\u5C14\u00B7\u4F0A\u91CC\u5947\u00B7\u5217\u5B81",
         "en": "V. I. Lenin",
         "py": "fljmeylqln",
         "tag": "S8B"
     },
     "PRSB709": {
-        "zh": "AL苏维埃罗西亚",
+        "zh": "AL\u82CF\u7EF4\u57C3\u7F57\u897F\u4E9A",
         "en": "AL Sov. Rossiya",
         "py": "ALswalxy",
         "tag": "S9B"
     },
     "PRSC001": {
-        "zh": "阿芙乐尔",
+        "zh": "\u963F\u8299\u4E50\u5C14",
         "en": "Aurora",
         "py": "afle",
         "tag": "S3C"
     },
     "PRSC002": {
-        "zh": "狄安娜",
+        "zh": "\u72C4\u5B89\u5A1C",
         "en": "Diana",
         "py": "dan",
         "tag": "S2C"
     },
     "PRSC003": {
-        "zh": "摩尔曼斯克",
+        "zh": "\u6469\u5C14\u66FC\u65AF\u514B",
         "en": "Murmansk",
         "py": "memsk",
         "tag": "S5C"
     },
     "PRSC010": {
-        "zh": "狄安娜L",
+        "zh": "\u72C4\u5B89\u5A1CL",
         "en": "Diana L",
         "py": "danL",
         "tag": "S2C"
     },
     "PRSC101": {
-        "zh": "海雕",
+        "zh": "\u6D77\u96D5",
         "en": "Orlan",
         "py": "hd",
         "tag": "S1C"
     },
     "PRSC102": {
-        "zh": "诺维克",
+        "zh": "\u8BFA\u7EF4\u514B",
         "en": "Novik",
         "py": "nwk",
         "tag": "S2C"
     },
     "PRSC103": {
-        "zh": "博加特里",
+        "zh": "\u535A\u52A0\u7279\u91CC",
         "en": "Bogatyr",
         "py": "bjtl",
         "tag": "S3C"
     },
     "PRSC104": {
-        "zh": "斯维特拉那",
+        "zh": "\u65AF\u7EF4\u7279\u62C9\u90A3",
         "en": "Svietlana",
         "py": "swtln",
         "tag": "S4C"
     },
     "PRSC105": {
-        "zh": "基洛夫 (OLD)",
+        "zh": "\u57FA\u6D1B\u592B (OLD)",
         "en": "Kirov (OLD)",
         "py": "jlf OLD",
         "tag": "S5C"
     },
     "PRSC106": {
-        "zh": "布琼尼",
+        "zh": "\u5E03\u743C\u5C3C",
         "en": "Budyonny",
         "py": "bqn",
         "tag": "S6C"
     },
     "PRSC107": {
-        "zh": "肖尔斯",
+        "zh": "\u8096\u5C14\u65AF",
         "en": "Shchors",
         "py": "xes",
         "tag": "S7C"
     },
     "PRSC108": {
-        "zh": "恰巴耶夫",
+        "zh": "\u6070\u5DF4\u8036\u592B",
         "en": "Chapayev",
         "py": "qbyf",
         "tag": "S8C"
     },
     "PRSC109": {
-        "zh": "迪米特里-顿斯科伊",
+        "zh": "\u8FEA\u7C73\u7279\u91CC-\u987F\u65AF\u79D1\u4F0A",
         "en": "Dm. Donskoi",
         "py": "dmtldsky",
         "tag": "S9C"
     },
     "PRSC110": {
-        "zh": "莫斯科",
+        "zh": "\u83AB\u65AF\u79D1",
         "en": "Moskva",
         "py": "msk",
         "tag": "S10C"
@@ -3826,299 +3826,299 @@
         "tag": "S11C"
     },
     "PRSC208": {
-        "zh": "塔林",
+        "zh": "\u5854\u6797",
         "en": "Tallinn",
         "py": "tl",
         "tag": "S8C"
     },
     "PRSC209": {
-        "zh": "里加",
+        "zh": "\u91CC\u52A0",
         "en": "Riga",
         "py": "lj",
         "tag": "S9C"
     },
     "PRSC210": {
-        "zh": "亚历山大·涅夫斯基",
+        "zh": "\u4E9A\u5386\u5C71\u5927\u00B7\u6D85\u592B\u65AF\u57FA",
         "en": "A. Nevsky",
         "py": "ylsdnfsj",
         "tag": "S10C"
     },
     "PRSC215": {
-        "zh": "科托夫斯基",
+        "zh": "\u79D1\u6258\u592B\u65AF\u57FA",
         "en": "Kotovsky",
         "py": "ktfsj",
         "tag": "S5C"
     },
     "PRSC310": {
-        "zh": "彼得罗巴甫洛夫斯克",
+        "zh": "\u5F7C\u5F97\u7F57\u5DF4\u752B\u6D1B\u592B\u65AF\u514B",
         "en": "Petropavlovsk",
         "py": "bdlbflfsk",
         "tag": "S10C"
     },
     "PRSC503": {
-        "zh": "奥列格",
+        "zh": "\u5965\u5217\u683C",
         "en": "Oleg",
         "py": "alg",
         "tag": "S3C"
     },
     "PRSC505": {
-        "zh": "红色克里米亚",
+        "zh": "\u7EA2\u8272\u514B\u91CC\u7C73\u4E9A",
         "en": "Krasny Krym",
         "py": "hsklmy",
         "tag": "S5C"
     },
     "PRSC506": {
-        "zh": "莫洛托夫",
+        "zh": "\u83AB\u6D1B\u6258\u592B",
         "en": "Molotov",
         "py": "mltf",
         "tag": "S6C"
     },
     "PRSC508": {
-        "zh": "米哈伊尔·库图佐夫",
+        "zh": "\u7C73\u54C8\u4F0A\u5C14\u00B7\u5E93\u56FE\u4F50\u592B",
         "en": "Kutuzov",
         "py": "mhyektzf",
         "tag": "S8C"
     },
     "PRSC509": {
-        "zh": "喀琅施塔得",
+        "zh": "\u5580\u7405\u65BD\u5854\u5F97",
         "en": "Kronshtadt",
         "py": "klstd",
         "tag": "S9C"
     },
     "PRSC510": {
-        "zh": "斯大林格勒",
+        "zh": "\u65AF\u5927\u6797\u683C\u52D2",
         "en": "Stalingrad",
         "py": "sdlgl",
         "tag": "S10C"
     },
     "PRSC513": {
-        "zh": "瓦良格",
+        "zh": "\u74E6\u826F\u683C",
         "en": "Varyag",
         "py": "wlg",
         "tag": "S3C"
     },
     "PRSC515": {
-        "zh": "米高扬",
+        "zh": "\u7C73\u9AD8\u626C",
         "en": "Mikoyan",
         "py": "mgy",
         "tag": "S5C"
     },
     "PRSC518": {
-        "zh": "拉佐",
+        "zh": "\u62C9\u4F50",
         "en": "Lazo",
         "py": "lz",
         "tag": "S7C"
     },
     "PRSC520": {
-        "zh": "斯大林格勒#2",
+        "zh": "\u65AF\u5927\u6797\u683C\u52D2#2",
         "en": "STALINGRAD #2",
         "py": "sdlgl2",
         "tag": "S10C"
     },
     "PRSC523": {
-        "zh": "AL阿芙乐尔",
+        "zh": "AL\u963F\u8299\u4E50\u5C14",
         "en": "AL Avrora",
         "py": "ALafle",
         "tag": "S3C"
     },
     "PRSC525": {
-        "zh": "基洛夫",
+        "zh": "\u57FA\u6D1B\u592B",
         "en": "Kirov",
         "py": "jlf",
         "tag": "S5C"
     },
     "PRSC528": {
-        "zh": "奥恰科夫",
+        "zh": "\u5965\u6070\u79D1\u592B",
         "en": "Ochakov",
         "py": "aqkf",
         "tag": "S8C"
     },
     "PRSC538": {
-        "zh": "彼得罗·巴格拉季昂",
+        "zh": "\u5F7C\u5F97\u7F57\u00B7\u5DF4\u683C\u62C9\u5B63\u6602",
         "en": "P. Bagration",
         "py": "bdlbglja",
         "tag": "S8C"
     },
     "PRSC548": {
-        "zh": "巴格拉季昂",
+        "zh": "\u5DF4\u683C\u62C9\u5B63\u6602",
         "en": "Bagration",
         "py": "bglja",
         "tag": "S8C"
     },
     "PRSC606": {
-        "zh": "马卡罗夫海军上将",
+        "zh": "\u9A6C\u5361\u7F57\u592B\u6D77\u519B\u4E0A\u5C06",
         "en": "Makarov",
         "py": "mklfhjsj",
         "tag": "S6C"
     },
     "PRSC610": {
-        "zh": "斯摩棱斯克",
+        "zh": "\u65AF\u6469\u68F1\u65AF\u514B",
         "en": "Smolensk",
         "py": "smlsk",
         "tag": "S10C"
     },
     "PRSC710": {
-        "zh": "塞瓦斯托波尔",
+        "zh": "\u585E\u74E6\u65AF\u6258\u6CE2\u5C14",
         "en": "Sevastopol",
         "py": "swstbe",
         "tag": "S10C"
     },
     "PRSC910": {
-        "zh": "[莫斯科]",
+        "zh": "[\u83AB\u65AF\u79D1]",
         "en": "[Moskva]",
         "py": "msk",
         "tag": "S10C"
     },
     "PRSC980": {
-        "zh": "弗拉基米尔·莫诺马赫",
+        "zh": "\u5F17\u62C9\u57FA\u7C73\u5C14\u00B7\u83AB\u8BFA\u9A6C\u8D6B",
         "en": "V. Monomakh",
         "py": "fljmemnmh",
         "tag": "S10C"
     },
     "PRSC990": {
-        "zh": "彼得罗扎沃茨克",
+        "zh": "\u5F7C\u5F97\u7F57\u624E\u6C83\u8328\u514B",
         "en": "Petrozavodsk",
         "py": "bdlzwck",
         "tag": "S10C"
     },
     "PRSC999": {
-        "zh": "测试战舰",
+        "zh": "\u6D4B\u8BD5\u6218\u8230",
         "en": "Test Ship",
         "py": "cszj",
         "tag": "S10C"
     },
     "PRSD001": {
-        "zh": "轰鸣",
+        "zh": "\u8F70\u9E23",
         "en": "Gremyashchy",
         "py": "hm",
         "tag": "S5D"
     },
     "PRSD102": {
-        "zh": "守卫",
+        "zh": "\u5B88\u536B",
         "en": "Storozhevoi",
         "py": "sw",
         "tag": "S2D"
     },
     "PRSD103": {
-        "zh": "无理",
+        "zh": "\u65E0\u7406",
         "en": "Derzki",
         "py": "wl",
         "tag": "S3D"
     },
     "PRSD104": {
-        "zh": "伊贾斯拉夫",
+        "zh": "\u4F0A\u8D3E\u65AF\u62C9\u592B",
         "en": "Izyaslav",
         "py": "yjslf",
         "tag": "S4D"
     },
     "PRSD105": {
-        "zh": "愤怒 (OLD)",
+        "zh": "\u6124\u6012 (OLD)",
         "en": "Gnevny (OLD)",
         "py": "fn OLD",
         "tag": "S5D"
     },
     "PRSD106": {
-        "zh": "火力 (OLD)",
+        "zh": "\u706B\u529B (OLD)",
         "en": "Ognevoi (OLD)",
         "py": "hl OLD",
         "tag": "S6D"
     },
     "PRSD107": {
-        "zh": "无畏",
+        "zh": "\u65E0\u754F",
         "en": "Udaloi",
         "py": "ww",
         "tag": "S9D"
     },
     "PRSD108": {
-        "zh": "塔什干 (OLD)",
+        "zh": "\u5854\u4EC0\u5E72 (OLD)",
         "en": "Tashkent (OLD)",
         "py": "tsg OLD",
         "tag": "S8D"
     },
     "PRSD109": {
-        "zh": "基辅 (OLD)",
+        "zh": "\u57FA\u8F85 (OLD)",
         "en": "Kiev (OLD)",
         "py": "jf OLD",
         "tag": "S7D"
     },
     "PRSD110": {
-        "zh": "哈巴罗夫斯克",
+        "zh": "\u54C8\u5DF4\u7F57\u592B\u65AF\u514B",
         "en": "Khabarovsk",
         "py": "hblfsk",
         "tag": "S10D"
     },
     "PRSD111": {
-        "zh": "佐尔基",
+        "zh": "\u4F50\u5C14\u57FA",
         "en": "Zorkiy",
         "py": "zej",
         "tag": "S11D"
     },
     "PRSD205": {
-        "zh": "巴铎夫斯基",
+        "zh": "\u5DF4\u94CE\u592B\u65AF\u57FA",
         "en": "Podvoisky",
         "py": "bdfsj",
         "tag": "S5D"
     },
     "PRSD206": {
-        "zh": "愤怒",
+        "zh": "\u6124\u6012",
         "en": "Gnevny",
         "py": "fn",
         "tag": "S6D"
     },
     "PRSD207": {
-        "zh": "明斯克",
+        "zh": "\u660E\u65AF\u514B",
         "en": "Minsk",
         "py": "msk",
         "tag": "S7D"
     },
     "PRSD208": {
-        "zh": "火力",
+        "zh": "\u706B\u529B",
         "en": "Ognevoi",
         "py": "hl",
         "tag": "S8D"
     },
     "PRSD209": {
-        "zh": "谨慎",
+        "zh": "\u8C28\u614E",
         "en": "Osmotritelny",
         "py": "js"
     },
     "PRSD210": {
-        "zh": "雷暴",
+        "zh": "\u96F7\u66B4",
         "en": "Grozovoi",
         "py": "lb",
         "tag": "S10D"
     },
     "PRSD308": {
-        "zh": "基辅",
+        "zh": "\u57FA\u8F85",
         "en": "Kiev",
         "py": "jf",
         "tag": "S8D"
     },
     "PRSD310": {
-        "zh": "纳霍德卡",
+        "zh": "\u7EB3\u970D\u5FB7\u5361",
         "en": "Nakhodka",
         "py": "nhdk"
     },
     "PRSD409": {
-        "zh": "塔什干",
+        "zh": "\u5854\u4EC0\u5E72",
         "en": "Tashkent",
         "py": "tsg",
         "tag": "S9D"
     },
     "PRSD410": {
-        "zh": "德尔尼",
+        "zh": "\u5FB7\u5C14\u5C3C",
         "en": "Delny",
         "py": "den",
         "tag": "S10D"
     },
     "PRSD505": {
-        "zh": "猎人",
+        "zh": "\u730E\u4EBA",
         "en": "Okhotnik",
         "py": "lr",
         "tag": "S5D"
     },
     "PRSD507": {
-        "zh": "列宁格勒",
+        "zh": "\u5217\u5B81\u683C\u52D2",
         "en": "Leningrad",
         "py": "lngl",
         "tag": "S7D"
@@ -4130,7 +4130,7 @@
         "tag": "S7D"
     },
     "PRSD709": {
-        "zh": "不惧",
+        "zh": "\u4E0D\u60E7",
         "en": "Neustrashimy",
         "py": "bj",
         "tag": "S9D"
@@ -4142,7 +4142,7 @@
         "tag": "S10D"
     },
     "PRSD910": {
-        "zh": "[雷暴]",
+        "zh": "[\u96F7\u66B4]",
         "en": "[Grozovoi]",
         "py": "lb",
         "tag": "S10D"
@@ -4172,7 +4172,7 @@
         "tag": "S8S"
     },
     "PRSS999": {
-        "zh": "测试潜艇1",
+        "zh": "\u6D4B\u8BD5\u6F5C\u82471",
         "en": "Test Sub 1",
         "py": "csqt1",
         "tag": "S10S"
@@ -4183,332 +4183,332 @@
         "py": "B4"
     },
     "PSSC506": {
-        "zh": "加那利",
+        "zh": "\u52A0\u90A3\u5229",
         "en": "Canarias",
         "py": "jnl",
         "tag": "S6C"
     },
     "PSSD510": {
-        "zh": "阿尔瓦罗·德·巴赞",
-        "en": "Álvaro de Bazán",
+        "zh": "\u963F\u5C14\u74E6\u7F57\u00B7\u5FB7\u00B7\u5DF4\u8D5E",
+        "en": "\u00C1lvaro de Baz\u00E1n",
         "py": "aewldbz",
         "tag": "S10D"
     },
     "PUSB507": {
-        "zh": "育空",
+        "zh": "\u80B2\u7A7A",
         "en": "Yukon",
         "py": "yk",
         "tag": "E7B"
     },
     "PUSC506": {
-        "zh": "珀斯",
+        "zh": "\u73C0\u65AF",
         "en": "Perth",
         "py": "ps",
         "tag": "E6C"
     },
     "PUSC509": {
-        "zh": "赫克托耳",
+        "zh": "\u8D6B\u514B\u6258\u8033",
         "en": "Hector",
         "py": "hkte",
         "tag": "E9C"
     },
     "PUSC510": {
-        "zh": "布里斯班",
+        "zh": "\u5E03\u91CC\u65AF\u73ED",
         "en": "Brisbane",
         "py": "blsb",
         "tag": "E10C"
     },
     "PUSC516": {
-        "zh": "迈索尔",
+        "zh": "\u8FC8\u7D22\u5C14",
         "en": "Mysore",
         "py": "mse",
         "tag": "E6C"
     },
     "PUSD503": {
-        "zh": "吸血鬼",
+        "zh": "\u5438\u8840\u9B3C",
         "en": "Vampire",
         "py": "xxg",
         "tag": "E3D"
     },
     "PUSD507": {
-        "zh": "海达人",
+        "zh": "\u6D77\u8FBE\u4EBA",
         "en": "Haida",
         "py": "hdr",
         "tag": "E7D"
     },
     "PUSD510": {
-        "zh": "吸血鬼II",
+        "zh": "\u5438\u8840\u9B3CII",
         "en": "Vampire II",
         "py": "xxgII",
         "tag": "E10D"
     },
     "PUSD517": {
-        "zh": "休伦",
+        "zh": "\u4F11\u4F26",
         "en": "Huron",
         "py": "xl",
         "tag": "E7D"
     },
     "PVSB505": {
-        "zh": "里约热内卢",
+        "zh": "\u91CC\u7EA6\u70ED\u5185\u5362",
         "en": "Rio de Janeiro",
         "py": "lyrnl",
         "tag": "V5B"
     },
     "PVSB508": {
-        "zh": "大西洋",
-        "en": "Atlântico",
+        "zh": "\u5927\u897F\u6D0B",
+        "en": "Atl\u00E2ntico",
         "py": "dxy",
         "tag": "V8B"
     },
     "PVSC101": {
-        "zh": "赫丘利",
-        "en": "Hércules",
+        "zh": "\u8D6B\u4E18\u5229",
+        "en": "H\u00E9rcules",
         "py": "hql",
         "tag": "V1C"
     },
     "PVSC102": {
-        "zh": "巴罗索海军上将",
+        "zh": "\u5DF4\u7F57\u7D22\u6D77\u519B\u4E0A\u5C06",
         "en": "Alm. Barroso",
         "py": "blshjsj",
         "tag": "V2C"
     },
     "PVSC103": {
-        "zh": "维森特·格雷罗",
+        "zh": "\u7EF4\u68EE\u7279\u00B7\u683C\u96F7\u7F57",
         "en": "V. Guerrero",
         "py": "wstgll",
         "tag": "V3C"
     },
     "PVSC104": {
-        "zh": "科尔多瓦",
-        "en": "Córdoba",
+        "zh": "\u79D1\u5C14\u591A\u74E6",
+        "en": "C\u00F3rdoba",
         "py": "kedw",
         "tag": "V4C"
     },
     "PVSC105": {
-        "zh": "阿根廷",
+        "zh": "\u963F\u6839\u5EF7",
         "en": "La Argentina",
         "py": "agt",
         "tag": "V5C"
     },
     "PVSC106": {
-        "zh": "科克伦海军上将",
+        "zh": "\u79D1\u514B\u4F26\u6D77\u519B\u4E0A\u5C06",
         "en": "Almte. Cochrane",
         "py": "kklhjsj",
         "tag": "V6C"
     },
     "PVSC107": {
-        "zh": "博洛涅西上校",
+        "zh": "\u535A\u6D1B\u6D85\u897F\u4E0A\u6821",
         "en": "Cnel. Bolognesi",
         "py": "blnxsx",
         "tag": "V7C"
     },
     "PVSC108": {
-        "zh": "伊格纳西奥·阿连德",
+        "zh": "\u4F0A\u683C\u7EB3\u897F\u5965\u00B7\u963F\u8FDE\u5FB7",
         "en": "Ignacio Allende",
         "py": "ygnxaald",
         "tag": "V8C"
     },
     "PVSC109": {
-        "zh": "桑坦德",
+        "zh": "\u6851\u5766\u5FB7",
         "en": "Santander",
         "py": "std",
         "tag": "V9C"
     },
     "PVSC110": {
-        "zh": "圣马丁",
-        "en": "San Martín",
+        "zh": "\u5723\u9A6C\u4E01",
+        "en": "San Mart\u00EDn",
         "py": "smd",
         "tag": "V10C"
     },
     "PVSC502": {
-        "zh": "阿布瑞尤海军上将",
+        "zh": "\u963F\u5E03\u745E\u5C24\u6D77\u519B\u4E0A\u5C06",
         "en": "Alm. Abreu",
         "py": "abryhjsj",
         "tag": "V2C"
     },
     "PVSC507": {
-        "zh": "七月九日",
+        "zh": "\u4E03\u6708\u4E5D\u65E5",
         "en": "Nueve de Julio",
         "py": "qyjr",
         "tag": "V7C"
     },
     "PVSC508": {
-        "zh": "格劳海军上将",
+        "zh": "\u683C\u52B3\u6D77\u519B\u4E0A\u5C06",
         "en": "Almte. Grau",
         "py": "glhjsj",
         "tag": "V8C"
     },
     "PVSD506": {
-        "zh": "茹鲁阿",
-        "en": "Juruá",
+        "zh": "\u8339\u9C81\u963F",
+        "en": "Juru\u00E1",
         "py": "rla",
         "tag": "V6D"
     },
     "PWSB504": {
-        "zh": "联合力量",
+        "zh": "\u8054\u5408\u529B\u91CF",
         "en": "Viribus Unitis",
         "py": "lhll",
         "tag": "W5B"
     },
     "PWSC101": {
-        "zh": "狮鹫",
+        "zh": "\u72EE\u9E6B",
         "en": "Gryf",
         "py": "sj",
         "tag": "W1C"
     },
     "PWSC506": {
-        "zh": "埃利",
+        "zh": "\u57C3\u5229",
         "en": "Elli",
         "py": "al",
         "tag": "W6C"
     },
     "PWSD102": {
-        "zh": "塔特拉",
-        "en": "Tátra",
+        "zh": "\u5854\u7279\u62C9",
+        "en": "T\u00E1tra",
         "py": "ttl",
         "tag": "W2D"
     },
     "PWSD103": {
-        "zh": "罗慕路斯",
+        "zh": "\u7F57\u6155\u8DEF\u65AF",
         "en": "Romulus",
         "py": "lmls",
         "tag": "W3D"
     },
     "PWSD104": {
-        "zh": "克拉斯·霍恩",
+        "zh": "\u514B\u62C9\u65AF\u00B7\u970D\u6069",
         "en": "Klas Horn",
         "py": "klshe",
         "tag": "W4D"
     },
     "PWSD105": {
-        "zh": "维斯比",
+        "zh": "\u7EF4\u65AF\u6BD4",
         "en": "Visby",
         "py": "wsb",
         "tag": "W5D"
     },
     "PWSD106": {
-        "zh": "韦斯特罗斯",
-        "en": "Västerås",
+        "zh": "\u97E6\u65AF\u7279\u7F57\u65AF",
+        "en": "V\u00E4ster\u00E5s",
         "py": "wstls",
         "tag": "W6D"
     },
     "PWSD107": {
-        "zh": "斯科讷",
-        "en": "Skåne",
+        "zh": "\u65AF\u79D1\u8BB7",
+        "en": "Sk\u00E5ne",
         "py": "skn",
         "tag": "W7D"
     },
     "PWSD108": {
-        "zh": "厄兰",
-        "en": "Öland",
+        "zh": "\u5384\u5170",
+        "en": "\u00D6land",
         "py": "el",
         "tag": "W8D"
     },
     "PWSD109": {
-        "zh": "东约特兰",
-        "en": "Östergötland",
+        "zh": "\u4E1C\u7EA6\u7279\u5170",
+        "en": "\u00D6sterg\u00F6tland",
         "py": "dytl",
         "tag": "W9D"
     },
     "PWSD110": {
-        "zh": "哈兰",
+        "zh": "\u54C8\u5170",
         "en": "Halland",
         "py": "hl",
         "tag": "W10D"
     },
     "PWSD111": {
-        "zh": "达拉纳",
+        "zh": "\u8FBE\u62C9\u7EB3",
         "en": "Dalarna",
         "py": "dln",
         "tag": "W11D"
     },
     "PWSD205": {
-        "zh": "穆阿维内特",
+        "zh": "\u7A46\u963F\u7EF4\u5185\u7279",
         "en": "Muavenet",
         "py": "mawnt",
         "tag": "W5D"
     },
     "PWSD206": {
-        "zh": "斯托德",
+        "zh": "\u65AF\u6258\u5FB7",
         "en": "Stord",
         "py": "std",
         "tag": "W6D"
     },
     "PWSD207": {
-        "zh": "雷霆",
+        "zh": "\u96F7\u9706",
         "en": "Grom",
         "py": "lt",
         "tag": "W7D"
     },
     "PWSD208": {
-        "zh": "斯普利特",
+        "zh": "\u65AF\u666E\u5229\u7279",
         "en": "Split",
         "py": "splt",
         "tag": "W8D"
     },
     "PWSD209": {
-        "zh": "兰布罗斯·卡措尼斯",
+        "zh": "\u5170\u5E03\u7F57\u65AF\u00B7\u5361\u63AA\u5C3C\u65AF",
         "en": "L. Katsonis",
         "py": "lblskcns",
         "tag": "W9D"
     },
     "PWSD210": {
-        "zh": "格但斯克",
-        "en": "Gdańsk",
+        "zh": "\u683C\u4F46\u65AF\u514B",
+        "en": "Gda\u0144sk",
         "py": "gdsk",
         "tag": "W10D"
     },
     "PWSD501": {
-        "zh": "闪电",
-        "en": "Błyskawica",
+        "zh": "\u95EA\u7535",
+        "en": "B\u0142yskawica",
         "py": "sd",
         "tag": "W7D"
     },
     "PWSD508": {
-        "zh": "奥坎",
+        "zh": "\u5965\u574E",
         "en": "Orkan",
         "py": "ak",
         "tag": "W8D"
     },
     "PWSD509": {
-        "zh": "贝洛斯",
+        "zh": "\u8D1D\u6D1B\u65AF",
         "en": "Velos",
         "py": "bls",
         "tag": "W9D"
     },
     "PWSD510": {
-        "zh": "弗里斯兰",
+        "zh": "\u5F17\u91CC\u65AF\u5170",
         "en": "Friesland",
         "py": "flsl",
         "tag": "W9D"
     },
     "PWSD519": {
-        "zh": "Jäger",
-        "en": "Jäger",
+        "zh": "J\u00E4ger",
+        "en": "J\u00E4ger",
         "py": "Jger",
         "tag": "W9D"
     },
     "PWSD610": {
-        "zh": "斯莫兰",
-        "en": "Småland",
+        "zh": "\u65AF\u83AB\u5170",
+        "en": "Sm\u00E5land",
         "py": "sml",
         "tag": "W10D"
     },
     "PWSD710": {
-        "zh": "朗纳尔",
+        "zh": "\u6717\u7EB3\u5C14",
         "en": "Ragnar",
         "py": "lne",
         "tag": "W10D"
     },
     "PWSD910": {
-        "zh": "拉普兰",
+        "zh": "\u62C9\u666E\u5170",
         "en": "Lappland",
         "py": "lpl",
         "tag": "W10D"
     },
     "PWSD990": {
-        "zh": "南曼兰",
-        "en": "Södermanland",
+        "zh": "\u5357\u66FC\u5170",
+        "en": "S\u00F6dermanland",
         "py": "nml",
         "tag": "W10D"
     },
@@ -4525,97 +4525,97 @@
         "tag": "X4A"
     },
     "PXSA003": {
-        "zh": "诺比利",
+        "zh": "\u8BFA\u6BD4\u5229",
         "en": "Nobilium",
         "py": "nbl",
         "tag": "X8A"
     },
     "PXSA004": {
-        "zh": "戈尔贡",
+        "zh": "\u6208\u5C14\u8D21",
         "en": "The Great Gorgon",
         "py": "geg",
         "tag": "X8A"
     },
     "PXSA005": {
-        "zh": "地狱航母",
+        "zh": "\u5730\u72F1\u822A\u6BCD",
         "en": "Hellcarrier",
         "py": "dyhm",
         "tag": "X7A"
     },
     "PXSA807": {
-        "zh": "突击者",
+        "zh": "\u7A81\u51FB\u8005",
         "en": "Ranger",
         "py": "tjz",
         "tag": "X6A"
     },
     "PXSB001": {
-        "zh": "豺狼",
+        "zh": "\u8C7A\u72FC",
         "en": "Jackal",
         "py": "cl",
         "tag": "X3B"
     },
     "PXSB002": {
-        "zh": "拉斯普京",
+        "zh": "\u62C9\u65AF\u666E\u4EAC",
         "en": "Rasputin",
         "py": "lspj",
         "tag": "X9B"
     },
     "PXSB003": {
-        "zh": "范海辛",
+        "zh": "\u8303\u6D77\u8F9B",
         "en": "Zikasa",
         "py": "fhx",
         "tag": "X2B"
     },
     "PXSB004": {
-        "zh": "马格努-S",
+        "zh": "\u9A6C\u683C\u52AA-S",
         "en": "Magnu-S",
         "py": "mgnS",
         "tag": "X10B"
     },
     "PXSB005": {
-        "zh": "瓦尔加斯",
+        "zh": "\u74E6\u5C14\u52A0\u65AF",
         "en": "Varg",
         "py": "wejs",
         "tag": "X9B"
     },
     "PXSB006": {
-        "zh": "自由卫士",
+        "zh": "\u81EA\u7531\u536B\u58EB",
         "en": "Paris",
         "py": "zyws",
         "tag": "X7B"
     },
     "PXSB007": {
-        "zh": "万象陨灭",
+        "zh": "\u4E07\u8C61\u9668\u706D",
         "en": "Alldestroyer",
         "py": "wxym",
         "tag": "X7B"
     },
     "PXSB008": {
-        "zh": "利维坦",
+        "zh": "\u5229\u7EF4\u5766",
         "en": "Leviathan",
         "py": "lwt",
         "tag": "X9B"
     },
     "PXSB009": {
-        "zh": "蝎尾",
+        "zh": "\u874E\u5C3E",
         "en": "Scorpioid",
         "py": "xw",
         "tag": "X10B"
     },
     "PXSB010": {
-        "zh": "小牛",
+        "zh": "\u5C0F\u725B",
         "en": "Maverick",
         "py": "xn",
         "tag": "X9B"
     },
     "PXSB011": {
-        "zh": "鳄龙",
+        "zh": "\u9CC4\u9F99",
         "en": "Crocosaur",
         "py": "el",
         "tag": "X10B"
     },
     "PXSB015": {
-        "zh": "龙虾眼",
+        "zh": "\u9F99\u867E\u773C",
         "en": "Lobster-Eyed",
         "py": "lxy",
         "tag": "X10B"
@@ -4633,91 +4633,91 @@
         "tag": "X9B"
     },
     "PXSB504": {
-        "zh": "特战鸭",
+        "zh": "\u7279\u6218\u9E2D",
         "en": "Quackaducko",
         "py": "tzy",
         "tag": "X10B"
     },
     "PXSB506": {
-        "zh": "生化鸭",
+        "zh": "\u751F\u5316\u9E2D",
         "en": "D.U.C.K.",
         "py": "shy",
         "tag": "X11B"
     },
     "PXSC001": {
-        "zh": "伊戈尔",
+        "zh": "\u4F0A\u6208\u5C14",
         "en": "Igor",
         "py": "yge",
         "tag": "X3C"
     },
     "PXSC002": {
-        "zh": "圣甲虫",
+        "zh": "\u5723\u7532\u866B",
         "en": "Scarab",
         "py": "sjc",
         "tag": "X9C"
     },
     "PXSC003": {
-        "zh": "苏亚托扎",
+        "zh": "\u82CF\u4E9A\u6258\u624E",
         "en": "Svyatozar",
         "py": "sytz",
         "tag": "X10C"
     },
     "PXSC004": {
-        "zh": "银河",
+        "zh": "\u94F6\u6CB3",
         "en": "Galaxy",
         "py": "yh",
         "tag": "X7C"
     },
     "PXSC005": {
-        "zh": "扎雅",
+        "zh": "\u624E\u96C5",
         "en": "Zaya",
         "py": "zy",
         "tag": "X7C"
     },
     "PXSC006": {
-        "zh": "诺玛",
+        "zh": "\u8BFA\u739B",
         "en": "Norma",
         "py": "nm",
         "tag": "X7C"
     },
     "PXSC007": {
-        "zh": "阿芙乐尔",
+        "zh": "\u963F\u8299\u4E50\u5C14",
         "en": "Aurora",
         "py": "afle",
         "tag": "X7C"
     },
     "PXSC009": {
-        "zh": "章鱼",
+        "zh": "\u7AE0\u9C7C",
         "en": "Octopus",
         "py": "zy",
         "tag": "X9C"
     },
     "PXSC010": {
-        "zh": "世纪之鹰",
+        "zh": "\u4E16\u7EAA\u4E4B\u9E70",
         "en": "Century Hawk",
         "py": "sjzy",
         "tag": "X7C"
     },
     "PXSC011": {
-        "zh": "章鱼怪",
+        "zh": "\u7AE0\u9C7C\u602A",
         "en": "Octodroid",
         "py": "zyg",
         "tag": "X10C"
     },
     "PXSC012": {
-        "zh": "锈夜",
+        "zh": "\u9508\u591C",
         "en": "Rust Nightfall",
         "py": "xy",
         "tag": "X9C"
     },
     "PXSC013": {
-        "zh": "化石",
+        "zh": "\u5316\u77F3",
         "en": "Fossil",
         "py": "hs",
         "tag": "X10C"
     },
     "PXSC016": {
-        "zh": "刺脊",
+        "zh": "\u523A\u810A",
         "en": "Thornridge",
         "py": "cj",
         "tag": "X10C"
@@ -4735,163 +4735,163 @@
         "tag": "X9C"
     },
     "PXSC501": {
-        "zh": "警探鸭",
+        "zh": "\u8B66\u63A2\u9E2D",
         "en": "L. McQuacci",
         "py": "jty",
         "tag": "X10C"
     },
     "PXSC502": {
-        "zh": "兰博鸭",
+        "zh": "\u5170\u535A\u9E2D",
         "en": "Furo",
         "py": "lby",
         "tag": "X11C"
     },
     "PXSC503": {
-        "zh": "战舰",
+        "zh": "\u6218\u8230",
         "en": "Ship",
         "py": "zj",
         "tag": "X1C"
     },
     "PXSD001": {
-        "zh": "布莱德",
+        "zh": "\u5E03\u83B1\u5FB7",
         "en": "Blade",
         "py": "bld",
         "tag": "X3D"
     },
     "PXSD002": {
-        "zh": "食尸鬼",
+        "zh": "\u98DF\u5C38\u9B3C",
         "en": "Ghoul",
         "py": "ssg",
         "tag": "X9D"
     },
     "PXSD003": {
-        "zh": "浦岛",
+        "zh": "\u6D66\u5C9B",
         "en": "Urashima",
         "py": "pd",
         "tag": "X10D"
     },
     "PXSD004": {
-        "zh": "翔空烈焰",
+        "zh": "\u7FD4\u7A7A\u70C8\u7130",
         "en": "FlyFire",
         "py": "xkly",
         "tag": "X7D"
     },
     "PXSD005": {
-        "zh": "翠兰行星",
+        "zh": "\u7FE0\u5170\u884C\u661F",
         "en": "Blue Aster",
         "py": "clxx",
         "tag": "X7D"
     },
     "PXSD007": {
-        "zh": "鱼雷快艇",
+        "zh": "\u9C7C\u96F7\u5FEB\u8247",
         "en": "Schnellboot",
         "py": "ylkt",
         "tag": "X1D"
     },
     "PXSD008": {
-        "zh": "钢鼠",
+        "zh": "\u94A2\u9F20",
         "en": "Steel Rat",
         "py": "gs",
         "tag": "X9D"
     },
     "PXSD009": {
-        "zh": "剃刀蠕虫",
+        "zh": "\u5243\u5200\u8815\u866B",
         "en": "Razorworm",
         "py": "tdrc",
         "tag": "X9D"
     },
     "PXSD010": {
-        "zh": "天体",
+        "zh": "\u5929\u4F53",
         "en": "Celestial",
         "py": "tt",
         "tag": "X7D"
     },
     "PXSD011": {
-        "zh": "彗星轨迹",
+        "zh": "\u5F57\u661F\u8F68\u8FF9",
         "en": "Comet Trace",
         "py": "hxgj",
         "tag": "X7D"
     },
     "PXSD012": {
-        "zh": "漫游者",
+        "zh": "\u6F2B\u6E38\u8005",
         "en": "Rover",
         "py": "myz",
         "tag": "X7D"
     },
     "PXSD013": {
-        "zh": "梅塞尔",
+        "zh": "\u6885\u585E\u5C14",
         "en": "Messer",
         "py": "mse",
         "tag": "X8D"
     },
     "PXSD014": {
-        "zh": "情欲",
+        "zh": "\u60C5\u6B32",
         "en": "Carnal",
         "py": "qy",
         "tag": "X8D"
     },
     "PXSD015": {
-        "zh": "原子之怒",
+        "zh": "\u539F\u5B50\u4E4B\u6012",
         "en": "Atomic Rage",
         "py": "yzzn",
         "tag": "X8D"
     },
     "PXSD016": {
-        "zh": "海上恶魔",
+        "zh": "\u6D77\u4E0A\u6076\u9B54",
         "en": "Sea Devil",
         "py": "hsem",
         "tag": "X9D"
     },
     "PXSD017": {
-        "zh": "手术刀",
+        "zh": "\u624B\u672F\u5200",
         "en": "Lancet",
         "py": "ssd",
         "tag": "X9D"
     },
     "PXSD018": {
-        "zh": "水汐",
+        "zh": "\u6C34\u6C50",
         "en": "Mizu-Jet",
         "py": "sx",
         "tag": "X9D"
     },
     "PXSD019": {
-        "zh": "鬼魅",
+        "zh": "\u9B3C\u9B45",
         "en": "Stealthedo",
         "py": "gm",
         "tag": "X10D"
     },
     "PXSD020": {
-        "zh": "海镰",
+        "zh": "\u6D77\u9570",
         "en": "Seascythe",
         "py": "hl",
         "tag": "X10D"
     },
     "PXSD021": {
-        "zh": "轰鸣",
+        "zh": "\u8F70\u9E23",
         "en": "Rumble",
         "py": "hm",
         "tag": "X10D"
     },
     "PXSD022": {
-        "zh": "垂钓者",
+        "zh": "\u5782\u9493\u8005",
         "en": "Angler",
         "py": "cdz",
         "tag": "X10D"
     },
     "PXSD023": {
-        "zh": "钢制手术刀",
+        "zh": "\u94A2\u5236\u624B\u672F\u5200",
         "en": "Steel Lancet",
         "py": "gzssd",
         "tag": "X9D"
     },
     "PXSD024": {
-        "zh": "突变的夫斯克",
+        "zh": "\u7A81\u53D8\u7684\u592B\u65AF\u514B",
         "en": "Mutantovsk",
         "py": "tbdfsk",
         "tag": "X10D"
     },
     "PXSD025": {
-        "zh": "牙刃",
+        "zh": "\u7259\u5203",
         "en": "Fangblade",
         "py": "yr",
         "tag": "X10D"
@@ -4909,114 +4909,114 @@
         "tag": "X10D"
     },
     "PXSD502": {
-        "zh": "蒙面鸭",
+        "zh": "\u8499\u9762\u9E2D",
         "en": "Don de la DuQue",
         "py": "mmy",
         "tag": "X10D"
     },
     "PXSD503": {
-        "zh": "警长鸭",
+        "zh": "\u8B66\u957F\u9E2D",
         "en": "Duck Punchis",
         "py": "jcy",
         "tag": "X11D"
     },
     "PXSS107": {
-        "zh": "拉链潜艇",
+        "zh": "\u62C9\u94FE\u6F5C\u8247",
         "en": "Zipper Sub",
         "py": "llqt",
         "tag": "X7S"
     },
     "PXSS207": {
-        "zh": "海狮",
-        "en": "Seelöwe",
+        "zh": "\u6D77\u72EE",
+        "en": "Seel\u00F6we",
         "py": "hs",
         "tag": "X10S"
     },
     "PXSS307": {
-        "zh": "隼",
+        "zh": "\u96BC",
         "en": "Gerfalcon",
         "py": "s",
         "tag": "X7S"
     },
     "PXSS407": {
-        "zh": "梭鱼",
+        "zh": "\u68AD\u9C7C",
         "en": "Barracuda",
         "py": "sy",
         "tag": "X7S"
     },
     "PXSS507": {
-        "zh": "虎鲸",
+        "zh": "\u864E\u9CB8",
         "en": "Killer Whale",
         "py": "hj",
         "tag": "X10S"
     },
     "PXSX001": {
-        "zh": "特兰西瓦尼亚",
+        "zh": "\u7279\u5170\u897F\u74E6\u5C3C\u4E9A",
         "en": "Transylvania",
         "py": "tlxwny",
         "tag": "X5A"
     },
     "PXSX013": {
-        "zh": "挑战",
+        "zh": "\u6311\u6218",
         "en": "Challenge",
         "py": "tz"
     },
     "PXSX016": {
-        "zh": "哥利亚",
+        "zh": "\u54E5\u5229\u4E9A",
         "en": "Goliath",
         "py": "gly",
         "tag": "X2A"
     },
     "PXSX017": {
-        "zh": "卡博特",
+        "zh": "\u5361\u535A\u7279",
         "en": "Caboteur",
         "py": "kbt",
         "tag": "X2A"
     },
     "PXSX023": {
-        "zh": "洛里纳",
+        "zh": "\u6D1B\u91CC\u7EB3",
         "en": "Lorina",
         "py": "lln",
         "tag": "X2A"
     },
     "PXSX024": {
-        "zh": "野樱莓",
+        "zh": "\u91CE\u6A31\u8393",
         "en": "Aronia",
         "py": "yym",
         "tag": "X2A"
     },
     "PXSX025": {
-        "zh": "梅德韦皇后",
+        "zh": "\u6885\u5FB7\u97E6\u7687\u540E",
         "en": "Medway Queen",
         "py": "mdwhh",
         "tag": "X2A"
     },
     "PXSX026": {
-        "zh": "坎特伯雷",
+        "zh": "\u574E\u7279\u4F2F\u96F7",
         "en": "Canterbury",
         "py": "ktbl",
         "tag": "X2A"
     },
     "PXSX033": {
-        "zh": "布雷舰",
+        "zh": "\u5E03\u96F7\u8230",
         "en": "Minelayer",
         "py": "blj",
         "tag": "X2A"
     },
     "PXSX034": {
-        "zh": "约翰·卡特林",
+        "zh": "\u7EA6\u7FF0\u00B7\u5361\u7279\u6797",
         "en": "John Cattling",
         "py": "yhktl",
         "tag": "X2A"
     },
     "PXSX035": {
-        "zh": "登陆舰1",
+        "zh": "\u767B\u9646\u82301",
         "en": "Landing Ship 1",
         "py": "dlj1",
         "tag": "X2A"
     },
     "PXSX037": {
-        "zh": "大发",
+        "zh": "\u5927\u53D1",
         "en": "Daihatsu",
         "py": "df",
         "tag": "X2A"
@@ -5028,25 +5028,25 @@
         "tag": "X2A"
     },
     "PXSX040": {
-        "zh": "护卫8",
+        "zh": "\u62A4\u536B8",
         "en": "Escort 8",
         "py": "hw8",
         "tag": "X2A"
     },
     "PXSX043": {
-        "zh": "梅德韦皇后",
+        "zh": "\u6885\u5FB7\u97E6\u7687\u540E",
         "en": "Medway Queen",
         "py": "mdwhh",
         "tag": "X2A"
     },
     "PXSX044": {
-        "zh": "西马隆",
+        "zh": "\u897F\u9A6C\u9686",
         "en": "Cimarron civil",
         "py": "xml",
         "tag": "X5A"
     },
     "PXSX045": {
-        "zh": "自由",
+        "zh": "\u81EA\u7531",
         "en": "Liberty civil",
         "py": "zy",
         "tag": "X5A"
@@ -5058,199 +5058,199 @@
         "tag": "X6A"
     },
     "PXSX743": {
-        "zh": "英塔尼亚女皇",
+        "zh": "\u82F1\u5854\u5C3C\u4E9A\u5973\u7687",
         "en": "Intania Queen",
         "py": "ytnynh",
         "tag": "X11A"
     },
     "PXSX815": {
-        "zh": "博格",
+        "zh": "\u535A\u683C",
         "en": "Bogue",
         "py": "bg",
         "tag": "X5A"
     },
     "PZSA508": {
-        "zh": "三藏",
+        "zh": "\u4E09\u85CF",
         "en": "Sanzang",
         "py": "sc",
         "tag": "C8A"
     },
     "PZSB509": {
-        "zh": "八戒",
+        "zh": "\u516B\u6212",
         "en": "Bajie",
         "py": "bj",
         "tag": "C9B"
     },
     "PZSB519": {
-        "zh": "悟净",
+        "zh": "\u609F\u51C0",
         "en": "Wujing",
         "py": "wj",
         "tag": "C9B"
     },
     "PZSB529": {
-        "zh": "载之",
+        "zh": "\u8F7D\u4E4B",
         "en": "Sun Yat-Sen",
         "py": "zz",
         "tag": "C9B"
     },
     "PZSC101": {
-        "zh": "成安",
+        "zh": "\u6210\u5B89",
         "en": "Chengan",
         "py": "ca",
         "tag": "C1C"
     },
     "PZSC105": {
-        "zh": "重庆",
+        "zh": "\u91CD\u5E86",
         "en": "Chungking",
         "py": "zq",
         "tag": "C5C"
     },
     "PZSC106": {
-        "zh": "拉赫马特",
+        "zh": "\u62C9\u8D6B\u9A6C\u7279",
         "en": "Rahmat",
         "py": "lhmt",
         "tag": "C6C"
     },
     "PZSC107": {
-        "zh": "春蓬",
+        "zh": "\u6625\u84EC",
         "en": "Chumphon",
         "py": "cp",
         "tag": "C7C"
     },
     "PZSC108": {
-        "zh": "哈尔滨",
+        "zh": "\u54C8\u5C14\u6EE8",
         "en": "Harbin",
         "py": "heb",
         "tag": "C8C"
     },
     "PZSC109": {
-        "zh": "世宗",
+        "zh": "\u4E16\u5B97",
         "en": "Sejong",
         "py": "sz",
         "tag": "C9C"
     },
     "PZSC110": {
-        "zh": "济南",
+        "zh": "\u6D4E\u5357",
         "en": "Jinan",
         "py": "jn",
         "tag": "C10C"
     },
     "PZSC503": {
-        "zh": "宁海",
+        "zh": "\u5B81\u6D77",
         "en": "Ning Hai",
         "py": "nh",
         "tag": "C3C"
     },
     "PZSC506": {
-        "zh": "黄河",
+        "zh": "\u9EC4\u6CB3",
         "en": "Huanghe",
         "py": "hh",
         "tag": "C6C"
     },
     "PZSC508": {
-        "zh": "伊里安",
+        "zh": "\u4F0A\u91CC\u5B89",
         "en": "Irian",
         "py": "yla",
         "tag": "C8C"
     },
     "PZSC509": {
-        "zh": "大连",
+        "zh": "\u5927\u8FDE",
         "en": "Dalian",
         "py": "dl",
         "tag": "C9C"
     },
     "PZSC518": {
-        "zh": "悟空",
+        "zh": "\u609F\u7A7A",
         "en": "Wukong",
         "py": "wk",
         "tag": "C8C"
     },
     "PZSD102": {
-        "zh": "龙江",
+        "zh": "\u9F99\u6C5F",
         "en": "Longjiang",
         "py": "lj",
         "tag": "C2D"
     },
     "PZSD103": {
-        "zh": "帕禳",
+        "zh": "\u5E15\u79B3",
         "en": "Phra Ruang",
         "py": "pr",
         "tag": "C3D"
     },
     "PZSD104": {
-        "zh": "沈阳",
+        "zh": "\u6C88\u9633",
         "en": "Shenyang",
         "py": "sy",
         "tag": "C4D"
     },
     "PZSD105": {
-        "zh": "建威",
+        "zh": "\u5EFA\u5A01",
         "en": "Jianwei",
         "py": "jw",
         "tag": "C5D"
     },
     "PZSD106": {
-        "zh": "抚顺",
+        "zh": "\u629A\u987A",
         "en": "Fushun",
         "py": "fs",
         "tag": "C6D"
     },
     "PZSD107": {
-        "zh": "加札马达",
+        "zh": "\u52A0\u672D\u9A6C\u8FBE",
         "en": "Gadjah Mada",
         "py": "jzmd",
         "tag": "C7D"
     },
     "PZSD108": {
-        "zh": "咸阳",
+        "zh": "\u54B8\u9633",
         "en": "Hsienyang",
         "py": "xy",
         "tag": "C8D"
     },
     "PZSD109": {
-        "zh": "忠武",
+        "zh": "\u5FE0\u6B66",
         "en": "Chung Mu",
         "py": "zw",
         "tag": "C9D"
     },
     "PZSD110": {
-        "zh": "岳阳",
+        "zh": "\u5CB3\u9633",
         "en": "Yueyang",
         "py": "yy",
         "tag": "C10D"
     },
     "PZSD111": {
-        "zh": "昆明",
+        "zh": "\u6606\u660E",
         "en": "Kunming",
         "py": "km",
         "tag": "C11D"
     },
     "PZSD208": {
-        "zh": "西利旺义",
+        "zh": "\u897F\u5229\u65FA\u4E49",
         "en": "Siliwangi",
         "py": "xlwy",
         "tag": "C8D"
     },
     "PZSD506": {
-        "zh": "鞍山",
+        "zh": "\u978D\u5C71",
         "en": "Anshan",
         "py": "as",
         "tag": "C6D"
     },
     "PZSD508": {
-        "zh": "洛阳",
+        "zh": "\u6D1B\u9633",
         "en": "Loyang",
         "py": "ly",
         "tag": "C8D"
     },
     "PZSD518": {
-        "zh": "汾阳",
+        "zh": "\u6C7E\u9633",
         "en": "Fenyang",
         "py": "fy",
         "tag": "C8D"
     },
     "PZSD598": {
-        "zh": "洛阳B",
+        "zh": "\u6D1B\u9633B",
         "en": "Loyang B",
         "py": "lyB",
         "tag": "C8D"
